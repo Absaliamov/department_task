@@ -1,0 +1,3671 @@
+Callsign: SBI5108
+Flight model: Boeing 737-83N
+Date: 2023-10-12 01:39:18.743420
+
+Runway: RWY 06/24
+Distance: 117.0Latitude: 44.21Longtitude: 40.96
+Distance: 131.0Latitude: 44.09Longtitude: 41.32
+Distance: 137.0Latitude: 44.1Longtitude: 41.4
+Distance: 143.0Latitude: 44.11Longtitude: 41.48
+Distance: 148.0Latitude: 44.12Longtitude: 41.55
+Distance: 145.0Latitude: 44.12Longtitude: 41.5
+Distance: 154.0Latitude: 44.12Longtitude: 41.64
+Distance: 154.0Latitude: 44.12Longtitude: 41.64
+Distance: 164.0Latitude: 44.11Longtitude: 41.79
+Distance: 166.0Latitude: 44.11Longtitude: 41.81
+Distance: 176.0Latitude: 44.11Longtitude: 41.95
+Distance: 178.0Latitude: 44.11Longtitude: 41.98
+Distance: 183.0Latitude: 44.1Longtitude: 42.05
+Distance: 182.0Latitude: 44.1Longtitude: 42.04
+Distance: 187.0Latitude: 44.1Longtitude: 42.11
+Distance: 193.0Latitude: 44.1Longtitude: 42.18
+Distance: 196.0Latitude: 44.1Longtitude: 42.22
+Distance: 199.0Latitude: 44.1Longtitude: 42.27
+
+Callsign: AZV4067
+Flight model: Boeing 767-3Y0(ER)
+Date: 2023-10-12 01:55:15.283136
+
+Runway: N/A
+Distance: 129.0Latitude: 44.08Longtitude: 41.31
+Distance: 131.0Latitude: 44.09Longtitude: 41.33
+Distance: 137.0Latitude: 44.1Longtitude: 41.4
+Distance: 141.0Latitude: 44.11Longtitude: 41.46
+Distance: 136.0Latitude: 44.1Longtitude: 41.39
+Distance: 152.0Latitude: 44.11Longtitude: 41.61
+Distance: 157.0Latitude: 44.11Longtitude: 41.68
+Distance: 154.0Latitude: 44.11Longtitude: 41.65
+Distance: 161.0Latitude: 44.1Longtitude: 41.75
+Distance: 170.0Latitude: 44.08Longtitude: 41.89
+Distance: 172.0Latitude: 44.08Longtitude: 41.91
+Distance: 175.0Latitude: 44.07Longtitude: 41.96
+Distance: 179.0Latitude: 44.05Longtitude: 42.02
+Distance: 184.0Latitude: 44.04Longtitude: 42.09
+Distance: 179.0Latitude: 44.06Longtitude: 42.02
+Distance: 184.0Latitude: 44.05Longtitude: 42.09
+Distance: 194.0Latitude: 44.03Longtitude: 42.23
+
+Callsign: SDM6568
+Flight model: Airbus A320-214
+Date: 2023-10-12 02:42:16.055404
+
+Runway: RWY 06/24
+Distance: 119.0Latitude: 44.06Longtitude: 41.18
+Distance: 127.0Latitude: 44.07Longtitude: 41.28
+Distance: 127.0Latitude: 44.08Longtitude: 41.28
+Distance: 135.0Latitude: 44.09Longtitude: 41.38
+Distance: 136.0Latitude: 44.1Longtitude: 41.39
+Distance: 141.0Latitude: 44.11Longtitude: 41.46
+Distance: 145.0Latitude: 44.11Longtitude: 41.52
+Distance: 147.0Latitude: 44.12Longtitude: 41.54
+Distance: 155.0Latitude: 44.13Longtitude: 41.64
+Distance: 157.0Latitude: 44.13Longtitude: 41.67
+Distance: 173.0Latitude: 44.13Longtitude: 41.9
+Distance: 173.0Latitude: 44.13Longtitude: 41.9
+Distance: 181.0Latitude: 44.12Longtitude: 42.01
+Distance: 177.0Latitude: 44.13Longtitude: 41.95
+Distance: 193.0Latitude: 44.13Longtitude: 42.17
+Distance: 194.0Latitude: 44.13Longtitude: 42.18
+Distance: 199.0Latitude: 44.13Longtitude: 42.25
+
+Callsign: SVR170
+Flight model: Airbus A320-232
+Date: 2023-10-12 02:43:17.247381
+
+Runway: N/A
+Distance: 195.0Latitude: 44.13Longtitude: 42.19
+Distance: 197.0Latitude: 44.19Longtitude: 42.19
+
+Callsign: AFL2932
+Flight model: Airbus A320-214
+Date: 2023-10-12 11:39:06.734512
+
+Runway: N/A
+Distance: 198.0Latitude: 44.1Longtitude: 42.25
+
+Callsign: N/A
+Flight model: Airbus A320-214
+Date: 2023-10-12 11:46:57.607001
+
+Runway: RWY 06/24
+Distance: 159.0Latitude: 44.12Longtitude: 41.7
+Distance: 164.0Latitude: 44.11Longtitude: 41.79
+Distance: 168.0Latitude: 44.11Longtitude: 41.84
+Distance: 170.0Latitude: 44.11Longtitude: 41.86
+Distance: 175.0Latitude: 44.11Longtitude: 41.93
+Distance: 180.0Latitude: 44.1Longtitude: 42.01
+Distance: 184.0Latitude: 44.1Longtitude: 42.07
+Distance: 189.0Latitude: 44.1Longtitude: 42.13
+Distance: 190.0Latitude: 44.1Longtitude: 42.14
+Distance: 111.0Latitude: 44.04Longtitude: 41.07
+Distance: 117.0Latitude: 44.05Longtitude: 41.16
+Distance: 123.0Latitude: 44.07Longtitude: 41.22
+Distance: 127.0Latitude: 44.08Longtitude: 41.27
+Distance: 129.0Latitude: 44.08Longtitude: 41.3
+Distance: 147.0Latitude: 44.12Longtitude: 41.54
+Distance: 153.0Latitude: 44.12Longtitude: 41.62
+Distance: 158.0Latitude: 44.12Longtitude: 41.69
+Distance: 160.0Latitude: 44.12Longtitude: 41.72
+Distance: 164.0Latitude: 44.11Longtitude: 41.79
+Distance: 165.0Latitude: 44.11Longtitude: 41.8
+Distance: 167.0Latitude: 44.11Longtitude: 41.83
+Distance: 172.0Latitude: 44.11Longtitude: 41.9
+Distance: 180.0Latitude: 44.1Longtitude: 42.01
+Distance: 182.0Latitude: 44.1Longtitude: 42.04
+Distance: 190.0Latitude: 44.1Longtitude: 42.14
+Distance: 192.0Latitude: 44.1Longtitude: 42.17
+Distance: 198.0Latitude: 44.09Longtitude: 42.26
+Distance: 154.0Latitude: 44.11Longtitude: 41.64
+Distance: 154.0Latitude: 44.11Longtitude: 41.65
+Distance: 158.0Latitude: 44.11Longtitude: 41.7
+Distance: 161.0Latitude: 44.11Longtitude: 41.74
+Distance: 117.0Latitude: 44.05Longtitude: 41.15
+Distance: 122.0Latitude: 44.07Longtitude: 41.21
+Distance: 127.0Latitude: 44.08Longtitude: 41.27
+Distance: 131.0Latitude: 44.09Longtitude: 41.32
+Distance: 131.0Latitude: 44.09Longtitude: 41.32
+Distance: 135.0Latitude: 44.1Longtitude: 41.38
+Distance: 140.0Latitude: 44.11Longtitude: 41.44
+Distance: 143.0Latitude: 44.12Longtitude: 41.47
+Distance: 135.0Latitude: 44.1Longtitude: 41.37
+Distance: 137.0Latitude: 44.14Longtitude: 41.37
+Distance: 139.0Latitude: 44.17Longtitude: 41.37
+Distance: 156.0Latitude: 44.13Longtitude: 41.65
+Distance: 161.0Latitude: 44.14Longtitude: 41.72
+Distance: 149.0Latitude: 44.12Longtitude: 41.57
+Distance: 156.0Latitude: 44.12Longtitude: 41.66
+
+Callsign: AFL2934
+Flight model: Airbus A320-214
+Date: 2023-10-12 11:50:03.748215
+
+Runway: N/A
+Distance: 197.0Latitude: 44.09Longtitude: 42.24
+
+Callsign: KAR429
+Flight model: Boeing 737-9GP(ER)
+Date: 2023-10-12 11:56:56.738120
+
+Runway: RWY 06/24
+Distance: 140.0Latitude: 44.11Longtitude: 41.44
+Distance: 143.0Latitude: 44.12Longtitude: 41.48
+Distance: 148.0Latitude: 44.12Longtitude: 41.55
+Distance: 154.0Latitude: 44.12Longtitude: 41.63
+Distance: 159.0Latitude: 44.12Longtitude: 41.7
+Distance: 160.0Latitude: 44.12Longtitude: 41.72
+Distance: 161.0Latitude: 44.12Longtitude: 41.73
+Distance: 167.0Latitude: 44.11Longtitude: 41.83
+Distance: 175.0Latitude: 44.11Longtitude: 41.93
+Distance: 180.0Latitude: 44.1Longtitude: 42.01
+Distance: 180.0Latitude: 44.1Longtitude: 42.01
+Distance: 181.0Latitude: 44.1Longtitude: 42.03
+Distance: 186.0Latitude: 44.1Longtitude: 42.09
+Distance: 190.0Latitude: 44.1Longtitude: 42.15
+
+Callsign: AFL1139
+Flight model: Airbus A321-251NX
+Date: 2023-10-12 12:00:44.744351
+
+Runway: N/A
+Distance: 152.0Latitude: 44.12Longtitude: 41.6
+Distance: 154.0Latitude: 44.12Longtitude: 41.64
+Distance: 159.0Latitude: 44.12Longtitude: 41.71
+Distance: 164.0Latitude: 44.12Longtitude: 41.78
+Distance: 170.0Latitude: 44.11Longtitude: 41.86
+Distance: 171.0Latitude: 44.11Longtitude: 41.88
+Distance: 175.0Latitude: 44.11Longtitude: 41.94
+Distance: 182.0Latitude: 44.1Longtitude: 42.04
+Distance: 185.0Latitude: 44.1Longtitude: 42.08
+Distance: 191.0Latitude: 44.1Longtitude: 42.16
+Distance: 193.0Latitude: 44.1Longtitude: 42.18
+
+Callsign: SVR186
+Flight model: Airbus A321-211
+Date: 2023-10-12 12:05:15.282468
+
+Runway: N/A
+Distance: 155.0Latitude: 44.12Longtitude: 41.65
+Distance: 157.0Latitude: 44.12Longtitude: 41.68
+Distance: 166.0Latitude: 44.11Longtitude: 41.81
+Distance: 169.0Latitude: 44.11Longtitude: 41.85
+Distance: 172.0Latitude: 44.11Longtitude: 41.9
+Distance: 174.0Latitude: 44.11Longtitude: 41.92
+Distance: 181.0Latitude: 44.1Longtitude: 42.02
+Distance: 186.0Latitude: 44.1Longtitude: 42.09
+Distance: 189.0Latitude: 44.1Longtitude: 42.13
+Distance: 194.0Latitude: 44.1Longtitude: 42.2
+Distance: 199.0Latitude: 44.09Longtitude: 42.27
+
+Callsign: AZO755
+Flight model: Sukhoi Superjet 100-95B
+Date: 2023-10-12 12:17:39.116383
+
+Runway: N/A
+Distance: 181.0Latitude: 44.13Longtitude: 42.0
+Distance: 188.0Latitude: 44.14Longtitude: 42.09
+Distance: 190.0Latitude: 44.14Longtitude: 42.12
+Distance: 198.0Latitude: 44.14Longtitude: 42.23
+
+Callsign: SVR124
+Flight model: Airbus A321-251NX
+Date: 2023-10-12 12:18:41.072357
+
+Runway: N/A
+Distance: 155.0Latitude: 44.12Longtitude: 41.65
+Distance: 159.0Latitude: 44.12Longtitude: 41.71
+Distance: 161.0Latitude: 44.12Longtitude: 41.74
+Distance: 172.0Latitude: 44.12Longtitude: 41.89
+Distance: 173.0Latitude: 44.11Longtitude: 41.91
+Distance: 175.0Latitude: 44.11Longtitude: 41.93
+Distance: 182.0Latitude: 44.11Longtitude: 42.03
+Distance: 187.0Latitude: 44.1Longtitude: 42.11
+Distance: 189.0Latitude: 44.1Longtitude: 42.13
+Distance: 194.0Latitude: 44.1Longtitude: 42.2
+Distance: 196.0Latitude: 44.1Longtitude: 42.23
+
+Callsign: SVR222
+Flight model: Airbus A320-232
+Date: 2023-10-12 12:22:07.808150
+
+Runway: RWY 06/24
+Distance: 134.0Latitude: 44.1Longtitude: 41.36
+Distance: 139.0Latitude: 44.11Longtitude: 41.42
+Distance: 164.0Latitude: 44.12Longtitude: 41.78
+Distance: 167.0Latitude: 44.12Longtitude: 41.82
+Distance: 174.0Latitude: 44.11Longtitude: 41.92
+Distance: 179.0Latitude: 44.11Longtitude: 41.99
+Distance: 183.0Latitude: 44.1Longtitude: 42.05
+Distance: 184.0Latitude: 44.1Longtitude: 42.06
+Distance: 187.0Latitude: 44.1Longtitude: 42.11
+Distance: 197.0Latitude: 44.1Longtitude: 42.24
+
+Callsign: SVR2661
+Flight model: Airbus A320-214
+Date: 2023-10-12 13:09:45.630908
+
+Runway: RWY 06/24
+Distance: 174.0Latitude: 44.1Longtitude: 41.93
+Distance: 178.0Latitude: 44.1Longtitude: 41.98
+Distance: 184.0Latitude: 44.1Longtitude: 42.07
+Distance: 187.0Latitude: 44.1Longtitude: 42.11
+Distance: 190.0Latitude: 44.1Longtitude: 42.15
+Distance: 196.0Latitude: 44.1Longtitude: 42.22
+Distance: 196.0Latitude: 44.1Longtitude: 42.22
+
+Callsign: SVR234
+Flight model: Airbus A320-214
+Date: 2023-10-12 13:29:42.595883
+
+Runway: RWY 06/24
+Distance: 170.0Latitude: 44.11Longtitude: 41.87
+Distance: 175.0Latitude: 44.11Longtitude: 41.93
+Distance: 176.0Latitude: 44.11Longtitude: 41.95
+Distance: 177.0Latitude: 44.11Longtitude: 41.96
+Distance: 187.0Latitude: 44.1Longtitude: 42.11
+Distance: 190.0Latitude: 44.1Longtitude: 42.15
+Distance: 194.0Latitude: 44.1Longtitude: 42.2
+Distance: 198.0Latitude: 44.09Longtitude: 42.26
+
+Callsign: PBD343
+Flight model: Boeing 737-8MC
+Date: 2023-10-12 13:34:08.038567
+
+Runway: RWY 06/24
+Distance: 166.0Latitude: 44.11Longtitude: 41.81
+Distance: 173.0Latitude: 44.11Longtitude: 41.91
+Distance: 179.0Latitude: 44.1Longtitude: 41.99
+Distance: 183.0Latitude: 44.1Longtitude: 42.05
+Distance: 179.0Latitude: 44.1Longtitude: 41.99
+Distance: 184.0Latitude: 44.1Longtitude: 42.06
+Distance: 188.0Latitude: 44.1Longtitude: 42.12
+Distance: 193.0Latitude: 44.1Longtitude: 42.18
+
+Callsign: SBI2044
+Flight model: Airbus A321-211
+Date: 2023-10-12 13:34:28.614402
+
+Runway: N/A
+Distance: 196.0Latitude: 44.1Longtitude: 42.22
+
+Callsign: AUL877
+Flight model: Boeing 737-8AL
+Date: 2023-10-12 13:45:05.901255
+
+Runway: RWY 06/24
+Distance: 186.0Latitude: 44.1Longtitude: 42.09
+Distance: 193.0Latitude: 44.1Longtitude: 42.19
+Distance: 196.0Latitude: 44.1Longtitude: 42.23
+Distance: 198.0Latitude: 44.1Longtitude: 42.25
+
+Callsign: SDM6564
+Flight model: Boeing 737-8LJ
+Date: 2023-10-12 13:54:45.524280
+
+Runway: RWY 06/24
+Distance: 161.0Latitude: 44.12Longtitude: 41.73
+Distance: 167.0Latitude: 44.12Longtitude: 41.82
+Distance: 169.0Latitude: 44.12Longtitude: 41.84
+Distance: 170.0Latitude: 44.11Longtitude: 41.87
+Distance: 178.0Latitude: 44.11Longtitude: 41.97
+Distance: 179.0Latitude: 44.11Longtitude: 41.99
+Distance: 183.0Latitude: 44.1Longtitude: 42.05
+Distance: 187.0Latitude: 44.1Longtitude: 42.1
+Distance: 194.0Latitude: 44.1Longtitude: 42.2
+Distance: 198.0Latitude: 44.09Longtitude: 42.26
+
+Callsign: AFL2956
+Flight model: Airbus A320-214
+Date: 2023-10-12 14:04:18.503920
+
+Runway: RWY 06/24
+Distance: 170.0Latitude: 44.14Longtitude: 41.84
+Distance: 170.0Latitude: 44.13Longtitude: 41.86
+Distance: 173.0Latitude: 44.14Longtitude: 41.89
+Distance: 180.0Latitude: 44.14Longtitude: 41.98
+Distance: 181.0Latitude: 44.14Longtitude: 42.0
+Distance: 185.0Latitude: 44.14Longtitude: 42.06
+Distance: 191.0Latitude: 44.14Longtitude: 42.14
+Distance: 199.0Latitude: 44.14Longtitude: 42.24
+
+Callsign: SBI5104
+Flight model: Boeing 737-83N
+Date: 2023-10-12 14:08:26.005816
+
+Runway: RWY 06/24
+Distance: 145.0Latitude: 43.89Longtitude: 41.66
+Distance: 150.0Latitude: 43.89Longtitude: 41.72
+Distance: 156.0Latitude: 43.9Longtitude: 41.79
+Distance: 156.0Latitude: 43.9Longtitude: 41.79
+Distance: 170.0Latitude: 43.9Longtitude: 41.98
+Distance: 170.0Latitude: 43.9Longtitude: 41.98
+Distance: 177.0Latitude: 43.9Longtitude: 42.07
+Distance: 183.0Latitude: 43.9Longtitude: 42.15
+Distance: 187.0Latitude: 43.91Longtitude: 42.19
+Distance: 191.0Latitude: 43.91Longtitude: 42.24
+Distance: 198.0Latitude: 43.91Longtitude: 42.34
+
+Callsign: SDM6781
+Flight model: Sukhoi Superjet 100-95B
+Date: 2023-10-12 14:11:10.548694
+
+Runway: N/A
+Distance: 169.0Latitude: 42.1Longtitude: 40.92
+Distance: 175.0Latitude: 42.06Longtitude: 40.96
+Distance: 178.0Latitude: 42.04Longtitude: 40.98
+Distance: 182.0Latitude: 42.01Longtitude: 41.01
+Distance: 187.0Latitude: 41.97Longtitude: 41.05
+Distance: 192.0Latitude: 41.94Longtitude: 41.09
+Distance: 194.0Latitude: 41.92Longtitude: 41.11
+Distance: 200.0Latitude: 41.88Longtitude: 41.15
+
+Callsign: PBD329
+Flight model: Boeing 737-8MC
+Date: 2023-10-12 14:12:12.548187
+
+Runway: RWY 06/24
+Distance: 152.0Latitude: 44.12Longtitude: 41.6
+Distance: 153.0Latitude: 44.12Longtitude: 41.62
+Distance: 160.0Latitude: 44.12Longtitude: 41.72
+Distance: 161.0Latitude: 44.12Longtitude: 41.74
+Distance: 167.0Latitude: 44.11Longtitude: 41.83
+Distance: 169.0Latitude: 44.11Longtitude: 41.85
+Distance: 173.0Latitude: 44.11Longtitude: 41.91
+Distance: 179.0Latitude: 44.1Longtitude: 42.0
+Distance: 178.0Latitude: 44.11Longtitude: 41.98
+Distance: 182.0Latitude: 44.1Longtitude: 42.04
+Distance: 190.0Latitude: 44.1Longtitude: 42.14
+Distance: 196.0Latitude: 44.1Longtitude: 42.23
+Distance: 193.0Latitude: 44.1Longtitude: 42.18
+Distance: 198.0Latitude: 44.1Longtitude: 42.25
+
+Callsign: SVR278
+Flight model: Airbus A320-232
+Date: 2023-10-12 14:34:41.582608
+
+Runway: RWY 06/24
+Distance: 101.0Latitude: 44.03Longtitude: 40.92
+Distance: 106.0Latitude: 44.05Longtitude: 40.98
+Distance: 109.0Latitude: 44.06Longtitude: 41.02
+Distance: 114.0Latitude: 44.07Longtitude: 41.08
+Distance: 119.0Latitude: 44.09Longtitude: 41.15
+Distance: 122.0Latitude: 44.1Longtitude: 41.18
+Distance: 127.0Latitude: 44.11Longtitude: 41.24
+Distance: 132.0Latitude: 44.13Longtitude: 41.31
+Distance: 137.0Latitude: 44.14Longtitude: 41.37
+Distance: 140.0Latitude: 44.15Longtitude: 41.4
+Distance: 145.0Latitude: 44.17Longtitude: 41.47
+Distance: 150.0Latitude: 44.18Longtitude: 41.53
+Distance: 156.0Latitude: 44.2Longtitude: 41.6
+Distance: 159.0Latitude: 44.21Longtitude: 41.63
+
+Callsign: AFL1117
+Flight model: Airbus A321-211
+Date: 2023-10-12 14:36:05.030531
+
+Runway: N/A
+Distance: 162.0Latitude: 44.12Longtitude: 41.75
+Distance: 167.0Latitude: 44.11Longtitude: 41.82
+Distance: 171.0Latitude: 44.11Longtitude: 41.88
+Distance: 175.0Latitude: 44.11Longtitude: 41.93
+Distance: 178.0Latitude: 44.1Longtitude: 41.98
+Distance: 181.0Latitude: 44.1Longtitude: 42.02
+Distance: 187.0Latitude: 44.1Longtitude: 42.11
+Distance: 192.0Latitude: 44.1Longtitude: 42.17
+Distance: 197.0Latitude: 44.09Longtitude: 42.24
+
+Callsign: PBD306
+Flight model: Boeing 737-8LJ
+Date: 2023-10-12 14:39:54.211537
+
+Runway: RWY 06/24
+Distance: 129.0Latitude: 43.87Longtitude: 41.45
+Distance: 130.0Latitude: 43.87Longtitude: 41.46
+Distance: 133.0Latitude: 43.87Longtitude: 41.5
+Distance: 144.0Latitude: 43.87Longtitude: 41.65
+Distance: 146.0Latitude: 43.87Longtitude: 41.68
+Distance: 154.0Latitude: 43.88Longtitude: 41.78
+Distance: 157.0Latitude: 43.88Longtitude: 41.82
+Distance: 162.0Latitude: 43.88Longtitude: 41.88
+Distance: 158.0Latitude: 43.88Longtitude: 41.83
+Distance: 165.0Latitude: 43.88Longtitude: 41.92
+Distance: 173.0Latitude: 43.88Longtitude: 42.02
+Distance: 179.0Latitude: 43.89Longtitude: 42.1
+Distance: 181.0Latitude: 43.89Longtitude: 42.12
+Distance: 185.0Latitude: 43.89Longtitude: 42.18
+Distance: 189.0Latitude: 43.89Longtitude: 42.23
+Distance: 197.0Latitude: 43.89Longtitude: 42.33
+Distance: 196.0Latitude: 43.89Longtitude: 42.31
+
+Callsign: PBD331
+Flight model: Boeing 737-8LJ
+Date: 2023-10-12 14:54:56.209119
+
+Runway: RWY 06/24
+Distance: 164.0Latitude: 44.12Longtitude: 41.77
+Distance: 172.0Latitude: 44.11Longtitude: 41.89
+Distance: 176.0Latitude: 44.11Longtitude: 41.95
+Distance: 179.0Latitude: 44.11Longtitude: 41.99
+Distance: 183.0Latitude: 44.1Longtitude: 42.05
+Distance: 187.0Latitude: 44.1Longtitude: 42.11
+Distance: 193.0Latitude: 44.1Longtitude: 42.18
+Distance: 190.0Latitude: 44.1Longtitude: 42.14
+Distance: 194.0Latitude: 44.1Longtitude: 42.2
+Distance: 198.0Latitude: 44.09Longtitude: 42.26
+
+Callsign: UTA268
+Flight model: Boeing 737-8EH
+Date: 2023-10-12 14:55:36.937692
+
+Runway: RWY 06/24
+Distance: 115.0Latitude: 44.05Longtitude: 41.13
+Distance: 116.0Latitude: 44.05Longtitude: 41.14
+Distance: 121.0Latitude: 44.06Longtitude: 41.2
+Distance: 126.0Latitude: 44.08Longtitude: 41.26
+Distance: 131.0Latitude: 44.09Longtitude: 41.33
+Distance: 141.0Latitude: 44.11Longtitude: 41.46
+Distance: 143.0Latitude: 44.12Longtitude: 41.48
+Distance: 151.0Latitude: 44.13Longtitude: 41.59
+Distance: 152.0Latitude: 44.12Longtitude: 41.61
+Distance: 153.0Latitude: 44.12Longtitude: 41.62
+Distance: 159.0Latitude: 44.12Longtitude: 41.7
+Distance: 163.0Latitude: 44.12Longtitude: 41.76
+Distance: 164.0Latitude: 44.12Longtitude: 41.77
+Distance: 168.0Latitude: 44.12Longtitude: 41.83
+Distance: 172.0Latitude: 44.11Longtitude: 41.89
+Distance: 174.0Latitude: 44.11Longtitude: 41.92
+Distance: 176.0Latitude: 44.11Longtitude: 41.95
+Distance: 182.0Latitude: 44.1Longtitude: 42.04
+Distance: 189.0Latitude: 44.1Longtitude: 42.13
+Distance: 193.0Latitude: 44.09Longtitude: 42.19
+
+Callsign: PBD337
+Flight model: Boeing 737-8LJ
+Date: 2023-10-12 15:16:04.178211
+
+Runway: RWY 06/24
+Distance: 113.0Latitude: 44.04Longtitude: 41.1
+Distance: 115.0Latitude: 44.05Longtitude: 41.12
+Distance: 116.0Latitude: 44.05Longtitude: 41.14
+Distance: 116.0Latitude: 44.05Longtitude: 41.14
+Distance: 129.0Latitude: 44.08Longtitude: 41.3
+Distance: 136.0Latitude: 44.1Longtitude: 41.39
+Distance: 137.0Latitude: 44.1Longtitude: 41.4
+Distance: 145.0Latitude: 44.12Longtitude: 41.5
+Distance: 149.0Latitude: 44.12Longtitude: 41.56
+Distance: 153.0Latitude: 44.12Longtitude: 41.62
+Distance: 157.0Latitude: 44.12Longtitude: 41.68
+Distance: 161.0Latitude: 44.12Longtitude: 41.74
+Distance: 166.0Latitude: 44.11Longtitude: 41.81
+Distance: 167.0Latitude: 44.11Longtitude: 41.83
+Distance: 174.0Latitude: 44.11Longtitude: 41.92
+Distance: 177.0Latitude: 44.1Longtitude: 41.97
+Distance: 178.0Latitude: 44.1Longtitude: 41.98
+Distance: 185.0Latitude: 44.1Longtitude: 42.08
+Distance: 191.0Latitude: 44.1Longtitude: 42.16
+Distance: 194.0Latitude: 44.1Longtitude: 42.2
+Distance: 199.0Latitude: 44.1Longtitude: 42.26
+
+Callsign: AUL546
+Flight model: Boeing 737-8Q8
+Date: 2023-10-12 15:20:11.585829
+
+Runway: RWY 06/24
+Distance: 111.0Latitude: 44.04Longtitude: 41.07
+Distance: 114.0Latitude: 44.05Longtitude: 41.11
+Distance: 119.0Latitude: 44.06Longtitude: 41.18
+Distance: 125.0Latitude: 44.08Longtitude: 41.25
+Distance: 131.0Latitude: 44.09Longtitude: 41.32
+Distance: 133.0Latitude: 44.1Longtitude: 41.35
+Distance: 139.0Latitude: 44.11Longtitude: 41.42
+Distance: 144.0Latitude: 44.13Longtitude: 41.49
+Distance: 147.0Latitude: 44.13Longtitude: 41.52
+Distance: 152.0Latitude: 44.15Longtitude: 41.59
+Distance: 158.0Latitude: 44.16Longtitude: 41.66
+Distance: 161.0Latitude: 44.17Longtitude: 41.7
+
+Callsign: SVR155
+Flight model: Airbus A320-214
+Date: 2023-10-12 04:10:54.541527
+
+Runway: N/A
+Distance: 198.0Latitude: 43.67Longtitude: 42.4
+Distance: 197.0Latitude: 43.67Longtitude: 42.38
+Distance: 193.0Latitude: 43.67Longtitude: 42.33
+Distance: 189.0Latitude: 43.68Longtitude: 42.28
+Distance: 184.0Latitude: 43.68Longtitude: 42.22
+Distance: 183.0Latitude: 43.68Longtitude: 42.2
+Distance: 178.0Latitude: 43.68Longtitude: 42.14
+Distance: 173.0Latitude: 43.68Longtitude: 42.08
+Distance: 168.0Latitude: 43.67Longtitude: 42.02
+Distance: 183.0Latitude: 43.68Longtitude: 42.2
+Distance: 163.0Latitude: 43.68Longtitude: 41.95
+Distance: 161.0Latitude: 43.68Longtitude: 41.93
+Distance: 158.0Latitude: 43.68Longtitude: 41.89
+Distance: 153.0Latitude: 43.68Longtitude: 41.83
+Distance: 155.0Latitude: 43.68Longtitude: 41.86
+Distance: 151.0Latitude: 43.68Longtitude: 41.8
+Distance: 147.0Latitude: 43.68Longtitude: 41.75
+Distance: 137.0Latitude: 43.68Longtitude: 41.63
+Distance: 132.0Latitude: 43.68Longtitude: 41.56
+Distance: 126.0Latitude: 43.68Longtitude: 41.49
+Distance: 124.0Latitude: 43.68Longtitude: 41.46
+Distance: 119.0Latitude: 43.68Longtitude: 41.4
+Distance: 114.0Latitude: 43.68Longtitude: 41.34
+Distance: 120.0Latitude: 43.69Longtitude: 41.41
+Distance: 113.0Latitude: 43.69Longtitude: 41.32
+Distance: 111.0Latitude: 43.69Longtitude: 41.3
+Distance: 107.0Latitude: 43.69Longtitude: 41.24
+Distance: 103.0Latitude: 43.69Longtitude: 41.19
+Distance: 101.0Latitude: 43.69Longtitude: 41.16
+Distance: 96.0Latitude: 43.68Longtitude: 41.1
+Distance: 91.0Latitude: 43.67Longtitude: 41.04
+Distance: 88.0Latitude: 43.67Longtitude: 41.0
+Distance: 83.0Latitude: 43.66Longtitude: 40.94
+
+Callsign: SVR233
+Flight model: Airbus A320-214
+Date: 2023-10-12 11:08:57.445305
+
+Runway: N/A
+Distance: 155.0Latitude: 43.68Longtitude: 41.86
+Distance: 151.0Latitude: 43.68Longtitude: 41.8
+Distance: 146.0Latitude: 43.68Longtitude: 41.74
+Distance: 141.0Latitude: 43.68Longtitude: 41.68
+Distance: 138.0Latitude: 43.68Longtitude: 41.64
+Distance: 133.0Latitude: 43.68Longtitude: 41.58
+Distance: 129.0Latitude: 43.68Longtitude: 41.53
+Distance: 125.0Latitude: 43.68Longtitude: 41.48
+Distance: 121.0Latitude: 43.68Longtitude: 41.43
+Distance: 117.0Latitude: 43.68Longtitude: 41.37
+
+Callsign: SBI6347
+Flight model: Airbus A320-271N
+Date: 2023-10-12 11:09:38.139881
+
+Runway: N/A
+Distance: 200.0Latitude: 43.67Longtitude: 42.42
+Distance: 198.0Latitude: 43.67Longtitude: 42.4
+Distance: 192.0Latitude: 43.67Longtitude: 42.32
+Distance: 188.0Latitude: 43.68Longtitude: 42.27
+Distance: 184.0Latitude: 43.68Longtitude: 42.22
+Distance: 179.0Latitude: 43.68Longtitude: 42.16
+Distance: 175.0Latitude: 43.68Longtitude: 42.11
+Distance: 172.0Latitude: 43.68Longtitude: 42.07
+Distance: 167.0Latitude: 43.68Longtitude: 42.01
+Distance: 162.0Latitude: 43.68Longtitude: 41.94
+Distance: 158.0Latitude: 43.68Longtitude: 41.89
+Distance: 153.0Latitude: 43.68Longtitude: 41.83
+Distance: 152.0Latitude: 43.68Longtitude: 41.82
+Distance: 147.0Latitude: 43.68Longtitude: 41.75
+Distance: 142.0Latitude: 43.68Longtitude: 41.69
+Distance: 137.0Latitude: 43.68Longtitude: 41.63
+Distance: 136.0Latitude: 43.68Longtitude: 41.61
+Distance: 131.0Latitude: 43.68Longtitude: 41.55
+Distance: 127.0Latitude: 43.68Longtitude: 41.5
+Distance: 125.0Latitude: 43.68Longtitude: 41.47
+Distance: 119.0Latitude: 43.68Longtitude: 41.4
+Distance: 114.0Latitude: 43.67Longtitude: 41.34
+Distance: 109.0Latitude: 43.66Longtitude: 41.28
+Distance: 148.0Latitude: 43.68Longtitude: 41.77
+Distance: 144.0Latitude: 43.68Longtitude: 41.72
+Distance: 140.0Latitude: 43.68Longtitude: 41.66
+Distance: 138.0Latitude: 43.68Longtitude: 41.64
+Distance: 133.0Latitude: 43.68Longtitude: 41.58
+Distance: 129.0Latitude: 43.68Longtitude: 41.53
+Distance: 127.0Latitude: 43.68Longtitude: 41.5
+
+Callsign: PBD113
+Flight model: Boeing 737-8MC
+Date: 2023-10-12 11:28:54.214382
+
+Runway: N/A
+Distance: 197.0Latitude: 43.75Longtitude: 42.37
+Distance: 193.0Latitude: 43.75Longtitude: 42.32
+Distance: 188.0Latitude: 43.74Longtitude: 42.26
+Distance: 185.0Latitude: 43.74Longtitude: 42.22
+Distance: 180.0Latitude: 43.74Longtitude: 42.15
+Distance: 176.0Latitude: 43.74Longtitude: 42.11
+Distance: 172.0Latitude: 43.74Longtitude: 42.05
+Distance: 167.0Latitude: 43.73Longtitude: 41.99
+Distance: 162.0Latitude: 43.73Longtitude: 41.93
+Distance: 158.0Latitude: 43.73Longtitude: 41.88
+Distance: 153.0Latitude: 43.73Longtitude: 41.82
+Distance: 151.0Latitude: 43.73Longtitude: 41.79
+Distance: 147.0Latitude: 43.72Longtitude: 41.74
+Distance: 143.0Latitude: 43.72Longtitude: 41.69
+Distance: 139.0Latitude: 43.72Longtitude: 41.64
+Distance: 132.0Latitude: 43.72Longtitude: 41.55
+Distance: 129.0Latitude: 43.71Longtitude: 41.52
+Distance: 125.0Latitude: 43.71Longtitude: 41.46
+Distance: 121.0Latitude: 43.71Longtitude: 41.41
+Distance: 118.0Latitude: 43.71Longtitude: 41.38
+Distance: 113.0Latitude: 43.7Longtitude: 41.31
+Distance: 108.0Latitude: 43.69Longtitude: 41.25
+Distance: 102.0Latitude: 43.68Longtitude: 41.18
+Distance: 99.0Latitude: 43.68Longtitude: 41.15
+Distance: 93.0Latitude: 43.66Longtitude: 41.08
+Distance: 126.0Latitude: 43.71Longtitude: 41.48
+Distance: 121.0Latitude: 43.71Longtitude: 41.42
+Distance: 117.0Latitude: 43.71Longtitude: 41.37
+Distance: 113.0Latitude: 43.71Longtitude: 41.31
+Distance: 109.0Latitude: 43.71Longtitude: 41.26
+Distance: 106.0Latitude: 43.7Longtitude: 41.23
+
+Callsign: SDM6563
+Flight model: Boeing 737-8LJ
+Date: 2023-10-12 11:32:37.665175
+
+Runway: N/A
+Distance: 173.0Latitude: 43.68Longtitude: 42.08
+Distance: 168.0Latitude: 43.68Longtitude: 42.02
+Distance: 164.0Latitude: 43.68Longtitude: 41.97
+Distance: 155.0Latitude: 43.68Longtitude: 41.86
+Distance: 151.0Latitude: 43.68Longtitude: 41.8
+Distance: 148.0Latitude: 43.68Longtitude: 41.76
+Distance: 134.0Latitude: 43.68Longtitude: 41.59
+Distance: 129.0Latitude: 43.68Longtitude: 41.52
+Distance: 122.0Latitude: 43.68Longtitude: 41.44
+Distance: 115.0Latitude: 43.68Longtitude: 41.35
+Distance: 107.0Latitude: 43.68Longtitude: 41.24
+Distance: 104.0Latitude: 43.68Longtitude: 41.21
+Distance: 99.0Latitude: 43.68Longtitude: 41.14
+Distance: 94.0Latitude: 43.67Longtitude: 41.08
+Distance: 85.0Latitude: 43.65Longtitude: 40.98
+Distance: 80.0Latitude: 43.64Longtitude: 40.92
+
+Callsign: NWS492
+Flight model: Boeing 737-8SH
+Date: 2023-10-12 11:36:01.915193
+
+Runway: N/A
+Distance: 198.0Latitude: 43.67Longtitude: 42.4
+Distance: 194.0Latitude: 43.67Longtitude: 42.34
+Distance: 190.0Latitude: 43.68Longtitude: 42.29
+Distance: 185.0Latitude: 43.68Longtitude: 42.23
+Distance: 181.0Latitude: 43.68Longtitude: 42.18
+Distance: 176.0Latitude: 43.68Longtitude: 42.12
+Distance: 168.0Latitude: 43.68Longtitude: 42.02
+Distance: 163.0Latitude: 43.68Longtitude: 41.95
+Distance: 158.0Latitude: 43.68Longtitude: 41.89
+Distance: 149.0Latitude: 43.68Longtitude: 41.78
+
+Callsign: AFL1116
+Flight model: Airbus A321-211
+Date: 2023-10-12 11:42:51.162106
+
+Runway: N/A
+Distance: 194.0Latitude: 43.67Longtitude: 42.34
+Distance: 191.0Latitude: 43.68Longtitude: 42.31
+Distance: 186.0Latitude: 43.68Longtitude: 42.24
+Distance: 182.0Latitude: 43.68Longtitude: 42.19
+Distance: 180.0Latitude: 43.68Longtitude: 42.17
+Distance: 174.0Latitude: 43.68Longtitude: 42.09
+Distance: 169.0Latitude: 43.68Longtitude: 42.03
+Distance: 167.0Latitude: 43.68Longtitude: 42.0
+Distance: 163.0Latitude: 43.68Longtitude: 41.95
+Distance: 158.0Latitude: 43.68Longtitude: 41.89
+Distance: 156.0Latitude: 43.68Longtitude: 41.87
+Distance: 154.0Latitude: 43.68Longtitude: 41.84
+Distance: 150.0Latitude: 43.68Longtitude: 41.79
+Distance: 148.0Latitude: 43.68Longtitude: 41.77
+Distance: 142.0Latitude: 43.68Longtitude: 41.69
+Distance: 135.0Latitude: 43.68Longtitude: 41.6
+Distance: 133.0Latitude: 43.68Longtitude: 41.58
+Distance: 128.0Latitude: 43.68Longtitude: 41.51
+Distance: 125.0Latitude: 43.68Longtitude: 41.48
+Distance: 122.0Latitude: 43.69Longtitude: 41.43
+Distance: 117.0Latitude: 43.69Longtitude: 41.37
+
+Callsign: PBD330
+Flight model: Boeing 737-8MC
+Date: 2023-10-12 11:45:34.873466
+
+Runway: N/A
+Distance: 197.0Latitude: 43.67Longtitude: 42.38
+Distance: 193.0Latitude: 43.67Longtitude: 42.33
+Distance: 189.0Latitude: 43.68Longtitude: 42.28
+Distance: 185.0Latitude: 43.68Longtitude: 42.23
+Distance: 180.0Latitude: 43.68Longtitude: 42.17
+Distance: 175.0Latitude: 43.68Longtitude: 42.11
+Distance: 171.0Latitude: 43.68Longtitude: 42.06
+Distance: 167.0Latitude: 43.68Longtitude: 42.0
+Distance: 163.0Latitude: 43.68Longtitude: 41.95
+Distance: 159.0Latitude: 43.68Longtitude: 41.9
+Distance: 154.0Latitude: 43.68Longtitude: 41.84
+Distance: 149.0Latitude: 43.68Longtitude: 41.78
+Distance: 146.0Latitude: 43.68Longtitude: 41.74
+Distance: 140.0Latitude: 43.68Longtitude: 41.67
+Distance: 136.0Latitude: 43.68Longtitude: 41.62
+Distance: 136.0Latitude: 43.68Longtitude: 41.61
+Distance: 129.0Latitude: 43.68Longtitude: 41.52
+Distance: 125.0Latitude: 43.68Longtitude: 41.47
+Distance: 122.0Latitude: 43.68Longtitude: 41.44
+Distance: 118.0Latitude: 43.68Longtitude: 41.39
+Distance: 114.0Latitude: 43.68Longtitude: 41.33
+Distance: 110.0Latitude: 43.68Longtitude: 41.29
+Distance: 105.0Latitude: 43.67Longtitude: 41.23
+Distance: 101.0Latitude: 43.66Longtitude: 41.17
+Distance: 95.0Latitude: 43.65Longtitude: 41.1
+Distance: 92.0Latitude: 43.65Longtitude: 41.07
+Distance: 87.0Latitude: 43.64Longtitude: 41.01
+Distance: 83.0Latitude: 43.63Longtitude: 40.95
+Distance: 79.0Latitude: 43.62Longtitude: 40.91
+
+Callsign: SBI5103
+Flight model: Boeing 737-83N
+Date: 2023-10-12 11:49:00.929166
+
+Runway: N/A
+Distance: 198.0Latitude: 43.76Longtitude: 42.38
+Distance: 194.0Latitude: 43.77Longtitude: 42.32
+Distance: 190.0Latitude: 43.77Longtitude: 42.27
+Distance: 185.0Latitude: 43.78Longtitude: 42.21
+Distance: 182.0Latitude: 43.79Longtitude: 42.17
+Distance: 178.0Latitude: 43.8Longtitude: 42.11
+Distance: 174.0Latitude: 43.8Longtitude: 42.06
+Distance: 169.0Latitude: 43.81Longtitude: 42.0
+Distance: 165.0Latitude: 43.81Longtitude: 41.94
+Distance: 160.0Latitude: 43.81Longtitude: 41.88
+Distance: 156.0Latitude: 43.81Longtitude: 41.83
+Distance: 152.0Latitude: 43.8Longtitude: 41.78
+Distance: 148.0Latitude: 43.79Longtitude: 41.73
+Distance: 143.0Latitude: 43.79Longtitude: 41.67
+Distance: 138.0Latitude: 43.78Longtitude: 41.61
+Distance: 134.0Latitude: 43.77Longtitude: 41.56
+Distance: 129.0Latitude: 43.77Longtitude: 41.5
+Distance: 127.0Latitude: 43.76Longtitude: 41.48
+Distance: 124.0Latitude: 43.76Longtitude: 41.43
+Distance: 119.0Latitude: 43.75Longtitude: 41.37
+Distance: 114.0Latitude: 43.74Longtitude: 41.32
+Distance: 109.0Latitude: 43.73Longtitude: 41.26
+Distance: 107.0Latitude: 43.73Longtitude: 41.23
+Distance: 106.0Latitude: 43.75Longtitude: 41.21
+Distance: 103.0Latitude: 43.77Longtitude: 41.16
+Distance: 104.0Latitude: 43.75Longtitude: 41.18
+Distance: 96.0Latitude: 43.75Longtitude: 41.07
+Distance: 88.0Latitude: 43.74Longtitude: 40.97
+Distance: 87.0Latitude: 43.74Longtitude: 40.96
+Distance: 85.0Latitude: 43.74Longtitude: 40.93
+
+Callsign: AZO718
+Flight model: Sukhoi Superjet 100-95LR
+Date: 2023-10-12 11:56:14.777541
+
+Runway: N/A
+Distance: 198.0Latitude: 43.67Longtitude: 42.39
+Distance: 193.0Latitude: 43.68Longtitude: 42.33
+Distance: 189.0Latitude: 43.68Longtitude: 42.28
+Distance: 163.0Latitude: 43.68Longtitude: 41.96
+Distance: 142.0Latitude: 43.68Longtitude: 41.69
+Distance: 129.0Latitude: 43.68Longtitude: 41.53
+Distance: 113.0Latitude: 43.67Longtitude: 41.32
+
+Callsign: SBI2053
+Flight model: Airbus A321-211
+Date: 2023-10-12 12:06:59.071165
+
+Runway: N/A
+Distance: 197.0Latitude: 43.67Longtitude: 42.38
+Distance: 194.0Latitude: 43.67Longtitude: 42.34
+Distance: 189.0Latitude: 43.67Longtitude: 42.28
+Distance: 183.0Latitude: 43.68Longtitude: 42.2
+Distance: 179.0Latitude: 43.68Longtitude: 42.15
+Distance: 176.0Latitude: 43.68Longtitude: 42.12
+Distance: 169.0Latitude: 43.68Longtitude: 42.03
+Distance: 165.0Latitude: 43.68Longtitude: 41.98
+Distance: 168.0Latitude: 43.68Longtitude: 42.02
+Distance: 159.0Latitude: 43.68Longtitude: 41.91
+Distance: 152.0Latitude: 43.68Longtitude: 41.82
+Distance: 150.0Latitude: 43.68Longtitude: 41.79
+Distance: 148.0Latitude: 43.68Longtitude: 41.76
+Distance: 144.0Latitude: 43.68Longtitude: 41.72
+Distance: 140.0Latitude: 43.68Longtitude: 41.66
+Distance: 133.0Latitude: 43.68Longtitude: 41.58
+Distance: 124.0Latitude: 43.68Longtitude: 41.46
+Distance: 123.0Latitude: 43.68Longtitude: 41.45
+Distance: 116.0Latitude: 43.69Longtitude: 41.36
+Distance: 114.0Latitude: 43.69Longtitude: 41.33
+Distance: 110.0Latitude: 43.69Longtitude: 41.28
+Distance: 105.0Latitude: 43.69Longtitude: 41.22
+Distance: 103.0Latitude: 43.69Longtitude: 41.19
+Distance: 121.0Latitude: 43.68Longtitude: 41.43
+Distance: 115.0Latitude: 43.69Longtitude: 41.34
+Distance: 111.0Latitude: 43.69Longtitude: 41.29
+Distance: 108.0Latitude: 43.69Longtitude: 41.26
+Distance: 104.0Latitude: 43.69Longtitude: 41.2
+Distance: 99.0Latitude: 43.69Longtitude: 41.14
+
+Callsign: PBD305
+Flight model: Boeing 737-8LJ
+Date: 2023-10-12 12:10:06.009850
+
+Runway: N/A
+Distance: 199.0Latitude: 43.67Longtitude: 42.41
+Distance: 195.0Latitude: 43.68Longtitude: 42.36
+Distance: 191.0Latitude: 43.68Longtitude: 42.3
+Distance: 187.0Latitude: 43.68Longtitude: 42.25
+Distance: 182.0Latitude: 43.68Longtitude: 42.19
+Distance: 178.0Latitude: 43.68Longtitude: 42.14
+Distance: 172.0Latitude: 43.68Longtitude: 42.07
+Distance: 169.0Latitude: 43.68Longtitude: 42.03
+Distance: 164.0Latitude: 43.68Longtitude: 41.97
+Distance: 159.0Latitude: 43.68Longtitude: 41.9
+Distance: 155.0Latitude: 43.68Longtitude: 41.85
+Distance: 152.0Latitude: 43.68Longtitude: 41.81
+Distance: 147.0Latitude: 43.68Longtitude: 41.75
+Distance: 144.0Latitude: 43.68Longtitude: 41.72
+Distance: 140.0Latitude: 43.68Longtitude: 41.66
+Distance: 136.0Latitude: 43.68Longtitude: 41.61
+Distance: 130.0Latitude: 43.68Longtitude: 41.54
+Distance: 125.0Latitude: 43.68Longtitude: 41.48
+Distance: 121.0Latitude: 43.68Longtitude: 41.42
+Distance: 118.0Latitude: 43.68Longtitude: 41.39
+Distance: 114.0Latitude: 43.68Longtitude: 41.34
+Distance: 110.0Latitude: 43.68Longtitude: 41.28
+Distance: 126.0Latitude: 43.69Longtitude: 41.49
+Distance: 121.0Latitude: 43.68Longtitude: 41.42
+Distance: 117.0Latitude: 43.68Longtitude: 41.37
+Distance: 112.0Latitude: 43.68Longtitude: 41.31
+Distance: 110.0Latitude: 43.68Longtitude: 41.28
+Distance: 106.0Latitude: 43.68Longtitude: 41.23
+
+Callsign: UTA267
+Flight model: Boeing 737-8EH
+Date: 2023-10-12 12:13:31.466582
+
+Runway: N/A
+Distance: 198.0Latitude: 43.67Longtitude: 42.4
+Distance: 194.0Latitude: 43.67Longtitude: 42.35
+Distance: 190.0Latitude: 43.68Longtitude: 42.29
+Distance: 186.0Latitude: 43.68Longtitude: 42.24
+Distance: 180.0Latitude: 43.68Longtitude: 42.17
+Distance: 176.0Latitude: 43.68Longtitude: 42.12
+Distance: 172.0Latitude: 43.68Longtitude: 42.07
+Distance: 168.0Latitude: 43.68Longtitude: 42.02
+Distance: 168.0Latitude: 43.68Longtitude: 42.02
+Distance: 161.0Latitude: 43.68Longtitude: 41.93
+Distance: 156.0Latitude: 43.68Longtitude: 41.87
+Distance: 152.0Latitude: 43.68Longtitude: 41.82
+Distance: 150.0Latitude: 43.68Longtitude: 41.79
+Distance: 145.0Latitude: 43.68Longtitude: 41.73
+Distance: 149.0Latitude: 43.68Longtitude: 41.78
+Distance: 144.0Latitude: 43.68Longtitude: 41.72
+Distance: 139.0Latitude: 43.68Longtitude: 41.65
+Distance: 135.0Latitude: 43.68Longtitude: 41.6
+Distance: 130.0Latitude: 43.68Longtitude: 41.54
+Distance: 126.0Latitude: 43.68Longtitude: 41.49
+Distance: 124.0Latitude: 43.68Longtitude: 41.46
+Distance: 120.0Latitude: 43.68Longtitude: 41.41
+Distance: 115.0Latitude: 43.68Longtitude: 41.35
+Distance: 110.0Latitude: 43.68Longtitude: 41.28
+Distance: 107.0Latitude: 43.68Longtitude: 41.25
+Distance: 102.0Latitude: 43.67Longtitude: 41.19
+Distance: 97.0Latitude: 43.66Longtitude: 41.12
+Distance: 94.0Latitude: 43.65Longtitude: 41.09
+Distance: 89.0Latitude: 43.64Longtitude: 41.03
+Distance: 85.0Latitude: 43.63Longtitude: 40.98
+Distance: 81.0Latitude: 43.63Longtitude: 40.93
+
+Callsign: SVR277
+Flight model: Airbus A320-232
+Date: 2023-10-12 12:20:02.964087
+
+Runway: N/A
+Distance: 195.0Latitude: 43.67Longtitude: 42.36
+Distance: 191.0Latitude: 43.67Longtitude: 42.31
+Distance: 186.0Latitude: 43.67Longtitude: 42.25
+Distance: 184.0Latitude: 43.68Longtitude: 42.22
+Distance: 179.0Latitude: 43.68Longtitude: 42.16
+Distance: 174.0Latitude: 43.68Longtitude: 42.09
+Distance: 174.0Latitude: 43.68Longtitude: 42.09
+Distance: 167.0Latitude: 43.68Longtitude: 42.01
+Distance: 163.0Latitude: 43.68Longtitude: 41.95
+Distance: 161.0Latitude: 43.68Longtitude: 41.93
+Distance: 156.0Latitude: 43.68Longtitude: 41.87
+Distance: 152.0Latitude: 43.68Longtitude: 41.81
+Distance: 155.0Latitude: 43.68Longtitude: 41.86
+Distance: 146.0Latitude: 43.68Longtitude: 41.74
+Distance: 143.0Latitude: 43.68Longtitude: 41.7
+Distance: 138.0Latitude: 43.68Longtitude: 41.64
+Distance: 136.0Latitude: 43.68Longtitude: 41.62
+Distance: 129.0Latitude: 43.68Longtitude: 41.53
+Distance: 128.0Latitude: 43.68Longtitude: 41.51
+Distance: 123.0Latitude: 43.68Longtitude: 41.45
+Distance: 124.0Latitude: 43.68Longtitude: 41.46
+Distance: 120.0Latitude: 43.68Longtitude: 41.41
+
+Callsign: PBD332
+Flight model: Boeing 737-8LJ
+Date: 2023-10-12 12:36:24.416370
+
+Runway: N/A
+Distance: 198.0Latitude: 43.67Longtitude: 42.39
+Distance: 194.0Latitude: 43.67Longtitude: 42.34
+Distance: 189.0Latitude: 43.68Longtitude: 42.28
+Distance: 184.0Latitude: 43.68Longtitude: 42.22
+Distance: 179.0Latitude: 43.68Longtitude: 42.16
+Distance: 175.0Latitude: 43.68Longtitude: 42.11
+Distance: 171.0Latitude: 43.68Longtitude: 42.05
+Distance: 167.0Latitude: 43.68Longtitude: 42.01
+Distance: 163.0Latitude: 43.68Longtitude: 41.96
+Distance: 158.0Latitude: 43.68Longtitude: 41.89
+Distance: 156.0Latitude: 43.68Longtitude: 41.87
+Distance: 153.0Latitude: 43.68Longtitude: 41.83
+Distance: 148.0Latitude: 43.68Longtitude: 41.76
+Distance: 143.0Latitude: 43.68Longtitude: 41.7
+Distance: 138.0Latitude: 43.68Longtitude: 41.64
+Distance: 134.0Latitude: 43.68Longtitude: 41.59
+Distance: 129.0Latitude: 43.68Longtitude: 41.53
+Distance: 127.0Latitude: 43.68Longtitude: 41.5
+Distance: 128.0Latitude: 43.68Longtitude: 41.51
+Distance: 125.0Latitude: 43.68Longtitude: 41.47
+Distance: 125.0Latitude: 43.68Longtitude: 41.47
+Distance: 118.0Latitude: 43.68Longtitude: 41.38
+Distance: 117.0Latitude: 43.68Longtitude: 41.37
+Distance: 112.0Latitude: 43.68Longtitude: 41.31
+Distance: 110.0Latitude: 43.68Longtitude: 41.28
+Distance: 105.0Latitude: 43.68Longtitude: 41.22
+Distance: 101.0Latitude: 43.68Longtitude: 41.17
+Distance: 96.0Latitude: 43.68Longtitude: 41.11
+Distance: 94.0Latitude: 43.68Longtitude: 41.08
+Distance: 89.0Latitude: 43.68Longtitude: 41.02
+Distance: 84.0Latitude: 43.67Longtitude: 40.95
+Distance: 81.0Latitude: 43.66Longtitude: 40.92
+
+Callsign: AFL1136
+Flight model: Airbus A321-211
+Date: 2023-10-12 12:55:41.227709
+
+Runway: N/A
+Distance: 199.0Latitude: 43.67Longtitude: 42.41
+Distance: 194.0Latitude: 43.67Longtitude: 42.34
+Distance: 189.0Latitude: 43.68Longtitude: 42.28
+Distance: 185.0Latitude: 43.68Longtitude: 42.23
+Distance: 183.0Latitude: 43.68Longtitude: 42.21
+Distance: 176.0Latitude: 43.68Longtitude: 42.12
+Distance: 172.0Latitude: 43.68Longtitude: 42.07
+Distance: 168.0Latitude: 43.68Longtitude: 42.02
+Distance: 163.0Latitude: 43.68Longtitude: 41.96
+Distance: 160.0Latitude: 43.68Longtitude: 41.92
+Distance: 154.0Latitude: 43.68Longtitude: 41.84
+Distance: 149.0Latitude: 43.68Longtitude: 41.78
+Distance: 145.0Latitude: 43.68Longtitude: 41.73
+Distance: 141.0Latitude: 43.68Longtitude: 41.68
+Distance: 141.0Latitude: 43.68Longtitude: 41.68
+Distance: 132.0Latitude: 43.68Longtitude: 41.56
+Distance: 131.0Latitude: 43.68Longtitude: 41.55
+Distance: 123.0Latitude: 43.67Longtitude: 41.45
+Distance: 121.0Latitude: 43.67Longtitude: 41.43
+Distance: 116.0Latitude: 43.67Longtitude: 41.37
+Distance: 112.0Latitude: 43.66Longtitude: 41.31
+Distance: 109.0Latitude: 43.66Longtitude: 41.28
+Distance: 109.0Latitude: 43.67Longtitude: 41.28
+Distance: 108.0Latitude: 43.67Longtitude: 41.26
+Distance: 103.0Latitude: 43.66Longtitude: 41.2
+
+Callsign: PBD338
+Flight model: Boeing 737-8LJ
+Date: 2023-10-12 12:58:24.584939
+
+Runway: N/A
+Distance: 198.0Latitude: 43.67Longtitude: 42.39
+Distance: 193.0Latitude: 43.67Longtitude: 42.33
+Distance: 187.0Latitude: 43.68Longtitude: 42.26
+Distance: 183.0Latitude: 43.68Longtitude: 42.21
+Distance: 179.0Latitude: 43.68Longtitude: 42.15
+Distance: 174.0Latitude: 43.68Longtitude: 42.09
+Distance: 170.0Latitude: 43.68Longtitude: 42.04
+Distance: 165.0Latitude: 43.68Longtitude: 41.98
+Distance: 161.0Latitude: 43.68Longtitude: 41.93
+Distance: 155.0Latitude: 43.68Longtitude: 41.86
+Distance: 151.0Latitude: 43.68Longtitude: 41.8
+Distance: 147.0Latitude: 43.68Longtitude: 41.75
+Distance: 143.0Latitude: 43.68Longtitude: 41.7
+Distance: 138.0Latitude: 43.68Longtitude: 41.64
+Distance: 137.0Latitude: 43.68Longtitude: 41.63
+Distance: 131.0Latitude: 43.68Longtitude: 41.55
+Distance: 126.0Latitude: 43.68Longtitude: 41.49
+Distance: 121.0Latitude: 43.68Longtitude: 41.43
+Distance: 119.0Latitude: 43.68Longtitude: 41.4
+Distance: 115.0Latitude: 43.68Longtitude: 41.35
+Distance: 110.0Latitude: 43.68Longtitude: 41.29
+Distance: 105.0Latitude: 43.68Longtitude: 41.22
+Distance: 122.0Latitude: 43.69Longtitude: 41.43
+Distance: 115.0Latitude: 43.69Longtitude: 41.34
+Distance: 111.0Latitude: 43.69Longtitude: 41.29
+Distance: 106.0Latitude: 43.69Longtitude: 41.23
+
+Callsign: SVR279
+Flight model: Airbus A321-251NX
+Date: 2023-10-12 13:01:30.148060
+
+Runway: N/A
+Distance: 196.0Latitude: 43.67Longtitude: 42.37
+Distance: 191.0Latitude: 43.68Longtitude: 42.31
+Distance: 187.0Latitude: 43.68Longtitude: 42.26
+Distance: 183.0Latitude: 43.68Longtitude: 42.2
+Distance: 178.0Latitude: 43.68Longtitude: 42.14
+Distance: 173.0Latitude: 43.68Longtitude: 42.08
+Distance: 168.0Latitude: 43.68Longtitude: 42.02
+Distance: 164.0Latitude: 43.68Longtitude: 41.97
+Distance: 159.0Latitude: 43.68Longtitude: 41.91
+Distance: 155.0Latitude: 43.68Longtitude: 41.86
+Distance: 150.0Latitude: 43.68Longtitude: 41.79
+Distance: 146.0Latitude: 43.68Longtitude: 41.74
+Distance: 142.0Latitude: 43.68Longtitude: 41.69
+Distance: 137.0Latitude: 43.68Longtitude: 41.63
+Distance: 132.0Latitude: 43.68Longtitude: 41.57
+Distance: 129.0Latitude: 43.68Longtitude: 41.52
+Distance: 124.0Latitude: 43.68Longtitude: 41.46
+Distance: 120.0Latitude: 43.68Longtitude: 41.41
+Distance: 106.0Latitude: 43.68Longtitude: 41.23
+Distance: 102.0Latitude: 43.68Longtitude: 41.18
+Distance: 92.0Latitude: 43.68Longtitude: 41.05
+Distance: 88.0Latitude: 43.68Longtitude: 41.0
+
+Callsign: AUL545
+Flight model: Boeing 737-8Q8
+Date: 2023-10-12 13:03:35.062425
+
+Runway: N/A
+Distance: 196.0Latitude: 43.67Longtitude: 42.37
+Distance: 192.0Latitude: 43.67Longtitude: 42.32
+Distance: 187.0Latitude: 43.68Longtitude: 42.26
+Distance: 183.0Latitude: 43.68Longtitude: 42.21
+Distance: 178.0Latitude: 43.68Longtitude: 42.14
+Distance: 174.0Latitude: 43.68Longtitude: 42.09
+Distance: 170.0Latitude: 43.68Longtitude: 42.04
+Distance: 166.0Latitude: 43.68Longtitude: 41.99
+Distance: 161.0Latitude: 43.68Longtitude: 41.93
+Distance: 157.0Latitude: 43.68Longtitude: 41.88
+Distance: 152.0Latitude: 43.68Longtitude: 41.82
+Distance: 148.0Latitude: 43.68Longtitude: 41.77
+Distance: 144.0Latitude: 43.68Longtitude: 41.71
+Distance: 141.0Latitude: 43.68Longtitude: 41.68
+Distance: 136.0Latitude: 43.68Longtitude: 41.62
+Distance: 132.0Latitude: 43.68Longtitude: 41.56
+Distance: 127.0Latitude: 43.68Longtitude: 41.5
+Distance: 124.0Latitude: 43.68Longtitude: 41.46
+
+Callsign: UTA249
+Flight model: Boeing 737-8KN
+Date: 2023-10-12 13:18:11.615501
+
+Runway: N/A
+Distance: 199.0Latitude: 43.67Longtitude: 42.41
+Distance: 194.0Latitude: 43.67Longtitude: 42.35
+Distance: 191.0Latitude: 43.68Longtitude: 42.3
+Distance: 186.0Latitude: 43.68Longtitude: 42.24
+Distance: 182.0Latitude: 43.68Longtitude: 42.19
+Distance: 177.0Latitude: 43.68Longtitude: 42.13
+Distance: 171.0Latitude: 43.68Longtitude: 42.06
+Distance: 167.0Latitude: 43.68Longtitude: 42.01
+Distance: 163.0Latitude: 43.68Longtitude: 41.95
+Distance: 159.0Latitude: 43.68Longtitude: 41.9
+Distance: 154.0Latitude: 43.68Longtitude: 41.84
+Distance: 150.0Latitude: 43.68Longtitude: 41.79
+Distance: 145.0Latitude: 43.68Longtitude: 41.73
+Distance: 141.0Latitude: 43.68Longtitude: 41.68
+Distance: 136.0Latitude: 43.68Longtitude: 41.62
+Distance: 132.0Latitude: 43.68Longtitude: 41.57
+Distance: 129.0Latitude: 43.68Longtitude: 41.52
+Distance: 125.0Latitude: 43.68Longtitude: 41.47
+Distance: 120.0Latitude: 43.68Longtitude: 41.41
+
+Callsign: AFL1122
+Flight model: Airbus A321-251NX
+Date: 2023-10-12 13:32:25.258996
+
+Runway: N/A
+Distance: 198.0Latitude: 43.67Longtitude: 42.39
+Distance: 193.0Latitude: 43.67Longtitude: 42.33
+Distance: 188.0Latitude: 43.68Longtitude: 42.27
+Distance: 184.0Latitude: 43.68Longtitude: 42.22
+Distance: 183.0Latitude: 43.68Longtitude: 42.21
+Distance: 175.0Latitude: 43.68Longtitude: 42.1
+Distance: 175.0Latitude: 43.68Longtitude: 42.1
+Distance: 167.0Latitude: 43.68Longtitude: 42.01
+Distance: 165.0Latitude: 43.68Longtitude: 41.98
+Distance: 158.0Latitude: 43.68Longtitude: 41.89
+Distance: 153.0Latitude: 43.68Longtitude: 41.83
+Distance: 151.0Latitude: 43.68Longtitude: 41.8
+Distance: 146.0Latitude: 43.68Longtitude: 41.74
+Distance: 141.0Latitude: 43.68Longtitude: 41.68
+Distance: 146.0Latitude: 43.68Longtitude: 41.74
+Distance: 140.0Latitude: 43.68Longtitude: 41.66
+Distance: 136.0Latitude: 43.68Longtitude: 41.62
+Distance: 132.0Latitude: 43.68Longtitude: 41.56
+Distance: 129.0Latitude: 43.68Longtitude: 41.53
+Distance: 122.0Latitude: 43.68Longtitude: 41.44
+Distance: 118.0Latitude: 43.68Longtitude: 41.38
+Distance: 115.0Latitude: 43.68Longtitude: 41.35
+Distance: 123.0Latitude: 43.68Longtitude: 41.45
+Distance: 118.0Latitude: 43.68Longtitude: 41.39
+Distance: 114.0Latitude: 43.68Longtitude: 41.33
+Distance: 109.0Latitude: 43.68Longtitude: 41.27
+Distance: 105.0Latitude: 43.68Longtitude: 41.22
+Distance: 103.0Latitude: 43.68Longtitude: 41.19
+Distance: 97.0Latitude: 43.68Longtitude: 41.12
+Distance: 93.0Latitude: 43.68Longtitude: 41.07
+Distance: 91.0Latitude: 43.68Longtitude: 41.04
+Distance: 86.0Latitude: 43.67Longtitude: 40.98
+Distance: 81.0Latitude: 43.67Longtitude: 40.92
+
+Callsign: PBD6941
+Flight model: Boeing 737-8AL
+Date: 2023-10-12 13:38:12.940634
+
+Runway: N/A
+Distance: 198.0Latitude: 43.67Longtitude: 42.39
+Distance: 192.0Latitude: 43.67Longtitude: 42.32
+Distance: 187.0Latitude: 43.68Longtitude: 42.26
+Distance: 183.0Latitude: 43.68Longtitude: 42.21
+Distance: 179.0Latitude: 43.68Longtitude: 42.16
+Distance: 175.0Latitude: 43.68Longtitude: 42.1
+Distance: 171.0Latitude: 43.68Longtitude: 42.05
+Distance: 166.0Latitude: 43.68Longtitude: 41.99
+Distance: 160.0Latitude: 43.68Longtitude: 41.92
+Distance: 157.0Latitude: 43.68Longtitude: 41.88
+Distance: 153.0Latitude: 43.68Longtitude: 41.83
+Distance: 148.0Latitude: 43.68Longtitude: 41.77
+Distance: 144.0Latitude: 43.68Longtitude: 41.72
+Distance: 143.0Latitude: 43.68Longtitude: 41.7
+Distance: 136.0Latitude: 43.68Longtitude: 41.61
+Distance: 134.0Latitude: 43.68Longtitude: 41.59
+Distance: 129.0Latitude: 43.68Longtitude: 41.53
+Distance: 125.0Latitude: 43.68Longtitude: 41.48
+Distance: 123.0Latitude: 43.68Longtitude: 41.45
+Distance: 118.0Latitude: 43.68Longtitude: 41.39
+Distance: 113.0Latitude: 43.67Longtitude: 41.32
+Distance: 108.0Latitude: 43.67Longtitude: 41.26
+Distance: 105.0Latitude: 43.66Longtitude: 41.23
+Distance: 100.0Latitude: 43.65Longtitude: 41.16
+Distance: 95.0Latitude: 43.64Longtitude: 41.1
+Distance: 92.0Latitude: 43.64Longtitude: 41.07
+Distance: 87.0Latitude: 43.63Longtitude: 41.01
+Distance: 81.0Latitude: 43.62Longtitude: 40.94
+
+Callsign: SYL773
+Flight model: Boeing 737-86N
+Date: 2023-10-12 13:49:53.113183
+
+Runway: N/A
+Distance: 198.0Latitude: 43.67Longtitude: 42.4
+Distance: 193.0Latitude: 43.67Longtitude: 42.33
+Distance: 188.0Latitude: 43.68Longtitude: 42.27
+Distance: 184.0Latitude: 43.68Longtitude: 42.22
+Distance: 179.0Latitude: 43.68Longtitude: 42.16
+Distance: 175.0Latitude: 43.68Longtitude: 42.11
+Distance: 171.0Latitude: 43.68Longtitude: 42.05
+Distance: 166.0Latitude: 43.68Longtitude: 41.99
+Distance: 162.0Latitude: 43.68Longtitude: 41.94
+Distance: 157.0Latitude: 43.68Longtitude: 41.88
+Distance: 153.0Latitude: 43.68Longtitude: 41.83
+Distance: 148.0Latitude: 43.68Longtitude: 41.76
+Distance: 143.0Latitude: 43.68Longtitude: 41.7
+Distance: 139.0Latitude: 43.68Longtitude: 41.65
+Distance: 135.0Latitude: 43.68Longtitude: 41.6
+Distance: 130.0Latitude: 43.68Longtitude: 41.54
+Distance: 125.0Latitude: 43.68Longtitude: 41.48
+Distance: 121.0Latitude: 43.68Longtitude: 41.43
+Distance: 117.0Latitude: 43.68Longtitude: 41.37
+Distance: 112.0Latitude: 43.69Longtitude: 41.31
+Distance: 109.0Latitude: 43.69Longtitude: 41.27
+Distance: 104.0Latitude: 43.69Longtitude: 41.2
+
+Callsign: SYL473
+Flight model: Boeing 737-7CT
+Date: 2023-10-12 14:00:54.402087
+
+Runway: N/A
+Distance: 199.0Latitude: 43.67Longtitude: 42.41
+Distance: 195.0Latitude: 43.67Longtitude: 42.36
+Distance: 191.0Latitude: 43.68Longtitude: 42.3
+Distance: 187.0Latitude: 43.68Longtitude: 42.25
+Distance: 183.0Latitude: 43.68Longtitude: 42.2
+Distance: 178.0Latitude: 43.68Longtitude: 42.14
+Distance: 174.0Latitude: 43.68Longtitude: 42.09
+Distance: 169.0Latitude: 43.68Longtitude: 42.03
+Distance: 163.0Latitude: 43.68Longtitude: 41.96
+Distance: 159.0Latitude: 43.68Longtitude: 41.91
+Distance: 155.0Latitude: 43.68Longtitude: 41.85
+Distance: 150.0Latitude: 43.68Longtitude: 41.79
+Distance: 146.0Latitude: 43.68Longtitude: 41.74
+Distance: 141.0Latitude: 43.68Longtitude: 41.68
+Distance: 137.0Latitude: 43.68Longtitude: 41.63
+Distance: 132.0Latitude: 43.68Longtitude: 41.56
+Distance: 128.0Latitude: 43.68Longtitude: 41.51
+Distance: 123.0Latitude: 43.68Longtitude: 41.45
+Distance: 119.0Latitude: 43.68Longtitude: 41.4
+Distance: 114.0Latitude: 43.68Longtitude: 41.34
+Distance: 110.0Latitude: 43.68Longtitude: 41.29
+Distance: 108.0Latitude: 43.69Longtitude: 41.25
+Distance: 103.0Latitude: 43.69Longtitude: 41.19
+Distance: 99.0Latitude: 43.69Longtitude: 41.14
+Distance: 94.0Latitude: 43.69Longtitude: 41.08
+Distance: 92.0Latitude: 43.69Longtitude: 41.05
+Distance: 88.0Latitude: 43.69Longtitude: 41.0
+Distance: 84.0Latitude: 43.69Longtitude: 40.94
+
+Callsign: AFL1030
+Flight model: Airbus A320-214
+Date: 2023-10-12 14:05:20.627250
+
+Runway: N/A
+Distance: 196.0Latitude: 43.67Longtitude: 42.37
+Distance: 192.0Latitude: 43.67Longtitude: 42.32
+Distance: 187.0Latitude: 43.68Longtitude: 42.26
+Distance: 183.0Latitude: 43.68Longtitude: 42.2
+Distance: 179.0Latitude: 43.68Longtitude: 42.16
+Distance: 174.0Latitude: 43.68Longtitude: 42.09
+Distance: 170.0Latitude: 43.68Longtitude: 42.04
+Distance: 169.0Latitude: 43.68Longtitude: 42.03
+Distance: 161.0Latitude: 43.68Longtitude: 41.93
+Distance: 158.0Latitude: 43.68Longtitude: 41.89
+Distance: 152.0Latitude: 43.68Longtitude: 41.82
+Distance: 148.0Latitude: 43.68Longtitude: 41.76
+Distance: 143.0Latitude: 43.68Longtitude: 41.7
+Distance: 141.0Latitude: 43.68Longtitude: 41.68
+Distance: 136.0Latitude: 43.68Longtitude: 41.62
+Distance: 132.0Latitude: 43.68Longtitude: 41.57
+Distance: 128.0Latitude: 43.68Longtitude: 41.51
+Distance: 123.0Latitude: 43.68Longtitude: 41.45
+Distance: 121.0Latitude: 43.68Longtitude: 41.43
+Distance: 116.0Latitude: 43.68Longtitude: 41.36
+Distance: 123.0Latitude: 43.68Longtitude: 41.45
+Distance: 117.0Latitude: 43.68Longtitude: 41.37
+Distance: 115.0Latitude: 43.69Longtitude: 41.35
+Distance: 111.0Latitude: 43.69Longtitude: 41.3
+Distance: 107.0Latitude: 43.69Longtitude: 41.24
+Distance: 104.0Latitude: 43.69Longtitude: 41.21
+Distance: 101.0Latitude: 43.69Longtitude: 41.16
+Distance: 96.0Latitude: 43.69Longtitude: 41.1
+Distance: 89.0Latitude: 43.69Longtitude: 41.01
+
+Callsign: PBD324
+Flight model: Boeing 737-8MA
+Date: 2023-10-12 14:10:49.770363
+
+Runway: N/A
+Distance: 196.0Latitude: 43.65Longtitude: 42.37
+Distance: 192.0Latitude: 43.66Longtitude: 42.32
+Distance: 187.0Latitude: 43.66Longtitude: 42.26
+Distance: 183.0Latitude: 43.66Longtitude: 42.21
+Distance: 178.0Latitude: 43.66Longtitude: 42.15
+Distance: 173.0Latitude: 43.66Longtitude: 42.09
+Distance: 168.0Latitude: 43.66Longtitude: 42.02
+Distance: 165.0Latitude: 43.66Longtitude: 41.98
+Distance: 160.0Latitude: 43.67Longtitude: 41.92
+Distance: 156.0Latitude: 43.67Longtitude: 41.87
+Distance: 153.0Latitude: 43.67Longtitude: 41.83
+Distance: 146.0Latitude: 43.67Longtitude: 41.74
+Distance: 143.0Latitude: 43.67Longtitude: 41.71
+Distance: 138.0Latitude: 43.67Longtitude: 41.64
+Distance: 136.0Latitude: 43.67Longtitude: 41.62
+Distance: 131.0Latitude: 43.67Longtitude: 41.56
+Distance: 127.0Latitude: 43.67Longtitude: 41.5
+Distance: 122.0Latitude: 43.67Longtitude: 41.44
+Distance: 129.0Latitude: 43.68Longtitude: 41.52
+Distance: 121.0Latitude: 43.68Longtitude: 41.42
+Distance: 116.0Latitude: 43.68Longtitude: 41.36
+Distance: 114.0Latitude: 43.68Longtitude: 41.33
+Distance: 109.0Latitude: 43.68Longtitude: 41.27
+Distance: 114.0Latitude: 43.68Longtitude: 41.33
+Distance: 107.0Latitude: 43.68Longtitude: 41.24
+Distance: 104.0Latitude: 43.68Longtitude: 41.21
+Distance: 100.0Latitude: 43.68Longtitude: 41.16
+Distance: 96.0Latitude: 43.68Longtitude: 41.1
+Distance: 92.0Latitude: 43.68Longtitude: 41.05
+Distance: 89.0Latitude: 43.68Longtitude: 41.02
+Distance: 85.0Latitude: 43.68Longtitude: 40.96
+
+Callsign: SVR377
+Flight model: Airbus A320-214
+Date: 2023-10-12 14:13:56.466457
+
+Runway: N/A
+Distance: 200.0Latitude: 43.67Longtitude: 42.42
+Distance: 191.0Latitude: 43.67Longtitude: 42.31
+Distance: 186.0Latitude: 43.68Longtitude: 42.24
+Distance: 183.0Latitude: 43.68Longtitude: 42.21
+Distance: 181.0Latitude: 43.68Longtitude: 42.18
+Distance: 176.0Latitude: 43.68Longtitude: 42.12
+Distance: 176.0Latitude: 43.68Longtitude: 42.12
+Distance: 165.0Latitude: 43.68Longtitude: 41.98
+Distance: 161.0Latitude: 43.68Longtitude: 41.93
+Distance: 157.0Latitude: 43.68Longtitude: 41.88
+Distance: 159.0Latitude: 43.68Longtitude: 41.9
+Distance: 152.0Latitude: 43.68Longtitude: 41.82
+Distance: 148.0Latitude: 43.68Longtitude: 41.77
+Distance: 153.0Latitude: 43.68Longtitude: 41.83
+Distance: 139.0Latitude: 43.68Longtitude: 41.65
+Distance: 132.0Latitude: 43.68Longtitude: 41.56
+Distance: 126.0Latitude: 43.68Longtitude: 41.49
+Distance: 124.0Latitude: 43.68Longtitude: 41.46
+Distance: 121.0Latitude: 43.68Longtitude: 41.43
+Distance: 117.0Latitude: 43.68Longtitude: 41.37
+Distance: 113.0Latitude: 43.68Longtitude: 41.32
+Distance: 110.0Latitude: 43.68Longtitude: 41.29
+Distance: 107.0Latitude: 43.68Longtitude: 41.24
+Distance: 103.0Latitude: 43.68Longtitude: 41.19
+Distance: 100.0Latitude: 43.68Longtitude: 41.16
+Distance: 95.0Latitude: 43.67Longtitude: 41.1
+Distance: 90.0Latitude: 43.66Longtitude: 41.04
+Distance: 85.0Latitude: 43.65Longtitude: 40.98
+Distance: 83.0Latitude: 43.65Longtitude: 40.95
+
+Callsign: SBI2045
+Flight model: Airbus A321-211
+Date: 2023-10-12 14:31:57.733793
+
+Runway: N/A
+Distance: 200.0Latitude: 43.67Longtitude: 42.42
+Distance: 195.0Latitude: 43.67Longtitude: 42.36
+Distance: 191.0Latitude: 43.68Longtitude: 42.31
+Distance: 187.0Latitude: 43.68Longtitude: 42.25
+Distance: 183.0Latitude: 43.68Longtitude: 42.2
+Distance: 178.0Latitude: 43.68Longtitude: 42.14
+Distance: 173.0Latitude: 43.68Longtitude: 42.08
+Distance: 169.0Latitude: 43.68Longtitude: 42.03
+Distance: 169.0Latitude: 43.68Longtitude: 42.03
+Distance: 163.0Latitude: 43.68Longtitude: 41.95
+Distance: 155.0Latitude: 43.68Longtitude: 41.86
+Distance: 150.0Latitude: 43.68Longtitude: 41.79
+Distance: 146.0Latitude: 43.68Longtitude: 41.74
+Distance: 141.0Latitude: 43.68Longtitude: 41.68
+Distance: 137.0Latitude: 43.69Longtitude: 41.62
+Distance: 137.0Latitude: 43.69Longtitude: 41.62
+Distance: 129.0Latitude: 43.68Longtitude: 41.53
+Distance: 125.0Latitude: 43.68Longtitude: 41.47
+Distance: 120.0Latitude: 43.68Longtitude: 41.41
+Distance: 118.0Latitude: 43.68Longtitude: 41.38
+Distance: 113.0Latitude: 43.68Longtitude: 41.32
+Distance: 108.0Latitude: 43.68Longtitude: 41.26
+Distance: 106.0Latitude: 43.68Longtitude: 41.23
+Distance: 114.0Latitude: 43.69Longtitude: 41.33
+Distance: 107.0Latitude: 43.68Longtitude: 41.24
+Distance: 104.0Latitude: 43.68Longtitude: 41.21
+Distance: 99.0Latitude: 43.68Longtitude: 41.15
+Distance: 100.0Latitude: 43.68Longtitude: 41.16
+Distance: 93.0Latitude: 43.68Longtitude: 41.07
+Distance: 89.0Latitude: 43.67Longtitude: 41.02
+
+Callsign: SDM6717
+Flight model: Sukhoi Superjet 100-95B
+Date: 2023-10-12 14:38:30.618657
+
+Runway: N/A
+Distance: 200.0Latitude: 43.67Longtitude: 42.42
+Distance: 196.0Latitude: 43.67Longtitude: 42.37
+Distance: 191.0Latitude: 43.68Longtitude: 42.31
+Distance: 187.0Latitude: 43.68Longtitude: 42.26
+Distance: 183.0Latitude: 43.68Longtitude: 42.2
+Distance: 178.0Latitude: 43.68Longtitude: 42.14
+Distance: 174.0Latitude: 43.68Longtitude: 42.09
+Distance: 169.0Latitude: 43.68Longtitude: 42.03
+Distance: 165.0Latitude: 43.68Longtitude: 41.98
+Distance: 159.0Latitude: 43.68Longtitude: 41.91
+Distance: 155.0Latitude: 43.68Longtitude: 41.86
+Distance: 152.0Latitude: 43.68Longtitude: 41.81
+Distance: 147.0Latitude: 43.68Longtitude: 41.75
+Distance: 141.0Latitude: 43.68Longtitude: 41.68
+Distance: 137.0Latitude: 43.68Longtitude: 41.63
+Distance: 133.0Latitude: 43.68Longtitude: 41.58
+Distance: 129.0Latitude: 43.68Longtitude: 41.53
+Distance: 125.0Latitude: 43.68Longtitude: 41.47
+Distance: 124.0Latitude: 43.68Longtitude: 41.46
+Distance: 117.0Latitude: 43.68Longtitude: 41.37
+Distance: 114.0Latitude: 43.68Longtitude: 41.34
+Distance: 110.0Latitude: 43.68Longtitude: 41.28
+Distance: 106.0Latitude: 43.68Longtitude: 41.23
+Distance: 103.0Latitude: 43.68Longtitude: 41.2
+Distance: 104.0Latitude: 43.69Longtitude: 41.2
+Distance: 102.0Latitude: 43.69Longtitude: 41.18
+Distance: 97.0Latitude: 43.69Longtitude: 41.11
+Distance: 92.0Latitude: 43.69Longtitude: 41.05
+Distance: 82.0Latitude: 43.69Longtitude: 40.92
+
+Callsign: AZO786
+Flight model: Sukhoi Superjet 100-95B
+Date: 2023-10-12 14:40:56.837542
+
+Runway: N/A
+Distance: 200.0Latitude: 43.67Longtitude: 42.42
+Distance: 195.0Latitude: 43.67Longtitude: 42.36
+Distance: 190.0Latitude: 43.68Longtitude: 42.29
+Distance: 186.0Latitude: 43.68Longtitude: 42.24
+Distance: 181.0Latitude: 43.68Longtitude: 42.18
+Distance: 176.0Latitude: 43.68Longtitude: 42.12
+Distance: 171.0Latitude: 43.68Longtitude: 42.06
+Distance: 167.0Latitude: 43.68Longtitude: 42.0
+Distance: 162.0Latitude: 43.68Longtitude: 41.94
+Distance: 158.0Latitude: 43.68Longtitude: 41.89
+Distance: 154.0Latitude: 43.68Longtitude: 41.84
+Distance: 148.0Latitude: 43.68Longtitude: 41.77
+Distance: 144.0Latitude: 43.68Longtitude: 41.71
+Distance: 139.0Latitude: 43.68Longtitude: 41.65
+Distance: 135.0Latitude: 43.68Longtitude: 41.6
+Distance: 130.0Latitude: 43.68Longtitude: 41.54
+Distance: 126.0Latitude: 43.68Longtitude: 41.49
+Distance: 121.0Latitude: 43.68Longtitude: 41.43
+
+Callsign: SVR407
+Flight model: Airbus A320-214
+Date: 2023-10-12 15:07:29.222264
+
+Runway: N/A
+Distance: 197.0Latitude: 43.67Longtitude: 42.38
+Distance: 192.0Latitude: 43.67Longtitude: 42.32
+Distance: 188.0Latitude: 43.68Longtitude: 42.27
+Distance: 183.0Latitude: 43.68Longtitude: 42.21
+Distance: 179.0Latitude: 43.68Longtitude: 42.16
+Distance: 175.0Latitude: 43.68Longtitude: 42.1
+Distance: 171.0Latitude: 43.68Longtitude: 42.05
+Distance: 166.0Latitude: 43.68Longtitude: 41.99
+Distance: 162.0Latitude: 43.68Longtitude: 41.94
+Distance: 158.0Latitude: 43.68Longtitude: 41.89
+Distance: 152.0Latitude: 43.68Longtitude: 41.82
+Distance: 148.0Latitude: 43.68Longtitude: 41.77
+Distance: 143.0Latitude: 43.67Longtitude: 41.71
+Distance: 140.0Latitude: 43.67Longtitude: 41.67
+Distance: 135.0Latitude: 43.67Longtitude: 41.61
+Distance: 131.0Latitude: 43.67Longtitude: 41.55
+Distance: 128.0Latitude: 43.66Longtitude: 41.52
+Distance: 124.0Latitude: 43.66Longtitude: 41.47
+Distance: 119.0Latitude: 43.66Longtitude: 41.41
+Distance: 119.0Latitude: 43.66Longtitude: 41.41
+Distance: 115.0Latitude: 43.66Longtitude: 41.35
+Distance: 111.0Latitude: 43.65Longtitude: 41.3
+Distance: 106.0Latitude: 43.65Longtitude: 41.24
+Distance: 103.0Latitude: 43.65Longtitude: 41.21
+Distance: 98.0Latitude: 43.64Longtitude: 41.15
+Distance: 94.0Latitude: 43.64Longtitude: 41.09
+Distance: 90.0Latitude: 43.63Longtitude: 41.05
+Distance: 85.0Latitude: 43.62Longtitude: 40.99
+Distance: 80.0Latitude: 43.61Longtitude: 40.92
+
+Callsign: SBI5105
+Flight model: Airbus A320-271N
+Date: 2023-10-12 15:10:53.879093
+
+Runway: N/A
+Distance: 192.0Latitude: 43.67Longtitude: 42.32
+Distance: 189.0Latitude: 43.68Longtitude: 42.28
+Distance: 187.0Latitude: 43.68Longtitude: 42.26
+Distance: 180.0Latitude: 43.68Longtitude: 42.17
+Distance: 178.0Latitude: 43.68Longtitude: 42.14
+Distance: 171.0Latitude: 43.68Longtitude: 42.05
+Distance: 171.0Latitude: 43.68Longtitude: 42.05
+Distance: 163.0Latitude: 43.68Longtitude: 41.95
+Distance: 160.0Latitude: 43.68Longtitude: 41.92
+Distance: 156.0Latitude: 43.68Longtitude: 41.87
+Distance: 152.0Latitude: 43.68Longtitude: 41.81
+Distance: 150.0Latitude: 43.68Longtitude: 41.79
+Distance: 145.0Latitude: 43.68Longtitude: 41.73
+Distance: 140.0Latitude: 43.68Longtitude: 41.67
+Distance: 136.0Latitude: 43.68Longtitude: 41.62
+Distance: 132.0Latitude: 43.68Longtitude: 41.56
+Distance: 128.0Latitude: 43.68Longtitude: 41.51
+Distance: 123.0Latitude: 43.68Longtitude: 41.45
+Distance: 121.0Latitude: 43.68Longtitude: 41.43
+Distance: 118.0Latitude: 43.68Longtitude: 41.39
+Distance: 112.0Latitude: 43.67Longtitude: 41.31
+Distance: 105.0Latitude: 43.67Longtitude: 41.23
+Distance: 103.0Latitude: 43.66Longtitude: 41.2
+Distance: 97.0Latitude: 43.66Longtitude: 41.12
+Distance: 93.0Latitude: 43.66Longtitude: 41.08
+Distance: 89.0Latitude: 43.65Longtitude: 41.02
+
+Callsign: LLM885
+Flight model: Airbus A320-232
+Date: 2023-10-12 15:12:17.472580
+
+Runway: N/A
+Distance: 200.0Latitude: 43.67Longtitude: 42.42
+Distance: 195.0Latitude: 43.67Longtitude: 42.36
+Distance: 191.0Latitude: 43.68Longtitude: 42.31
+Distance: 187.0Latitude: 43.68Longtitude: 42.25
+Distance: 183.0Latitude: 43.68Longtitude: 42.2
+Distance: 178.0Latitude: 43.68Longtitude: 42.14
+Distance: 174.0Latitude: 43.68Longtitude: 42.09
+Distance: 169.0Latitude: 43.68Longtitude: 42.03
+Distance: 164.0Latitude: 43.68Longtitude: 41.97
+Distance: 159.0Latitude: 43.68Longtitude: 41.91
+Distance: 155.0Latitude: 43.68Longtitude: 41.85
+Distance: 151.0Latitude: 43.68Longtitude: 41.8
+Distance: 146.0Latitude: 43.68Longtitude: 41.74
+Distance: 140.0Latitude: 43.68Longtitude: 41.67
+Distance: 136.0Latitude: 43.68Longtitude: 41.62
+Distance: 132.0Latitude: 43.68Longtitude: 41.57
+Distance: 128.0Latitude: 43.68Longtitude: 41.51
+Distance: 124.0Latitude: 43.68Longtitude: 41.46
+Distance: 120.0Latitude: 43.68Longtitude: 41.41
+
+Callsign: SVR219
+Flight model: Airbus A321-231
+Date: 2023-10-12 15:21:33.468566
+
+Runway: N/A
+Distance: 198.0Latitude: 43.67Longtitude: 42.4
+Distance: 196.0Latitude: 43.67Longtitude: 42.37
+Distance: 179.0Latitude: 43.68Longtitude: 42.15
+Distance: 172.0Latitude: 43.68Longtitude: 42.07
+Distance: 167.0Latitude: 43.68Longtitude: 42.01
+Distance: 165.0Latitude: 43.68Longtitude: 41.98
+Distance: 160.0Latitude: 43.68Longtitude: 41.92
+Distance: 156.0Latitude: 43.68Longtitude: 41.87
+Distance: 152.0Latitude: 43.68Longtitude: 41.81
+Distance: 149.0Latitude: 43.68Longtitude: 41.78
+Distance: 145.0Latitude: 43.68Longtitude: 41.73
+Distance: 140.0Latitude: 43.68Longtitude: 41.66
+Distance: 183.0Latitude: 43.68Longtitude: 42.2
+
+Callsign: SBI5108
+Flight model: Boeing 737-83N
+Date: 2023-10-12 01:39:18.743420
+
+Runway: RWY 06/24
+Distance: 117.0Latitude: 44.21Longtitude: 40.96
+Distance: 131.0Latitude: 44.09Longtitude: 41.32
+Distance: 137.0Latitude: 44.1Longtitude: 41.4
+Distance: 143.0Latitude: 44.11Longtitude: 41.48
+Distance: 148.0Latitude: 44.12Longtitude: 41.55
+Distance: 145.0Latitude: 44.12Longtitude: 41.5
+Distance: 154.0Latitude: 44.12Longtitude: 41.64
+Distance: 154.0Latitude: 44.12Longtitude: 41.64
+Distance: 164.0Latitude: 44.11Longtitude: 41.79
+Distance: 166.0Latitude: 44.11Longtitude: 41.81
+Distance: 176.0Latitude: 44.11Longtitude: 41.95
+Distance: 178.0Latitude: 44.11Longtitude: 41.98
+Distance: 183.0Latitude: 44.1Longtitude: 42.05
+Distance: 182.0Latitude: 44.1Longtitude: 42.04
+Distance: 187.0Latitude: 44.1Longtitude: 42.11
+Distance: 193.0Latitude: 44.1Longtitude: 42.18
+Distance: 196.0Latitude: 44.1Longtitude: 42.22
+Distance: 199.0Latitude: 44.1Longtitude: 42.27
+
+Callsign: AZV4067
+Flight model: Boeing 767-3Y0(ER)
+Date: 2023-10-12 01:55:15.283136
+
+Runway: N/A
+Distance: 129.0Latitude: 44.08Longtitude: 41.31
+Distance: 131.0Latitude: 44.09Longtitude: 41.33
+Distance: 137.0Latitude: 44.1Longtitude: 41.4
+Distance: 141.0Latitude: 44.11Longtitude: 41.46
+Distance: 136.0Latitude: 44.1Longtitude: 41.39
+Distance: 152.0Latitude: 44.11Longtitude: 41.61
+Distance: 157.0Latitude: 44.11Longtitude: 41.68
+Distance: 154.0Latitude: 44.11Longtitude: 41.65
+Distance: 161.0Latitude: 44.1Longtitude: 41.75
+Distance: 170.0Latitude: 44.08Longtitude: 41.89
+Distance: 172.0Latitude: 44.08Longtitude: 41.91
+Distance: 175.0Latitude: 44.07Longtitude: 41.96
+Distance: 179.0Latitude: 44.05Longtitude: 42.02
+Distance: 184.0Latitude: 44.04Longtitude: 42.09
+Distance: 179.0Latitude: 44.06Longtitude: 42.02
+Distance: 184.0Latitude: 44.05Longtitude: 42.09
+Distance: 194.0Latitude: 44.03Longtitude: 42.23
+
+Callsign: SDM6568
+Flight model: Airbus A320-214
+Date: 2023-10-12 02:42:16.055404
+
+Runway: RWY 06/24
+Distance: 119.0Latitude: 44.06Longtitude: 41.18
+Distance: 127.0Latitude: 44.07Longtitude: 41.28
+Distance: 127.0Latitude: 44.08Longtitude: 41.28
+Distance: 135.0Latitude: 44.09Longtitude: 41.38
+Distance: 136.0Latitude: 44.1Longtitude: 41.39
+Distance: 141.0Latitude: 44.11Longtitude: 41.46
+Distance: 145.0Latitude: 44.11Longtitude: 41.52
+Distance: 147.0Latitude: 44.12Longtitude: 41.54
+Distance: 155.0Latitude: 44.13Longtitude: 41.64
+Distance: 157.0Latitude: 44.13Longtitude: 41.67
+Distance: 173.0Latitude: 44.13Longtitude: 41.9
+Distance: 173.0Latitude: 44.13Longtitude: 41.9
+Distance: 181.0Latitude: 44.12Longtitude: 42.01
+Distance: 177.0Latitude: 44.13Longtitude: 41.95
+Distance: 193.0Latitude: 44.13Longtitude: 42.17
+Distance: 194.0Latitude: 44.13Longtitude: 42.18
+Distance: 199.0Latitude: 44.13Longtitude: 42.25
+
+Callsign: SVR170
+Flight model: Airbus A320-232
+Date: 2023-10-12 02:43:17.247381
+
+Runway: N/A
+Distance: 195.0Latitude: 44.13Longtitude: 42.19
+Distance: 197.0Latitude: 44.19Longtitude: 42.19
+
+Callsign: AFL2932
+Flight model: Airbus A320-214
+Date: 2023-10-12 11:39:06.734512
+
+Runway: N/A
+Distance: 198.0Latitude: 44.1Longtitude: 42.25
+
+Callsign: N/A
+Flight model: Airbus A320-214
+Date: 2023-10-12 11:46:57.607001
+
+Runway: RWY 06/24
+Distance: 159.0Latitude: 44.12Longtitude: 41.7
+Distance: 164.0Latitude: 44.11Longtitude: 41.79
+Distance: 168.0Latitude: 44.11Longtitude: 41.84
+Distance: 170.0Latitude: 44.11Longtitude: 41.86
+Distance: 175.0Latitude: 44.11Longtitude: 41.93
+Distance: 180.0Latitude: 44.1Longtitude: 42.01
+Distance: 184.0Latitude: 44.1Longtitude: 42.07
+Distance: 189.0Latitude: 44.1Longtitude: 42.13
+Distance: 190.0Latitude: 44.1Longtitude: 42.14
+Distance: 111.0Latitude: 44.04Longtitude: 41.07
+Distance: 117.0Latitude: 44.05Longtitude: 41.16
+Distance: 123.0Latitude: 44.07Longtitude: 41.22
+Distance: 127.0Latitude: 44.08Longtitude: 41.27
+Distance: 129.0Latitude: 44.08Longtitude: 41.3
+Distance: 147.0Latitude: 44.12Longtitude: 41.54
+Distance: 153.0Latitude: 44.12Longtitude: 41.62
+Distance: 158.0Latitude: 44.12Longtitude: 41.69
+Distance: 160.0Latitude: 44.12Longtitude: 41.72
+Distance: 164.0Latitude: 44.11Longtitude: 41.79
+Distance: 165.0Latitude: 44.11Longtitude: 41.8
+Distance: 167.0Latitude: 44.11Longtitude: 41.83
+Distance: 172.0Latitude: 44.11Longtitude: 41.9
+Distance: 180.0Latitude: 44.1Longtitude: 42.01
+Distance: 182.0Latitude: 44.1Longtitude: 42.04
+Distance: 190.0Latitude: 44.1Longtitude: 42.14
+Distance: 192.0Latitude: 44.1Longtitude: 42.17
+Distance: 198.0Latitude: 44.09Longtitude: 42.26
+Distance: 154.0Latitude: 44.11Longtitude: 41.64
+Distance: 154.0Latitude: 44.11Longtitude: 41.65
+Distance: 158.0Latitude: 44.11Longtitude: 41.7
+Distance: 161.0Latitude: 44.11Longtitude: 41.74
+Distance: 117.0Latitude: 44.05Longtitude: 41.15
+Distance: 122.0Latitude: 44.07Longtitude: 41.21
+Distance: 127.0Latitude: 44.08Longtitude: 41.27
+Distance: 131.0Latitude: 44.09Longtitude: 41.32
+Distance: 131.0Latitude: 44.09Longtitude: 41.32
+Distance: 135.0Latitude: 44.1Longtitude: 41.38
+Distance: 140.0Latitude: 44.11Longtitude: 41.44
+Distance: 143.0Latitude: 44.12Longtitude: 41.47
+Distance: 135.0Latitude: 44.1Longtitude: 41.37
+Distance: 137.0Latitude: 44.14Longtitude: 41.37
+Distance: 139.0Latitude: 44.17Longtitude: 41.37
+Distance: 156.0Latitude: 44.13Longtitude: 41.65
+Distance: 161.0Latitude: 44.14Longtitude: 41.72
+Distance: 149.0Latitude: 44.12Longtitude: 41.57
+Distance: 156.0Latitude: 44.12Longtitude: 41.66
+
+Callsign: AFL2934
+Flight model: Airbus A320-214
+Date: 2023-10-12 11:50:03.748215
+
+Runway: N/A
+Distance: 197.0Latitude: 44.09Longtitude: 42.24
+
+Callsign: KAR429
+Flight model: Boeing 737-9GP(ER)
+Date: 2023-10-12 11:56:56.738120
+
+Runway: RWY 06/24
+Distance: 140.0Latitude: 44.11Longtitude: 41.44
+Distance: 143.0Latitude: 44.12Longtitude: 41.48
+Distance: 148.0Latitude: 44.12Longtitude: 41.55
+Distance: 154.0Latitude: 44.12Longtitude: 41.63
+Distance: 159.0Latitude: 44.12Longtitude: 41.7
+Distance: 160.0Latitude: 44.12Longtitude: 41.72
+Distance: 161.0Latitude: 44.12Longtitude: 41.73
+Distance: 167.0Latitude: 44.11Longtitude: 41.83
+Distance: 175.0Latitude: 44.11Longtitude: 41.93
+Distance: 180.0Latitude: 44.1Longtitude: 42.01
+Distance: 180.0Latitude: 44.1Longtitude: 42.01
+Distance: 181.0Latitude: 44.1Longtitude: 42.03
+Distance: 186.0Latitude: 44.1Longtitude: 42.09
+Distance: 190.0Latitude: 44.1Longtitude: 42.15
+
+Callsign: AFL1139
+Flight model: Airbus A321-251NX
+Date: 2023-10-12 12:00:44.744351
+
+Runway: N/A
+Distance: 152.0Latitude: 44.12Longtitude: 41.6
+Distance: 154.0Latitude: 44.12Longtitude: 41.64
+Distance: 159.0Latitude: 44.12Longtitude: 41.71
+Distance: 164.0Latitude: 44.12Longtitude: 41.78
+Distance: 170.0Latitude: 44.11Longtitude: 41.86
+Distance: 171.0Latitude: 44.11Longtitude: 41.88
+Distance: 175.0Latitude: 44.11Longtitude: 41.94
+Distance: 182.0Latitude: 44.1Longtitude: 42.04
+Distance: 185.0Latitude: 44.1Longtitude: 42.08
+Distance: 191.0Latitude: 44.1Longtitude: 42.16
+Distance: 193.0Latitude: 44.1Longtitude: 42.18
+
+Callsign: SVR186
+Flight model: Airbus A321-211
+Date: 2023-10-12 12:05:15.282468
+
+Runway: N/A
+Distance: 155.0Latitude: 44.12Longtitude: 41.65
+Distance: 157.0Latitude: 44.12Longtitude: 41.68
+Distance: 166.0Latitude: 44.11Longtitude: 41.81
+Distance: 169.0Latitude: 44.11Longtitude: 41.85
+Distance: 172.0Latitude: 44.11Longtitude: 41.9
+Distance: 174.0Latitude: 44.11Longtitude: 41.92
+Distance: 181.0Latitude: 44.1Longtitude: 42.02
+Distance: 186.0Latitude: 44.1Longtitude: 42.09
+Distance: 189.0Latitude: 44.1Longtitude: 42.13
+Distance: 194.0Latitude: 44.1Longtitude: 42.2
+Distance: 199.0Latitude: 44.09Longtitude: 42.27
+
+Callsign: AZO755
+Flight model: Sukhoi Superjet 100-95B
+Date: 2023-10-12 12:17:39.116383
+
+Runway: N/A
+Distance: 181.0Latitude: 44.13Longtitude: 42.0
+Distance: 188.0Latitude: 44.14Longtitude: 42.09
+Distance: 190.0Latitude: 44.14Longtitude: 42.12
+Distance: 198.0Latitude: 44.14Longtitude: 42.23
+
+Callsign: SVR124
+Flight model: Airbus A321-251NX
+Date: 2023-10-12 12:18:41.072357
+
+Runway: N/A
+Distance: 155.0Latitude: 44.12Longtitude: 41.65
+Distance: 159.0Latitude: 44.12Longtitude: 41.71
+Distance: 161.0Latitude: 44.12Longtitude: 41.74
+Distance: 172.0Latitude: 44.12Longtitude: 41.89
+Distance: 173.0Latitude: 44.11Longtitude: 41.91
+Distance: 175.0Latitude: 44.11Longtitude: 41.93
+Distance: 182.0Latitude: 44.11Longtitude: 42.03
+Distance: 187.0Latitude: 44.1Longtitude: 42.11
+Distance: 189.0Latitude: 44.1Longtitude: 42.13
+Distance: 194.0Latitude: 44.1Longtitude: 42.2
+Distance: 196.0Latitude: 44.1Longtitude: 42.23
+
+Callsign: SVR222
+Flight model: Airbus A320-232
+Date: 2023-10-12 12:22:07.808150
+
+Runway: RWY 06/24
+Distance: 134.0Latitude: 44.1Longtitude: 41.36
+Distance: 139.0Latitude: 44.11Longtitude: 41.42
+Distance: 164.0Latitude: 44.12Longtitude: 41.78
+Distance: 167.0Latitude: 44.12Longtitude: 41.82
+Distance: 174.0Latitude: 44.11Longtitude: 41.92
+Distance: 179.0Latitude: 44.11Longtitude: 41.99
+Distance: 183.0Latitude: 44.1Longtitude: 42.05
+Distance: 184.0Latitude: 44.1Longtitude: 42.06
+Distance: 187.0Latitude: 44.1Longtitude: 42.11
+Distance: 197.0Latitude: 44.1Longtitude: 42.24
+
+Callsign: SVR2661
+Flight model: Airbus A320-214
+Date: 2023-10-12 13:09:45.630908
+
+Runway: RWY 06/24
+Distance: 174.0Latitude: 44.1Longtitude: 41.93
+Distance: 178.0Latitude: 44.1Longtitude: 41.98
+Distance: 184.0Latitude: 44.1Longtitude: 42.07
+Distance: 187.0Latitude: 44.1Longtitude: 42.11
+Distance: 190.0Latitude: 44.1Longtitude: 42.15
+Distance: 196.0Latitude: 44.1Longtitude: 42.22
+Distance: 196.0Latitude: 44.1Longtitude: 42.22
+
+Callsign: SVR234
+Flight model: Airbus A320-214
+Date: 2023-10-12 13:29:42.595883
+
+Runway: RWY 06/24
+Distance: 170.0Latitude: 44.11Longtitude: 41.87
+Distance: 175.0Latitude: 44.11Longtitude: 41.93
+Distance: 176.0Latitude: 44.11Longtitude: 41.95
+Distance: 177.0Latitude: 44.11Longtitude: 41.96
+Distance: 187.0Latitude: 44.1Longtitude: 42.11
+Distance: 190.0Latitude: 44.1Longtitude: 42.15
+Distance: 194.0Latitude: 44.1Longtitude: 42.2
+Distance: 198.0Latitude: 44.09Longtitude: 42.26
+
+Callsign: PBD343
+Flight model: Boeing 737-8MC
+Date: 2023-10-12 13:34:08.038567
+
+Runway: RWY 06/24
+Distance: 166.0Latitude: 44.11Longtitude: 41.81
+Distance: 173.0Latitude: 44.11Longtitude: 41.91
+Distance: 179.0Latitude: 44.1Longtitude: 41.99
+Distance: 183.0Latitude: 44.1Longtitude: 42.05
+Distance: 179.0Latitude: 44.1Longtitude: 41.99
+Distance: 184.0Latitude: 44.1Longtitude: 42.06
+Distance: 188.0Latitude: 44.1Longtitude: 42.12
+Distance: 193.0Latitude: 44.1Longtitude: 42.18
+
+Callsign: SBI2044
+Flight model: Airbus A321-211
+Date: 2023-10-12 13:34:28.614402
+
+Runway: N/A
+Distance: 196.0Latitude: 44.1Longtitude: 42.22
+
+Callsign: AUL877
+Flight model: Boeing 737-8AL
+Date: 2023-10-12 13:45:05.901255
+
+Runway: RWY 06/24
+Distance: 186.0Latitude: 44.1Longtitude: 42.09
+Distance: 193.0Latitude: 44.1Longtitude: 42.19
+Distance: 196.0Latitude: 44.1Longtitude: 42.23
+Distance: 198.0Latitude: 44.1Longtitude: 42.25
+
+Callsign: SDM6564
+Flight model: Boeing 737-8LJ
+Date: 2023-10-12 13:54:45.524280
+
+Runway: RWY 06/24
+Distance: 161.0Latitude: 44.12Longtitude: 41.73
+Distance: 167.0Latitude: 44.12Longtitude: 41.82
+Distance: 169.0Latitude: 44.12Longtitude: 41.84
+Distance: 170.0Latitude: 44.11Longtitude: 41.87
+Distance: 178.0Latitude: 44.11Longtitude: 41.97
+Distance: 179.0Latitude: 44.11Longtitude: 41.99
+Distance: 183.0Latitude: 44.1Longtitude: 42.05
+Distance: 187.0Latitude: 44.1Longtitude: 42.1
+Distance: 194.0Latitude: 44.1Longtitude: 42.2
+Distance: 198.0Latitude: 44.09Longtitude: 42.26
+
+Callsign: AFL2956
+Flight model: Airbus A320-214
+Date: 2023-10-12 14:04:18.503920
+
+Runway: RWY 06/24
+Distance: 170.0Latitude: 44.14Longtitude: 41.84
+Distance: 170.0Latitude: 44.13Longtitude: 41.86
+Distance: 173.0Latitude: 44.14Longtitude: 41.89
+Distance: 180.0Latitude: 44.14Longtitude: 41.98
+Distance: 181.0Latitude: 44.14Longtitude: 42.0
+Distance: 185.0Latitude: 44.14Longtitude: 42.06
+Distance: 191.0Latitude: 44.14Longtitude: 42.14
+Distance: 199.0Latitude: 44.14Longtitude: 42.24
+
+Callsign: SBI5104
+Flight model: Boeing 737-83N
+Date: 2023-10-12 14:08:26.005816
+
+Runway: RWY 06/24
+Distance: 145.0Latitude: 43.89Longtitude: 41.66
+Distance: 150.0Latitude: 43.89Longtitude: 41.72
+Distance: 156.0Latitude: 43.9Longtitude: 41.79
+Distance: 156.0Latitude: 43.9Longtitude: 41.79
+Distance: 170.0Latitude: 43.9Longtitude: 41.98
+Distance: 170.0Latitude: 43.9Longtitude: 41.98
+Distance: 177.0Latitude: 43.9Longtitude: 42.07
+Distance: 183.0Latitude: 43.9Longtitude: 42.15
+Distance: 187.0Latitude: 43.91Longtitude: 42.19
+Distance: 191.0Latitude: 43.91Longtitude: 42.24
+Distance: 198.0Latitude: 43.91Longtitude: 42.34
+
+Callsign: SDM6781
+Flight model: Sukhoi Superjet 100-95B
+Date: 2023-10-12 14:11:10.548694
+
+Runway: N/A
+Distance: 169.0Latitude: 42.1Longtitude: 40.92
+Distance: 175.0Latitude: 42.06Longtitude: 40.96
+Distance: 178.0Latitude: 42.04Longtitude: 40.98
+Distance: 182.0Latitude: 42.01Longtitude: 41.01
+Distance: 187.0Latitude: 41.97Longtitude: 41.05
+Distance: 192.0Latitude: 41.94Longtitude: 41.09
+Distance: 194.0Latitude: 41.92Longtitude: 41.11
+Distance: 200.0Latitude: 41.88Longtitude: 41.15
+
+Callsign: PBD329
+Flight model: Boeing 737-8MC
+Date: 2023-10-12 14:12:12.548187
+
+Runway: RWY 06/24
+Distance: 152.0Latitude: 44.12Longtitude: 41.6
+Distance: 153.0Latitude: 44.12Longtitude: 41.62
+Distance: 160.0Latitude: 44.12Longtitude: 41.72
+Distance: 161.0Latitude: 44.12Longtitude: 41.74
+Distance: 167.0Latitude: 44.11Longtitude: 41.83
+Distance: 169.0Latitude: 44.11Longtitude: 41.85
+Distance: 173.0Latitude: 44.11Longtitude: 41.91
+Distance: 179.0Latitude: 44.1Longtitude: 42.0
+Distance: 178.0Latitude: 44.11Longtitude: 41.98
+Distance: 182.0Latitude: 44.1Longtitude: 42.04
+Distance: 190.0Latitude: 44.1Longtitude: 42.14
+Distance: 196.0Latitude: 44.1Longtitude: 42.23
+Distance: 193.0Latitude: 44.1Longtitude: 42.18
+Distance: 198.0Latitude: 44.1Longtitude: 42.25
+
+Callsign: SVR278
+Flight model: Airbus A320-232
+Date: 2023-10-12 14:34:41.582608
+
+Runway: RWY 06/24
+Distance: 101.0Latitude: 44.03Longtitude: 40.92
+Distance: 106.0Latitude: 44.05Longtitude: 40.98
+Distance: 109.0Latitude: 44.06Longtitude: 41.02
+Distance: 114.0Latitude: 44.07Longtitude: 41.08
+Distance: 119.0Latitude: 44.09Longtitude: 41.15
+Distance: 122.0Latitude: 44.1Longtitude: 41.18
+Distance: 127.0Latitude: 44.11Longtitude: 41.24
+Distance: 132.0Latitude: 44.13Longtitude: 41.31
+Distance: 137.0Latitude: 44.14Longtitude: 41.37
+Distance: 140.0Latitude: 44.15Longtitude: 41.4
+Distance: 145.0Latitude: 44.17Longtitude: 41.47
+Distance: 150.0Latitude: 44.18Longtitude: 41.53
+Distance: 156.0Latitude: 44.2Longtitude: 41.6
+Distance: 159.0Latitude: 44.21Longtitude: 41.63
+
+Callsign: AFL1117
+Flight model: Airbus A321-211
+Date: 2023-10-12 14:36:05.030531
+
+Runway: N/A
+Distance: 162.0Latitude: 44.12Longtitude: 41.75
+Distance: 167.0Latitude: 44.11Longtitude: 41.82
+Distance: 171.0Latitude: 44.11Longtitude: 41.88
+Distance: 175.0Latitude: 44.11Longtitude: 41.93
+Distance: 178.0Latitude: 44.1Longtitude: 41.98
+Distance: 181.0Latitude: 44.1Longtitude: 42.02
+Distance: 187.0Latitude: 44.1Longtitude: 42.11
+Distance: 192.0Latitude: 44.1Longtitude: 42.17
+Distance: 197.0Latitude: 44.09Longtitude: 42.24
+
+Callsign: PBD306
+Flight model: Boeing 737-8LJ
+Date: 2023-10-12 14:39:54.211537
+
+Runway: RWY 06/24
+Distance: 129.0Latitude: 43.87Longtitude: 41.45
+Distance: 130.0Latitude: 43.87Longtitude: 41.46
+Distance: 133.0Latitude: 43.87Longtitude: 41.5
+Distance: 144.0Latitude: 43.87Longtitude: 41.65
+Distance: 146.0Latitude: 43.87Longtitude: 41.68
+Distance: 154.0Latitude: 43.88Longtitude: 41.78
+Distance: 157.0Latitude: 43.88Longtitude: 41.82
+Distance: 162.0Latitude: 43.88Longtitude: 41.88
+Distance: 158.0Latitude: 43.88Longtitude: 41.83
+Distance: 165.0Latitude: 43.88Longtitude: 41.92
+Distance: 173.0Latitude: 43.88Longtitude: 42.02
+Distance: 179.0Latitude: 43.89Longtitude: 42.1
+Distance: 181.0Latitude: 43.89Longtitude: 42.12
+Distance: 185.0Latitude: 43.89Longtitude: 42.18
+Distance: 189.0Latitude: 43.89Longtitude: 42.23
+Distance: 197.0Latitude: 43.89Longtitude: 42.33
+Distance: 196.0Latitude: 43.89Longtitude: 42.31
+
+Callsign: PBD331
+Flight model: Boeing 737-8LJ
+Date: 2023-10-12 14:54:56.209119
+
+Runway: RWY 06/24
+Distance: 164.0Latitude: 44.12Longtitude: 41.77
+Distance: 172.0Latitude: 44.11Longtitude: 41.89
+Distance: 176.0Latitude: 44.11Longtitude: 41.95
+Distance: 179.0Latitude: 44.11Longtitude: 41.99
+Distance: 183.0Latitude: 44.1Longtitude: 42.05
+Distance: 187.0Latitude: 44.1Longtitude: 42.11
+Distance: 193.0Latitude: 44.1Longtitude: 42.18
+Distance: 190.0Latitude: 44.1Longtitude: 42.14
+Distance: 194.0Latitude: 44.1Longtitude: 42.2
+Distance: 198.0Latitude: 44.09Longtitude: 42.26
+
+Callsign: UTA268
+Flight model: Boeing 737-8EH
+Date: 2023-10-12 14:55:36.937692
+
+Runway: RWY 06/24
+Distance: 115.0Latitude: 44.05Longtitude: 41.13
+Distance: 116.0Latitude: 44.05Longtitude: 41.14
+Distance: 121.0Latitude: 44.06Longtitude: 41.2
+Distance: 126.0Latitude: 44.08Longtitude: 41.26
+Distance: 131.0Latitude: 44.09Longtitude: 41.33
+Distance: 141.0Latitude: 44.11Longtitude: 41.46
+Distance: 143.0Latitude: 44.12Longtitude: 41.48
+Distance: 151.0Latitude: 44.13Longtitude: 41.59
+Distance: 152.0Latitude: 44.12Longtitude: 41.61
+Distance: 153.0Latitude: 44.12Longtitude: 41.62
+Distance: 159.0Latitude: 44.12Longtitude: 41.7
+Distance: 163.0Latitude: 44.12Longtitude: 41.76
+Distance: 164.0Latitude: 44.12Longtitude: 41.77
+Distance: 168.0Latitude: 44.12Longtitude: 41.83
+Distance: 172.0Latitude: 44.11Longtitude: 41.89
+Distance: 174.0Latitude: 44.11Longtitude: 41.92
+Distance: 176.0Latitude: 44.11Longtitude: 41.95
+Distance: 182.0Latitude: 44.1Longtitude: 42.04
+Distance: 189.0Latitude: 44.1Longtitude: 42.13
+Distance: 193.0Latitude: 44.09Longtitude: 42.19
+
+Callsign: PBD337
+Flight model: Boeing 737-8LJ
+Date: 2023-10-12 15:16:04.178211
+
+Runway: RWY 06/24
+Distance: 113.0Latitude: 44.04Longtitude: 41.1
+Distance: 115.0Latitude: 44.05Longtitude: 41.12
+Distance: 116.0Latitude: 44.05Longtitude: 41.14
+Distance: 116.0Latitude: 44.05Longtitude: 41.14
+Distance: 129.0Latitude: 44.08Longtitude: 41.3
+Distance: 136.0Latitude: 44.1Longtitude: 41.39
+Distance: 137.0Latitude: 44.1Longtitude: 41.4
+Distance: 145.0Latitude: 44.12Longtitude: 41.5
+Distance: 149.0Latitude: 44.12Longtitude: 41.56
+Distance: 153.0Latitude: 44.12Longtitude: 41.62
+Distance: 157.0Latitude: 44.12Longtitude: 41.68
+Distance: 161.0Latitude: 44.12Longtitude: 41.74
+Distance: 166.0Latitude: 44.11Longtitude: 41.81
+Distance: 167.0Latitude: 44.11Longtitude: 41.83
+Distance: 174.0Latitude: 44.11Longtitude: 41.92
+Distance: 177.0Latitude: 44.1Longtitude: 41.97
+Distance: 178.0Latitude: 44.1Longtitude: 41.98
+Distance: 185.0Latitude: 44.1Longtitude: 42.08
+Distance: 191.0Latitude: 44.1Longtitude: 42.16
+Distance: 194.0Latitude: 44.1Longtitude: 42.2
+Distance: 199.0Latitude: 44.1Longtitude: 42.26
+
+Callsign: AUL546
+Flight model: Boeing 737-8Q8
+Date: 2023-10-12 15:20:11.585829
+
+Runway: RWY 06/24
+Distance: 111.0Latitude: 44.04Longtitude: 41.07
+Distance: 114.0Latitude: 44.05Longtitude: 41.11
+Distance: 119.0Latitude: 44.06Longtitude: 41.18
+Distance: 125.0Latitude: 44.08Longtitude: 41.25
+Distance: 131.0Latitude: 44.09Longtitude: 41.32
+Distance: 133.0Latitude: 44.1Longtitude: 41.35
+Distance: 139.0Latitude: 44.11Longtitude: 41.42
+Distance: 144.0Latitude: 44.13Longtitude: 41.49
+Distance: 147.0Latitude: 44.13Longtitude: 41.52
+Distance: 152.0Latitude: 44.15Longtitude: 41.59
+Distance: 158.0Latitude: 44.16Longtitude: 41.66
+Distance: 161.0Latitude: 44.17Longtitude: 41.7
+
+Callsign: PBD6942
+Flight model: Boeing 737-8AL
+Date: 2023-10-12 15:50:37.269165
+
+Runway: N/A
+Distance: 199.0Latitude: 44.095Longtitude: 42.267
+
+Callsign: UTA250
+Flight model: Boeing 737-8KN
+Date: 2023-10-12 15:53:22.130097
+
+Runway: RWY 06/24
+Distance: 42.0Latitude: 43.825Longtitude: 40.015
+Distance: 42.0Latitude: 43.825Longtitude: 40.015
+Distance: 43.0Latitude: 43.831Longtitude: 40.044
+Distance: 45.0Latitude: 43.843Longtitude: 40.103
+Distance: 48.0Latitude: 43.852Longtitude: 40.161
+Distance: 50.0Latitude: 43.862Longtitude: 40.217
+Distance: 52.0Latitude: 43.866Longtitude: 40.245
+Distance: 55.0Latitude: 43.875Longtitude: 40.301
+Distance: 58.0Latitude: 43.885Longtitude: 40.357
+Distance: 62.0Latitude: 43.894Longtitude: 40.413
+Distance: 63.0Latitude: 43.899Longtitude: 40.441
+Distance: 67.0Latitude: 43.908Longtitude: 40.497
+Distance: 71.0Latitude: 43.917Longtitude: 40.553
+Distance: 75.0Latitude: 43.927Longtitude: 40.609
+Distance: 77.0Latitude: 43.931Longtitude: 40.637
+Distance: 77.0Latitude: 43.931Longtitude: 40.637
+Distance: 77.0Latitude: 43.931Longtitude: 40.637
+Distance: 77.0Latitude: 43.931Longtitude: 40.637
+Distance: 131.0Latitude: 44.088Longtitude: 41.33
+Distance: 138.0Latitude: 44.105Longtitude: 41.417
+Distance: 142.0Latitude: 44.113Longtitude: 41.462
+Distance: 148.0Latitude: 44.122Longtitude: 41.544
+Distance: 152.0Latitude: 44.124Longtitude: 41.602
+Distance: 157.0Latitude: 44.12Longtitude: 41.675
+Distance: 161.0Latitude: 44.116Longtitude: 41.734
+Distance: 165.0Latitude: 44.113Longtitude: 41.791
+Distance: 170.0Latitude: 44.108Longtitude: 41.868
+Distance: 172.0Latitude: 44.107Longtitude: 41.894
+Distance: 178.0Latitude: 44.103Longtitude: 41.982
+Distance: 183.0Latitude: 44.1Longtitude: 42.053
+Distance: 187.0Latitude: 44.098Longtitude: 42.112
+Distance: 193.0Latitude: 44.096Longtitude: 42.185
+Distance: 197.0Latitude: 44.095Longtitude: 42.244
+Distance: 198.0Latitude: 44.094Longtitude: 42.25
+
+Callsign: AFL1137
+Flight model: Airbus A321-211
+Date: 2023-10-12 15:55:28.418335
+
+Runway: N/A
+Distance: 134.0Latitude: 44.096Longtitude: 41.369
+Distance: 139.0Latitude: 44.166Longtitude: 41.369
+Distance: 136.0Latitude: 44.099Longtitude: 41.388
+Distance: 141.0Latitude: 44.112Longtitude: 41.458
+Distance: 146.0Latitude: 44.123Longtitude: 41.518
+Distance: 148.0Latitude: 44.128Longtitude: 41.548
+Distance: 162.0Latitude: 44.114Longtitude: 41.749
+Distance: 164.0Latitude: 44.114Longtitude: 41.785
+Distance: 169.0Latitude: 44.114Longtitude: 41.845
+Distance: 179.0Latitude: 44.106Longtitude: 41.995
+Distance: 183.0Latitude: 44.103Longtitude: 42.046
+Distance: 183.0Latitude: 44.103Longtitude: 42.046
+Distance: 189.0Latitude: 44.101Longtitude: 42.13
+Distance: 195.0Latitude: 44.097Longtitude: 42.22
+Distance: 200.0Latitude: 44.094Longtitude: 42.276
+
+Callsign: AFL1123
+Flight model: Airbus A321-251NX
+Date: 2023-10-12 16:07:50.263735
+
+Runway: N/A
+Distance: 40.0Latitude: 43.786Longtitude: 39.789
+Distance: 40.0Latitude: 43.791Longtitude: 39.809
+Distance: 40.0Latitude: 43.803Longtitude: 39.863
+Distance: 40.0Latitude: 43.81Longtitude: 39.907
+Distance: 42.0Latitude: 43.828Longtitude: 39.989
+Distance: 42.0Latitude: 43.824Longtitude: 39.979
+Distance: 44.0Latitude: 43.837Longtitude: 40.038
+Distance: 46.0Latitude: 43.849Longtitude: 40.092
+Distance: 46.0Latitude: 43.848Longtitude: 40.105
+Distance: 50.0Latitude: 43.866Longtitude: 40.19
+Distance: 51.0Latitude: 43.872Longtitude: 40.217
+Distance: 55.0Latitude: 43.885Longtitude: 40.272
+Distance: 58.0Latitude: 43.897Longtitude: 40.327
+Distance: 61.0Latitude: 43.909Longtitude: 40.382
+Distance: 63.0Latitude: 43.915Longtitude: 40.409
+Distance: 67.0Latitude: 43.927Longtitude: 40.464
+Distance: 71.0Latitude: 43.939Longtitude: 40.519
+Distance: 75.0Latitude: 43.951Longtitude: 40.574
+Distance: 77.0Latitude: 43.957Longtitude: 40.602
+Distance: 79.0Latitude: 43.963Longtitude: 40.629
+Distance: 79.0Latitude: 43.963Longtitude: 40.629
+Distance: 79.0Latitude: 43.963Longtitude: 40.629
+Distance: 79.0Latitude: 43.963Longtitude: 40.629
+Distance: 55.0Latitude: 43.883Longtitude: 40.282
+Distance: 60.0Latitude: 43.902Longtitude: 40.372
+Distance: 64.0Latitude: 43.915Longtitude: 40.43
+Distance: 68.0Latitude: 43.928Longtitude: 40.489
+Distance: 70.0Latitude: 43.934Longtitude: 40.518
+Distance: 74.0Latitude: 43.947Longtitude: 40.576
+Distance: 79.0Latitude: 43.96Longtitude: 40.635
+Distance: 83.0Latitude: 43.973Longtitude: 40.693
+Distance: 87.0Latitude: 43.986Longtitude: 40.752
+Distance: 90.0Latitude: 43.992Longtitude: 40.781
+Distance: 94.0Latitude: 44.005Longtitude: 40.84
+Distance: 99.0Latitude: 44.018Longtitude: 40.898
+Distance: 103.0Latitude: 44.031Longtitude: 40.957
+Distance: 108.0Latitude: 44.045Longtitude: 41.021
+Distance: 111.0Latitude: 44.052Longtitude: 41.055
+Distance: 116.0Latitude: 44.067Longtitude: 41.124
+Distance: 122.0Latitude: 44.083Longtitude: 41.193
+Distance: 127.0Latitude: 44.098Longtitude: 41.262
+Distance: 133.0Latitude: 44.113Longtitude: 41.331
+Distance: 135.0Latitude: 44.12Longtitude: 41.365
+
+Callsign: PBD323
+Flight model: Boeing 737-8MA
+Date: 2023-10-12 16:19:03.559754
+
+Runway: RWY 06/24
+Distance: 40.0Latitude: 43.809Longtitude: 39.943
+Distance: 47.0Latitude: 43.876Longtitude: 39.943
+Distance: 50.0Latitude: 43.896Longtitude: 39.943
+Distance: 54.0Latitude: 43.935Longtitude: 39.943
+Distance: 58.0Latitude: 43.975Longtitude: 39.943
+Distance: 63.0Latitude: 44.015Longtitude: 39.943
+Distance: 65.0Latitude: 44.035Longtitude: 39.943
+Distance: 70.0Latitude: 44.075Longtitude: 39.943
+Distance: 74.0Latitude: 44.114Longtitude: 39.943
+Distance: 78.0Latitude: 44.154Longtitude: 39.943
+Distance: 83.0Latitude: 44.194Longtitude: 39.943
+Distance: 83.0Latitude: 44.194Longtitude: 39.943
+Distance: 83.0Latitude: 44.194Longtitude: 39.943
+Distance: 83.0Latitude: 44.194Longtitude: 39.943
+Distance: 83.0Latitude: 44.194Longtitude: 39.943
+Distance: 41.0Latitude: 43.82Longtitude: 39.994
+Distance: 47.0Latitude: 43.87Longtitude: 39.994
+Distance: 49.0Latitude: 43.892Longtitude: 39.994
+Distance: 54.0Latitude: 43.936Longtitude: 39.994
+Distance: 59.0Latitude: 43.98Longtitude: 39.994
+Distance: 64.0Latitude: 44.025Longtitude: 39.994
+Distance: 69.0Latitude: 44.069Longtitude: 39.994
+Distance: 71.0Latitude: 44.091Longtitude: 39.994
+Distance: 76.0Latitude: 44.135Longtitude: 39.994
+Distance: 81.0Latitude: 44.18Longtitude: 39.994
+Distance: 86.0Latitude: 44.224Longtitude: 39.994
+Distance: 89.0Latitude: 44.246Longtitude: 39.994
+Distance: 93.0Latitude: 44.29Longtitude: 39.994
+Distance: 98.0Latitude: 44.335Longtitude: 39.994
+Distance: 104.0Latitude: 44.383Longtitude: 39.994
+Distance: 110.0Latitude: 44.435Longtitude: 39.994
+Distance: 112.0Latitude: 44.461Longtitude: 39.994
+Distance: 118.0Latitude: 44.513Longtitude: 39.994
+Distance: 124.0Latitude: 44.565Longtitude: 39.994
+Distance: 130.0Latitude: 44.617Longtitude: 39.994
+Distance: 136.0Latitude: 44.67Longtitude: 39.994
+Distance: 139.0Latitude: 44.696Longtitude: 39.994
+Distance: 144.0Latitude: 44.748Longtitude: 39.994
+Distance: 150.0Latitude: 44.8Longtitude: 39.994
+
+Callsign: SYL774
+Flight model: Boeing 737-86N
+Date: 2023-10-12 16:21:55.881286
+
+Runway: RWY 06/24
+Distance: 119.0Latitude: 43.984Longtitude: 41.237
+Distance: 124.0Latitude: 43.984Longtitude: 41.314
+Distance: 126.0Latitude: 43.984Longtitude: 41.342
+Distance: 133.0Latitude: 43.985Longtitude: 41.436
+Distance: 138.0Latitude: 43.986Longtitude: 41.505
+Distance: 135.0Latitude: 43.985Longtitude: 41.46
+Distance: 146.0Latitude: 43.986Longtitude: 41.62
+Distance: 152.0Latitude: 43.986Longtitude: 41.701
+Distance: 155.0Latitude: 43.986Longtitude: 41.734
+Distance: 161.0Latitude: 43.986Longtitude: 41.816
+Distance: 165.0Latitude: 43.986Longtitude: 41.874
+Distance: 170.0Latitude: 43.986Longtitude: 41.934
+Distance: 175.0Latitude: 43.986Longtitude: 42.007
+Distance: 178.0Latitude: 43.986Longtitude: 42.041
+Distance: 181.0Latitude: 43.986Longtitude: 42.088
+Distance: 183.0Latitude: 43.985Longtitude: 42.11
+Distance: 188.0Latitude: 43.985Longtitude: 42.181
+Distance: 193.0Latitude: 43.985Longtitude: 42.238
+Distance: 199.0Latitude: 43.985Longtitude: 42.32
+
+Callsign: SVR378
+Flight model: Airbus A320-214
+Date: 2023-10-12 16:33:19.676943
+
+Runway: RWY 06/24
+Distance: 41.0Latitude: 43.818Longtitude: 39.99
+Distance: 47.0Latitude: 43.874Longtitude: 39.99
+Distance: 45.0Latitude: 43.842Longtitude: 40.105
+Distance: 51.0Latitude: 43.865Longtitude: 40.219
+Distance: 54.0Latitude: 43.878Longtitude: 40.276
+Distance: 56.0Latitude: 43.884Longtitude: 40.302
+Distance: 59.0Latitude: 43.895Longtitude: 40.353
+Distance: 62.0Latitude: 43.906Longtitude: 40.403
+Distance: 66.0Latitude: 43.917Longtitude: 40.454
+Distance: 67.0Latitude: 43.923Longtitude: 40.48
+Distance: 71.0Latitude: 43.934Longtitude: 40.531
+Distance: 75.0Latitude: 43.945Longtitude: 40.582
+Distance: 78.0Latitude: 43.956Longtitude: 40.633
+Distance: 82.0Latitude: 43.967Longtitude: 40.684
+Distance: 84.0Latitude: 43.973Longtitude: 40.709
+Distance: 84.0Latitude: 43.973Longtitude: 40.709
+Distance: 84.0Latitude: 43.973Longtitude: 40.709
+Distance: 84.0Latitude: 43.973Longtitude: 40.709
+Distance: 58.0Latitude: 43.891Longtitude: 40.341
+Distance: 60.0Latitude: 43.897Longtitude: 40.369
+Distance: 63.0Latitude: 43.91Longtitude: 40.424
+Distance: 67.0Latitude: 43.922Longtitude: 40.479
+Distance: 71.0Latitude: 43.934Longtitude: 40.535
+Distance: 73.0Latitude: 43.94Longtitude: 40.562
+Distance: 77.0Latitude: 43.952Longtitude: 40.617
+Distance: 81.0Latitude: 43.964Longtitude: 40.673
+Distance: 85.0Latitude: 43.976Longtitude: 40.728
+Distance: 89.0Latitude: 43.988Longtitude: 40.783
+Distance: 92.0Latitude: 43.995Longtitude: 40.811
+Distance: 96.0Latitude: 44.007Longtitude: 40.866
+Distance: 100.0Latitude: 44.019Longtitude: 40.921
+Distance: 105.0Latitude: 44.032Longtitude: 40.982
+Distance: 110.0Latitude: 44.046Longtitude: 41.047
+Distance: 112.0Latitude: 44.053Longtitude: 41.079
+Distance: 118.0Latitude: 44.068Longtitude: 41.144
+Distance: 123.0Latitude: 44.082Longtitude: 41.209
+Distance: 128.0Latitude: 44.096Longtitude: 41.275
+
+Callsign: RWZ3001
+Flight model: Sukhoi Superjet 100-95B
+Date: 2023-10-12 16:43:18.688211
+
+Runway: N/A
+Distance: 73.0Latitude: 43.381Longtitude: 39.06
+Distance: 72.0Latitude: 43.386Longtitude: 39.075
+Distance: 78.0Latitude: 43.398Longtitude: 38.996
+Distance: 80.0Latitude: 43.402Longtitude: 38.971
+Distance: 81.0Latitude: 43.483Longtitude: 38.953
+Distance: 83.0Latitude: 43.48Longtitude: 38.93
+Distance: 84.0Latitude: 43.524Longtitude: 38.918
+Distance: 85.0Latitude: 43.446Longtitude: 38.899
+Distance: 96.0Latitude: 43.459Longtitude: 38.767
+Distance: 103.0Latitude: 43.485Longtitude: 38.678
+Distance: 110.0Latitude: 43.508Longtitude: 38.601
+Distance: 116.0Latitude: 43.53Longtitude: 38.525
+Distance: 119.0Latitude: 43.541Longtitude: 38.487
+Distance: 125.0Latitude: 43.564Longtitude: 38.41
+Distance: 132.0Latitude: 43.586Longtitude: 38.334
+Distance: 122.0Latitude: 43.179Longtitude: 38.489
+Distance: 129.0Latitude: 43.157Longtitude: 38.411
+Distance: 131.0Latitude: 43.15Longtitude: 38.386
+Distance: 136.0Latitude: 43.136Longtitude: 38.336
+Distance: 140.0Latitude: 43.122Longtitude: 38.287
+
+Callsign: AFL1031
+Flight model: Airbus A320-214
+Date: 2023-10-12 16:50:11.122945
+
+Runway: N/A
+Distance: 130.0Latitude: 44.107Longtitude: 41.296
+
+Callsign: SVR155
+Flight model: Airbus A320-214
+Date: 2023-10-12 04:10:54.541527
+
+Runway: N/A
+Distance: 198.0Latitude: 43.67Longtitude: 42.4
+Distance: 197.0Latitude: 43.67Longtitude: 42.38
+Distance: 193.0Latitude: 43.67Longtitude: 42.33
+Distance: 189.0Latitude: 43.68Longtitude: 42.28
+Distance: 184.0Latitude: 43.68Longtitude: 42.22
+Distance: 183.0Latitude: 43.68Longtitude: 42.2
+Distance: 178.0Latitude: 43.68Longtitude: 42.14
+Distance: 173.0Latitude: 43.68Longtitude: 42.08
+Distance: 168.0Latitude: 43.67Longtitude: 42.02
+Distance: 183.0Latitude: 43.68Longtitude: 42.2
+Distance: 163.0Latitude: 43.68Longtitude: 41.95
+Distance: 161.0Latitude: 43.68Longtitude: 41.93
+Distance: 158.0Latitude: 43.68Longtitude: 41.89
+Distance: 153.0Latitude: 43.68Longtitude: 41.83
+Distance: 155.0Latitude: 43.68Longtitude: 41.86
+Distance: 151.0Latitude: 43.68Longtitude: 41.8
+Distance: 147.0Latitude: 43.68Longtitude: 41.75
+Distance: 137.0Latitude: 43.68Longtitude: 41.63
+Distance: 132.0Latitude: 43.68Longtitude: 41.56
+Distance: 126.0Latitude: 43.68Longtitude: 41.49
+Distance: 124.0Latitude: 43.68Longtitude: 41.46
+Distance: 119.0Latitude: 43.68Longtitude: 41.4
+Distance: 114.0Latitude: 43.68Longtitude: 41.34
+Distance: 120.0Latitude: 43.69Longtitude: 41.41
+Distance: 113.0Latitude: 43.69Longtitude: 41.32
+Distance: 111.0Latitude: 43.69Longtitude: 41.3
+Distance: 107.0Latitude: 43.69Longtitude: 41.24
+Distance: 103.0Latitude: 43.69Longtitude: 41.19
+Distance: 101.0Latitude: 43.69Longtitude: 41.16
+Distance: 96.0Latitude: 43.68Longtitude: 41.1
+Distance: 91.0Latitude: 43.67Longtitude: 41.04
+Distance: 88.0Latitude: 43.67Longtitude: 41.0
+Distance: 83.0Latitude: 43.66Longtitude: 40.94
+
+Callsign: SVR233
+Flight model: Airbus A320-214
+Date: 2023-10-12 11:08:57.445305
+
+Runway: N/A
+Distance: 155.0Latitude: 43.68Longtitude: 41.86
+Distance: 151.0Latitude: 43.68Longtitude: 41.8
+Distance: 146.0Latitude: 43.68Longtitude: 41.74
+Distance: 141.0Latitude: 43.68Longtitude: 41.68
+Distance: 138.0Latitude: 43.68Longtitude: 41.64
+Distance: 133.0Latitude: 43.68Longtitude: 41.58
+Distance: 129.0Latitude: 43.68Longtitude: 41.53
+Distance: 125.0Latitude: 43.68Longtitude: 41.48
+Distance: 121.0Latitude: 43.68Longtitude: 41.43
+Distance: 117.0Latitude: 43.68Longtitude: 41.37
+
+Callsign: SBI6347
+Flight model: Airbus A320-271N
+Date: 2023-10-12 11:09:38.139881
+
+Runway: N/A
+Distance: 200.0Latitude: 43.67Longtitude: 42.42
+Distance: 198.0Latitude: 43.67Longtitude: 42.4
+Distance: 192.0Latitude: 43.67Longtitude: 42.32
+Distance: 188.0Latitude: 43.68Longtitude: 42.27
+Distance: 184.0Latitude: 43.68Longtitude: 42.22
+Distance: 179.0Latitude: 43.68Longtitude: 42.16
+Distance: 175.0Latitude: 43.68Longtitude: 42.11
+Distance: 172.0Latitude: 43.68Longtitude: 42.07
+Distance: 167.0Latitude: 43.68Longtitude: 42.01
+Distance: 162.0Latitude: 43.68Longtitude: 41.94
+Distance: 158.0Latitude: 43.68Longtitude: 41.89
+Distance: 153.0Latitude: 43.68Longtitude: 41.83
+Distance: 152.0Latitude: 43.68Longtitude: 41.82
+Distance: 147.0Latitude: 43.68Longtitude: 41.75
+Distance: 142.0Latitude: 43.68Longtitude: 41.69
+Distance: 137.0Latitude: 43.68Longtitude: 41.63
+Distance: 136.0Latitude: 43.68Longtitude: 41.61
+Distance: 131.0Latitude: 43.68Longtitude: 41.55
+Distance: 127.0Latitude: 43.68Longtitude: 41.5
+Distance: 125.0Latitude: 43.68Longtitude: 41.47
+Distance: 119.0Latitude: 43.68Longtitude: 41.4
+Distance: 114.0Latitude: 43.67Longtitude: 41.34
+Distance: 109.0Latitude: 43.66Longtitude: 41.28
+Distance: 148.0Latitude: 43.68Longtitude: 41.77
+Distance: 144.0Latitude: 43.68Longtitude: 41.72
+Distance: 140.0Latitude: 43.68Longtitude: 41.66
+Distance: 138.0Latitude: 43.68Longtitude: 41.64
+Distance: 133.0Latitude: 43.68Longtitude: 41.58
+Distance: 129.0Latitude: 43.68Longtitude: 41.53
+Distance: 127.0Latitude: 43.68Longtitude: 41.5
+
+Callsign: PBD113
+Flight model: Boeing 737-8MC
+Date: 2023-10-12 11:28:54.214382
+
+Runway: N/A
+Distance: 197.0Latitude: 43.75Longtitude: 42.37
+Distance: 193.0Latitude: 43.75Longtitude: 42.32
+Distance: 188.0Latitude: 43.74Longtitude: 42.26
+Distance: 185.0Latitude: 43.74Longtitude: 42.22
+Distance: 180.0Latitude: 43.74Longtitude: 42.15
+Distance: 176.0Latitude: 43.74Longtitude: 42.11
+Distance: 172.0Latitude: 43.74Longtitude: 42.05
+Distance: 167.0Latitude: 43.73Longtitude: 41.99
+Distance: 162.0Latitude: 43.73Longtitude: 41.93
+Distance: 158.0Latitude: 43.73Longtitude: 41.88
+Distance: 153.0Latitude: 43.73Longtitude: 41.82
+Distance: 151.0Latitude: 43.73Longtitude: 41.79
+Distance: 147.0Latitude: 43.72Longtitude: 41.74
+Distance: 143.0Latitude: 43.72Longtitude: 41.69
+Distance: 139.0Latitude: 43.72Longtitude: 41.64
+Distance: 132.0Latitude: 43.72Longtitude: 41.55
+Distance: 129.0Latitude: 43.71Longtitude: 41.52
+Distance: 125.0Latitude: 43.71Longtitude: 41.46
+Distance: 121.0Latitude: 43.71Longtitude: 41.41
+Distance: 118.0Latitude: 43.71Longtitude: 41.38
+Distance: 113.0Latitude: 43.7Longtitude: 41.31
+Distance: 108.0Latitude: 43.69Longtitude: 41.25
+Distance: 102.0Latitude: 43.68Longtitude: 41.18
+Distance: 99.0Latitude: 43.68Longtitude: 41.15
+Distance: 93.0Latitude: 43.66Longtitude: 41.08
+Distance: 126.0Latitude: 43.71Longtitude: 41.48
+Distance: 121.0Latitude: 43.71Longtitude: 41.42
+Distance: 117.0Latitude: 43.71Longtitude: 41.37
+Distance: 113.0Latitude: 43.71Longtitude: 41.31
+Distance: 109.0Latitude: 43.71Longtitude: 41.26
+Distance: 106.0Latitude: 43.7Longtitude: 41.23
+
+Callsign: SDM6563
+Flight model: Boeing 737-8LJ
+Date: 2023-10-12 11:32:37.665175
+
+Runway: N/A
+Distance: 173.0Latitude: 43.68Longtitude: 42.08
+Distance: 168.0Latitude: 43.68Longtitude: 42.02
+Distance: 164.0Latitude: 43.68Longtitude: 41.97
+Distance: 155.0Latitude: 43.68Longtitude: 41.86
+Distance: 151.0Latitude: 43.68Longtitude: 41.8
+Distance: 148.0Latitude: 43.68Longtitude: 41.76
+Distance: 134.0Latitude: 43.68Longtitude: 41.59
+Distance: 129.0Latitude: 43.68Longtitude: 41.52
+Distance: 122.0Latitude: 43.68Longtitude: 41.44
+Distance: 115.0Latitude: 43.68Longtitude: 41.35
+Distance: 107.0Latitude: 43.68Longtitude: 41.24
+Distance: 104.0Latitude: 43.68Longtitude: 41.21
+Distance: 99.0Latitude: 43.68Longtitude: 41.14
+Distance: 94.0Latitude: 43.67Longtitude: 41.08
+Distance: 85.0Latitude: 43.65Longtitude: 40.98
+Distance: 80.0Latitude: 43.64Longtitude: 40.92
+
+Callsign: NWS492
+Flight model: Boeing 737-8SH
+Date: 2023-10-12 11:36:01.915193
+
+Runway: N/A
+Distance: 198.0Latitude: 43.67Longtitude: 42.4
+Distance: 194.0Latitude: 43.67Longtitude: 42.34
+Distance: 190.0Latitude: 43.68Longtitude: 42.29
+Distance: 185.0Latitude: 43.68Longtitude: 42.23
+Distance: 181.0Latitude: 43.68Longtitude: 42.18
+Distance: 176.0Latitude: 43.68Longtitude: 42.12
+Distance: 168.0Latitude: 43.68Longtitude: 42.02
+Distance: 163.0Latitude: 43.68Longtitude: 41.95
+Distance: 158.0Latitude: 43.68Longtitude: 41.89
+Distance: 149.0Latitude: 43.68Longtitude: 41.78
+
+Callsign: AFL1116
+Flight model: Airbus A321-211
+Date: 2023-10-12 11:42:51.162106
+
+Runway: N/A
+Distance: 194.0Latitude: 43.67Longtitude: 42.34
+Distance: 191.0Latitude: 43.68Longtitude: 42.31
+Distance: 186.0Latitude: 43.68Longtitude: 42.24
+Distance: 182.0Latitude: 43.68Longtitude: 42.19
+Distance: 180.0Latitude: 43.68Longtitude: 42.17
+Distance: 174.0Latitude: 43.68Longtitude: 42.09
+Distance: 169.0Latitude: 43.68Longtitude: 42.03
+Distance: 167.0Latitude: 43.68Longtitude: 42.0
+Distance: 163.0Latitude: 43.68Longtitude: 41.95
+Distance: 158.0Latitude: 43.68Longtitude: 41.89
+Distance: 156.0Latitude: 43.68Longtitude: 41.87
+Distance: 154.0Latitude: 43.68Longtitude: 41.84
+Distance: 150.0Latitude: 43.68Longtitude: 41.79
+Distance: 148.0Latitude: 43.68Longtitude: 41.77
+Distance: 142.0Latitude: 43.68Longtitude: 41.69
+Distance: 135.0Latitude: 43.68Longtitude: 41.6
+Distance: 133.0Latitude: 43.68Longtitude: 41.58
+Distance: 128.0Latitude: 43.68Longtitude: 41.51
+Distance: 125.0Latitude: 43.68Longtitude: 41.48
+Distance: 122.0Latitude: 43.69Longtitude: 41.43
+Distance: 117.0Latitude: 43.69Longtitude: 41.37
+
+Callsign: PBD330
+Flight model: Boeing 737-8MC
+Date: 2023-10-12 11:45:34.873466
+
+Runway: N/A
+Distance: 197.0Latitude: 43.67Longtitude: 42.38
+Distance: 193.0Latitude: 43.67Longtitude: 42.33
+Distance: 189.0Latitude: 43.68Longtitude: 42.28
+Distance: 185.0Latitude: 43.68Longtitude: 42.23
+Distance: 180.0Latitude: 43.68Longtitude: 42.17
+Distance: 175.0Latitude: 43.68Longtitude: 42.11
+Distance: 171.0Latitude: 43.68Longtitude: 42.06
+Distance: 167.0Latitude: 43.68Longtitude: 42.0
+Distance: 163.0Latitude: 43.68Longtitude: 41.95
+Distance: 159.0Latitude: 43.68Longtitude: 41.9
+Distance: 154.0Latitude: 43.68Longtitude: 41.84
+Distance: 149.0Latitude: 43.68Longtitude: 41.78
+Distance: 146.0Latitude: 43.68Longtitude: 41.74
+Distance: 140.0Latitude: 43.68Longtitude: 41.67
+Distance: 136.0Latitude: 43.68Longtitude: 41.62
+Distance: 136.0Latitude: 43.68Longtitude: 41.61
+Distance: 129.0Latitude: 43.68Longtitude: 41.52
+Distance: 125.0Latitude: 43.68Longtitude: 41.47
+Distance: 122.0Latitude: 43.68Longtitude: 41.44
+Distance: 118.0Latitude: 43.68Longtitude: 41.39
+Distance: 114.0Latitude: 43.68Longtitude: 41.33
+Distance: 110.0Latitude: 43.68Longtitude: 41.29
+Distance: 105.0Latitude: 43.67Longtitude: 41.23
+Distance: 101.0Latitude: 43.66Longtitude: 41.17
+Distance: 95.0Latitude: 43.65Longtitude: 41.1
+Distance: 92.0Latitude: 43.65Longtitude: 41.07
+Distance: 87.0Latitude: 43.64Longtitude: 41.01
+Distance: 83.0Latitude: 43.63Longtitude: 40.95
+Distance: 79.0Latitude: 43.62Longtitude: 40.91
+
+Callsign: SBI5103
+Flight model: Boeing 737-83N
+Date: 2023-10-12 11:49:00.929166
+
+Runway: N/A
+Distance: 198.0Latitude: 43.76Longtitude: 42.38
+Distance: 194.0Latitude: 43.77Longtitude: 42.32
+Distance: 190.0Latitude: 43.77Longtitude: 42.27
+Distance: 185.0Latitude: 43.78Longtitude: 42.21
+Distance: 182.0Latitude: 43.79Longtitude: 42.17
+Distance: 178.0Latitude: 43.8Longtitude: 42.11
+Distance: 174.0Latitude: 43.8Longtitude: 42.06
+Distance: 169.0Latitude: 43.81Longtitude: 42.0
+Distance: 165.0Latitude: 43.81Longtitude: 41.94
+Distance: 160.0Latitude: 43.81Longtitude: 41.88
+Distance: 156.0Latitude: 43.81Longtitude: 41.83
+Distance: 152.0Latitude: 43.8Longtitude: 41.78
+Distance: 148.0Latitude: 43.79Longtitude: 41.73
+Distance: 143.0Latitude: 43.79Longtitude: 41.67
+Distance: 138.0Latitude: 43.78Longtitude: 41.61
+Distance: 134.0Latitude: 43.77Longtitude: 41.56
+Distance: 129.0Latitude: 43.77Longtitude: 41.5
+Distance: 127.0Latitude: 43.76Longtitude: 41.48
+Distance: 124.0Latitude: 43.76Longtitude: 41.43
+Distance: 119.0Latitude: 43.75Longtitude: 41.37
+Distance: 114.0Latitude: 43.74Longtitude: 41.32
+Distance: 109.0Latitude: 43.73Longtitude: 41.26
+Distance: 107.0Latitude: 43.73Longtitude: 41.23
+Distance: 106.0Latitude: 43.75Longtitude: 41.21
+Distance: 103.0Latitude: 43.77Longtitude: 41.16
+Distance: 104.0Latitude: 43.75Longtitude: 41.18
+Distance: 96.0Latitude: 43.75Longtitude: 41.07
+Distance: 88.0Latitude: 43.74Longtitude: 40.97
+Distance: 87.0Latitude: 43.74Longtitude: 40.96
+Distance: 85.0Latitude: 43.74Longtitude: 40.93
+
+Callsign: AZO718
+Flight model: Sukhoi Superjet 100-95LR
+Date: 2023-10-12 11:56:14.777541
+
+Runway: N/A
+Distance: 198.0Latitude: 43.67Longtitude: 42.39
+Distance: 193.0Latitude: 43.68Longtitude: 42.33
+Distance: 189.0Latitude: 43.68Longtitude: 42.28
+Distance: 163.0Latitude: 43.68Longtitude: 41.96
+Distance: 142.0Latitude: 43.68Longtitude: 41.69
+Distance: 129.0Latitude: 43.68Longtitude: 41.53
+Distance: 113.0Latitude: 43.67Longtitude: 41.32
+
+Callsign: SBI2053
+Flight model: Airbus A321-211
+Date: 2023-10-12 12:06:59.071165
+
+Runway: N/A
+Distance: 197.0Latitude: 43.67Longtitude: 42.38
+Distance: 194.0Latitude: 43.67Longtitude: 42.34
+Distance: 189.0Latitude: 43.67Longtitude: 42.28
+Distance: 183.0Latitude: 43.68Longtitude: 42.2
+Distance: 179.0Latitude: 43.68Longtitude: 42.15
+Distance: 176.0Latitude: 43.68Longtitude: 42.12
+Distance: 169.0Latitude: 43.68Longtitude: 42.03
+Distance: 165.0Latitude: 43.68Longtitude: 41.98
+Distance: 168.0Latitude: 43.68Longtitude: 42.02
+Distance: 159.0Latitude: 43.68Longtitude: 41.91
+Distance: 152.0Latitude: 43.68Longtitude: 41.82
+Distance: 150.0Latitude: 43.68Longtitude: 41.79
+Distance: 148.0Latitude: 43.68Longtitude: 41.76
+Distance: 144.0Latitude: 43.68Longtitude: 41.72
+Distance: 140.0Latitude: 43.68Longtitude: 41.66
+Distance: 133.0Latitude: 43.68Longtitude: 41.58
+Distance: 124.0Latitude: 43.68Longtitude: 41.46
+Distance: 123.0Latitude: 43.68Longtitude: 41.45
+Distance: 116.0Latitude: 43.69Longtitude: 41.36
+Distance: 114.0Latitude: 43.69Longtitude: 41.33
+Distance: 110.0Latitude: 43.69Longtitude: 41.28
+Distance: 105.0Latitude: 43.69Longtitude: 41.22
+Distance: 103.0Latitude: 43.69Longtitude: 41.19
+Distance: 121.0Latitude: 43.68Longtitude: 41.43
+Distance: 115.0Latitude: 43.69Longtitude: 41.34
+Distance: 111.0Latitude: 43.69Longtitude: 41.29
+Distance: 108.0Latitude: 43.69Longtitude: 41.26
+Distance: 104.0Latitude: 43.69Longtitude: 41.2
+Distance: 99.0Latitude: 43.69Longtitude: 41.14
+
+Callsign: PBD305
+Flight model: Boeing 737-8LJ
+Date: 2023-10-12 12:10:06.009850
+
+Runway: N/A
+Distance: 199.0Latitude: 43.67Longtitude: 42.41
+Distance: 195.0Latitude: 43.68Longtitude: 42.36
+Distance: 191.0Latitude: 43.68Longtitude: 42.3
+Distance: 187.0Latitude: 43.68Longtitude: 42.25
+Distance: 182.0Latitude: 43.68Longtitude: 42.19
+Distance: 178.0Latitude: 43.68Longtitude: 42.14
+Distance: 172.0Latitude: 43.68Longtitude: 42.07
+Distance: 169.0Latitude: 43.68Longtitude: 42.03
+Distance: 164.0Latitude: 43.68Longtitude: 41.97
+Distance: 159.0Latitude: 43.68Longtitude: 41.9
+Distance: 155.0Latitude: 43.68Longtitude: 41.85
+Distance: 152.0Latitude: 43.68Longtitude: 41.81
+Distance: 147.0Latitude: 43.68Longtitude: 41.75
+Distance: 144.0Latitude: 43.68Longtitude: 41.72
+Distance: 140.0Latitude: 43.68Longtitude: 41.66
+Distance: 136.0Latitude: 43.68Longtitude: 41.61
+Distance: 130.0Latitude: 43.68Longtitude: 41.54
+Distance: 125.0Latitude: 43.68Longtitude: 41.48
+Distance: 121.0Latitude: 43.68Longtitude: 41.42
+Distance: 118.0Latitude: 43.68Longtitude: 41.39
+Distance: 114.0Latitude: 43.68Longtitude: 41.34
+Distance: 110.0Latitude: 43.68Longtitude: 41.28
+Distance: 126.0Latitude: 43.69Longtitude: 41.49
+Distance: 121.0Latitude: 43.68Longtitude: 41.42
+Distance: 117.0Latitude: 43.68Longtitude: 41.37
+Distance: 112.0Latitude: 43.68Longtitude: 41.31
+Distance: 110.0Latitude: 43.68Longtitude: 41.28
+Distance: 106.0Latitude: 43.68Longtitude: 41.23
+
+Callsign: UTA267
+Flight model: Boeing 737-8EH
+Date: 2023-10-12 12:13:31.466582
+
+Runway: N/A
+Distance: 198.0Latitude: 43.67Longtitude: 42.4
+Distance: 194.0Latitude: 43.67Longtitude: 42.35
+Distance: 190.0Latitude: 43.68Longtitude: 42.29
+Distance: 186.0Latitude: 43.68Longtitude: 42.24
+Distance: 180.0Latitude: 43.68Longtitude: 42.17
+Distance: 176.0Latitude: 43.68Longtitude: 42.12
+Distance: 172.0Latitude: 43.68Longtitude: 42.07
+Distance: 168.0Latitude: 43.68Longtitude: 42.02
+Distance: 168.0Latitude: 43.68Longtitude: 42.02
+Distance: 161.0Latitude: 43.68Longtitude: 41.93
+Distance: 156.0Latitude: 43.68Longtitude: 41.87
+Distance: 152.0Latitude: 43.68Longtitude: 41.82
+Distance: 150.0Latitude: 43.68Longtitude: 41.79
+Distance: 145.0Latitude: 43.68Longtitude: 41.73
+Distance: 149.0Latitude: 43.68Longtitude: 41.78
+Distance: 144.0Latitude: 43.68Longtitude: 41.72
+Distance: 139.0Latitude: 43.68Longtitude: 41.65
+Distance: 135.0Latitude: 43.68Longtitude: 41.6
+Distance: 130.0Latitude: 43.68Longtitude: 41.54
+Distance: 126.0Latitude: 43.68Longtitude: 41.49
+Distance: 124.0Latitude: 43.68Longtitude: 41.46
+Distance: 120.0Latitude: 43.68Longtitude: 41.41
+Distance: 115.0Latitude: 43.68Longtitude: 41.35
+Distance: 110.0Latitude: 43.68Longtitude: 41.28
+Distance: 107.0Latitude: 43.68Longtitude: 41.25
+Distance: 102.0Latitude: 43.67Longtitude: 41.19
+Distance: 97.0Latitude: 43.66Longtitude: 41.12
+Distance: 94.0Latitude: 43.65Longtitude: 41.09
+Distance: 89.0Latitude: 43.64Longtitude: 41.03
+Distance: 85.0Latitude: 43.63Longtitude: 40.98
+Distance: 81.0Latitude: 43.63Longtitude: 40.93
+
+Callsign: SVR277
+Flight model: Airbus A320-232
+Date: 2023-10-12 12:20:02.964087
+
+Runway: N/A
+Distance: 195.0Latitude: 43.67Longtitude: 42.36
+Distance: 191.0Latitude: 43.67Longtitude: 42.31
+Distance: 186.0Latitude: 43.67Longtitude: 42.25
+Distance: 184.0Latitude: 43.68Longtitude: 42.22
+Distance: 179.0Latitude: 43.68Longtitude: 42.16
+Distance: 174.0Latitude: 43.68Longtitude: 42.09
+Distance: 174.0Latitude: 43.68Longtitude: 42.09
+Distance: 167.0Latitude: 43.68Longtitude: 42.01
+Distance: 163.0Latitude: 43.68Longtitude: 41.95
+Distance: 161.0Latitude: 43.68Longtitude: 41.93
+Distance: 156.0Latitude: 43.68Longtitude: 41.87
+Distance: 152.0Latitude: 43.68Longtitude: 41.81
+Distance: 155.0Latitude: 43.68Longtitude: 41.86
+Distance: 146.0Latitude: 43.68Longtitude: 41.74
+Distance: 143.0Latitude: 43.68Longtitude: 41.7
+Distance: 138.0Latitude: 43.68Longtitude: 41.64
+Distance: 136.0Latitude: 43.68Longtitude: 41.62
+Distance: 129.0Latitude: 43.68Longtitude: 41.53
+Distance: 128.0Latitude: 43.68Longtitude: 41.51
+Distance: 123.0Latitude: 43.68Longtitude: 41.45
+Distance: 124.0Latitude: 43.68Longtitude: 41.46
+Distance: 120.0Latitude: 43.68Longtitude: 41.41
+
+Callsign: PBD332
+Flight model: Boeing 737-8LJ
+Date: 2023-10-12 12:36:24.416370
+
+Runway: N/A
+Distance: 198.0Latitude: 43.67Longtitude: 42.39
+Distance: 194.0Latitude: 43.67Longtitude: 42.34
+Distance: 189.0Latitude: 43.68Longtitude: 42.28
+Distance: 184.0Latitude: 43.68Longtitude: 42.22
+Distance: 179.0Latitude: 43.68Longtitude: 42.16
+Distance: 175.0Latitude: 43.68Longtitude: 42.11
+Distance: 171.0Latitude: 43.68Longtitude: 42.05
+Distance: 167.0Latitude: 43.68Longtitude: 42.01
+Distance: 163.0Latitude: 43.68Longtitude: 41.96
+Distance: 158.0Latitude: 43.68Longtitude: 41.89
+Distance: 156.0Latitude: 43.68Longtitude: 41.87
+Distance: 153.0Latitude: 43.68Longtitude: 41.83
+Distance: 148.0Latitude: 43.68Longtitude: 41.76
+Distance: 143.0Latitude: 43.68Longtitude: 41.7
+Distance: 138.0Latitude: 43.68Longtitude: 41.64
+Distance: 134.0Latitude: 43.68Longtitude: 41.59
+Distance: 129.0Latitude: 43.68Longtitude: 41.53
+Distance: 127.0Latitude: 43.68Longtitude: 41.5
+Distance: 128.0Latitude: 43.68Longtitude: 41.51
+Distance: 125.0Latitude: 43.68Longtitude: 41.47
+Distance: 125.0Latitude: 43.68Longtitude: 41.47
+Distance: 118.0Latitude: 43.68Longtitude: 41.38
+Distance: 117.0Latitude: 43.68Longtitude: 41.37
+Distance: 112.0Latitude: 43.68Longtitude: 41.31
+Distance: 110.0Latitude: 43.68Longtitude: 41.28
+Distance: 105.0Latitude: 43.68Longtitude: 41.22
+Distance: 101.0Latitude: 43.68Longtitude: 41.17
+Distance: 96.0Latitude: 43.68Longtitude: 41.11
+Distance: 94.0Latitude: 43.68Longtitude: 41.08
+Distance: 89.0Latitude: 43.68Longtitude: 41.02
+Distance: 84.0Latitude: 43.67Longtitude: 40.95
+Distance: 81.0Latitude: 43.66Longtitude: 40.92
+
+Callsign: AFL1136
+Flight model: Airbus A321-211
+Date: 2023-10-12 12:55:41.227709
+
+Runway: N/A
+Distance: 199.0Latitude: 43.67Longtitude: 42.41
+Distance: 194.0Latitude: 43.67Longtitude: 42.34
+Distance: 189.0Latitude: 43.68Longtitude: 42.28
+Distance: 185.0Latitude: 43.68Longtitude: 42.23
+Distance: 183.0Latitude: 43.68Longtitude: 42.21
+Distance: 176.0Latitude: 43.68Longtitude: 42.12
+Distance: 172.0Latitude: 43.68Longtitude: 42.07
+Distance: 168.0Latitude: 43.68Longtitude: 42.02
+Distance: 163.0Latitude: 43.68Longtitude: 41.96
+Distance: 160.0Latitude: 43.68Longtitude: 41.92
+Distance: 154.0Latitude: 43.68Longtitude: 41.84
+Distance: 149.0Latitude: 43.68Longtitude: 41.78
+Distance: 145.0Latitude: 43.68Longtitude: 41.73
+Distance: 141.0Latitude: 43.68Longtitude: 41.68
+Distance: 141.0Latitude: 43.68Longtitude: 41.68
+Distance: 132.0Latitude: 43.68Longtitude: 41.56
+Distance: 131.0Latitude: 43.68Longtitude: 41.55
+Distance: 123.0Latitude: 43.67Longtitude: 41.45
+Distance: 121.0Latitude: 43.67Longtitude: 41.43
+Distance: 116.0Latitude: 43.67Longtitude: 41.37
+Distance: 112.0Latitude: 43.66Longtitude: 41.31
+Distance: 109.0Latitude: 43.66Longtitude: 41.28
+Distance: 109.0Latitude: 43.67Longtitude: 41.28
+Distance: 108.0Latitude: 43.67Longtitude: 41.26
+Distance: 103.0Latitude: 43.66Longtitude: 41.2
+
+Callsign: PBD338
+Flight model: Boeing 737-8LJ
+Date: 2023-10-12 12:58:24.584939
+
+Runway: N/A
+Distance: 198.0Latitude: 43.67Longtitude: 42.39
+Distance: 193.0Latitude: 43.67Longtitude: 42.33
+Distance: 187.0Latitude: 43.68Longtitude: 42.26
+Distance: 183.0Latitude: 43.68Longtitude: 42.21
+Distance: 179.0Latitude: 43.68Longtitude: 42.15
+Distance: 174.0Latitude: 43.68Longtitude: 42.09
+Distance: 170.0Latitude: 43.68Longtitude: 42.04
+Distance: 165.0Latitude: 43.68Longtitude: 41.98
+Distance: 161.0Latitude: 43.68Longtitude: 41.93
+Distance: 155.0Latitude: 43.68Longtitude: 41.86
+Distance: 151.0Latitude: 43.68Longtitude: 41.8
+Distance: 147.0Latitude: 43.68Longtitude: 41.75
+Distance: 143.0Latitude: 43.68Longtitude: 41.7
+Distance: 138.0Latitude: 43.68Longtitude: 41.64
+Distance: 137.0Latitude: 43.68Longtitude: 41.63
+Distance: 131.0Latitude: 43.68Longtitude: 41.55
+Distance: 126.0Latitude: 43.68Longtitude: 41.49
+Distance: 121.0Latitude: 43.68Longtitude: 41.43
+Distance: 119.0Latitude: 43.68Longtitude: 41.4
+Distance: 115.0Latitude: 43.68Longtitude: 41.35
+Distance: 110.0Latitude: 43.68Longtitude: 41.29
+Distance: 105.0Latitude: 43.68Longtitude: 41.22
+Distance: 122.0Latitude: 43.69Longtitude: 41.43
+Distance: 115.0Latitude: 43.69Longtitude: 41.34
+Distance: 111.0Latitude: 43.69Longtitude: 41.29
+Distance: 106.0Latitude: 43.69Longtitude: 41.23
+
+Callsign: SVR279
+Flight model: Airbus A321-251NX
+Date: 2023-10-12 13:01:30.148060
+
+Runway: N/A
+Distance: 196.0Latitude: 43.67Longtitude: 42.37
+Distance: 191.0Latitude: 43.68Longtitude: 42.31
+Distance: 187.0Latitude: 43.68Longtitude: 42.26
+Distance: 183.0Latitude: 43.68Longtitude: 42.2
+Distance: 178.0Latitude: 43.68Longtitude: 42.14
+Distance: 173.0Latitude: 43.68Longtitude: 42.08
+Distance: 168.0Latitude: 43.68Longtitude: 42.02
+Distance: 164.0Latitude: 43.68Longtitude: 41.97
+Distance: 159.0Latitude: 43.68Longtitude: 41.91
+Distance: 155.0Latitude: 43.68Longtitude: 41.86
+Distance: 150.0Latitude: 43.68Longtitude: 41.79
+Distance: 146.0Latitude: 43.68Longtitude: 41.74
+Distance: 142.0Latitude: 43.68Longtitude: 41.69
+Distance: 137.0Latitude: 43.68Longtitude: 41.63
+Distance: 132.0Latitude: 43.68Longtitude: 41.57
+Distance: 129.0Latitude: 43.68Longtitude: 41.52
+Distance: 124.0Latitude: 43.68Longtitude: 41.46
+Distance: 120.0Latitude: 43.68Longtitude: 41.41
+Distance: 106.0Latitude: 43.68Longtitude: 41.23
+Distance: 102.0Latitude: 43.68Longtitude: 41.18
+Distance: 92.0Latitude: 43.68Longtitude: 41.05
+Distance: 88.0Latitude: 43.68Longtitude: 41.0
+
+Callsign: AUL545
+Flight model: Boeing 737-8Q8
+Date: 2023-10-12 13:03:35.062425
+
+Runway: N/A
+Distance: 196.0Latitude: 43.67Longtitude: 42.37
+Distance: 192.0Latitude: 43.67Longtitude: 42.32
+Distance: 187.0Latitude: 43.68Longtitude: 42.26
+Distance: 183.0Latitude: 43.68Longtitude: 42.21
+Distance: 178.0Latitude: 43.68Longtitude: 42.14
+Distance: 174.0Latitude: 43.68Longtitude: 42.09
+Distance: 170.0Latitude: 43.68Longtitude: 42.04
+Distance: 166.0Latitude: 43.68Longtitude: 41.99
+Distance: 161.0Latitude: 43.68Longtitude: 41.93
+Distance: 157.0Latitude: 43.68Longtitude: 41.88
+Distance: 152.0Latitude: 43.68Longtitude: 41.82
+Distance: 148.0Latitude: 43.68Longtitude: 41.77
+Distance: 144.0Latitude: 43.68Longtitude: 41.71
+Distance: 141.0Latitude: 43.68Longtitude: 41.68
+Distance: 136.0Latitude: 43.68Longtitude: 41.62
+Distance: 132.0Latitude: 43.68Longtitude: 41.56
+Distance: 127.0Latitude: 43.68Longtitude: 41.5
+Distance: 124.0Latitude: 43.68Longtitude: 41.46
+
+Callsign: UTA249
+Flight model: Boeing 737-8KN
+Date: 2023-10-12 13:18:11.615501
+
+Runway: N/A
+Distance: 199.0Latitude: 43.67Longtitude: 42.41
+Distance: 194.0Latitude: 43.67Longtitude: 42.35
+Distance: 191.0Latitude: 43.68Longtitude: 42.3
+Distance: 186.0Latitude: 43.68Longtitude: 42.24
+Distance: 182.0Latitude: 43.68Longtitude: 42.19
+Distance: 177.0Latitude: 43.68Longtitude: 42.13
+Distance: 171.0Latitude: 43.68Longtitude: 42.06
+Distance: 167.0Latitude: 43.68Longtitude: 42.01
+Distance: 163.0Latitude: 43.68Longtitude: 41.95
+Distance: 159.0Latitude: 43.68Longtitude: 41.9
+Distance: 154.0Latitude: 43.68Longtitude: 41.84
+Distance: 150.0Latitude: 43.68Longtitude: 41.79
+Distance: 145.0Latitude: 43.68Longtitude: 41.73
+Distance: 141.0Latitude: 43.68Longtitude: 41.68
+Distance: 136.0Latitude: 43.68Longtitude: 41.62
+Distance: 132.0Latitude: 43.68Longtitude: 41.57
+Distance: 129.0Latitude: 43.68Longtitude: 41.52
+Distance: 125.0Latitude: 43.68Longtitude: 41.47
+Distance: 120.0Latitude: 43.68Longtitude: 41.41
+
+Callsign: AFL1122
+Flight model: Airbus A321-251NX
+Date: 2023-10-12 13:32:25.258996
+
+Runway: N/A
+Distance: 198.0Latitude: 43.67Longtitude: 42.39
+Distance: 193.0Latitude: 43.67Longtitude: 42.33
+Distance: 188.0Latitude: 43.68Longtitude: 42.27
+Distance: 184.0Latitude: 43.68Longtitude: 42.22
+Distance: 183.0Latitude: 43.68Longtitude: 42.21
+Distance: 175.0Latitude: 43.68Longtitude: 42.1
+Distance: 175.0Latitude: 43.68Longtitude: 42.1
+Distance: 167.0Latitude: 43.68Longtitude: 42.01
+Distance: 165.0Latitude: 43.68Longtitude: 41.98
+Distance: 158.0Latitude: 43.68Longtitude: 41.89
+Distance: 153.0Latitude: 43.68Longtitude: 41.83
+Distance: 151.0Latitude: 43.68Longtitude: 41.8
+Distance: 146.0Latitude: 43.68Longtitude: 41.74
+Distance: 141.0Latitude: 43.68Longtitude: 41.68
+Distance: 146.0Latitude: 43.68Longtitude: 41.74
+Distance: 140.0Latitude: 43.68Longtitude: 41.66
+Distance: 136.0Latitude: 43.68Longtitude: 41.62
+Distance: 132.0Latitude: 43.68Longtitude: 41.56
+Distance: 129.0Latitude: 43.68Longtitude: 41.53
+Distance: 122.0Latitude: 43.68Longtitude: 41.44
+Distance: 118.0Latitude: 43.68Longtitude: 41.38
+Distance: 115.0Latitude: 43.68Longtitude: 41.35
+Distance: 123.0Latitude: 43.68Longtitude: 41.45
+Distance: 118.0Latitude: 43.68Longtitude: 41.39
+Distance: 114.0Latitude: 43.68Longtitude: 41.33
+Distance: 109.0Latitude: 43.68Longtitude: 41.27
+Distance: 105.0Latitude: 43.68Longtitude: 41.22
+Distance: 103.0Latitude: 43.68Longtitude: 41.19
+Distance: 97.0Latitude: 43.68Longtitude: 41.12
+Distance: 93.0Latitude: 43.68Longtitude: 41.07
+Distance: 91.0Latitude: 43.68Longtitude: 41.04
+Distance: 86.0Latitude: 43.67Longtitude: 40.98
+Distance: 81.0Latitude: 43.67Longtitude: 40.92
+
+Callsign: PBD6941
+Flight model: Boeing 737-8AL
+Date: 2023-10-12 13:38:12.940634
+
+Runway: N/A
+Distance: 198.0Latitude: 43.67Longtitude: 42.39
+Distance: 192.0Latitude: 43.67Longtitude: 42.32
+Distance: 187.0Latitude: 43.68Longtitude: 42.26
+Distance: 183.0Latitude: 43.68Longtitude: 42.21
+Distance: 179.0Latitude: 43.68Longtitude: 42.16
+Distance: 175.0Latitude: 43.68Longtitude: 42.1
+Distance: 171.0Latitude: 43.68Longtitude: 42.05
+Distance: 166.0Latitude: 43.68Longtitude: 41.99
+Distance: 160.0Latitude: 43.68Longtitude: 41.92
+Distance: 157.0Latitude: 43.68Longtitude: 41.88
+Distance: 153.0Latitude: 43.68Longtitude: 41.83
+Distance: 148.0Latitude: 43.68Longtitude: 41.77
+Distance: 144.0Latitude: 43.68Longtitude: 41.72
+Distance: 143.0Latitude: 43.68Longtitude: 41.7
+Distance: 136.0Latitude: 43.68Longtitude: 41.61
+Distance: 134.0Latitude: 43.68Longtitude: 41.59
+Distance: 129.0Latitude: 43.68Longtitude: 41.53
+Distance: 125.0Latitude: 43.68Longtitude: 41.48
+Distance: 123.0Latitude: 43.68Longtitude: 41.45
+Distance: 118.0Latitude: 43.68Longtitude: 41.39
+Distance: 113.0Latitude: 43.67Longtitude: 41.32
+Distance: 108.0Latitude: 43.67Longtitude: 41.26
+Distance: 105.0Latitude: 43.66Longtitude: 41.23
+Distance: 100.0Latitude: 43.65Longtitude: 41.16
+Distance: 95.0Latitude: 43.64Longtitude: 41.1
+Distance: 92.0Latitude: 43.64Longtitude: 41.07
+Distance: 87.0Latitude: 43.63Longtitude: 41.01
+Distance: 81.0Latitude: 43.62Longtitude: 40.94
+
+Callsign: SYL773
+Flight model: Boeing 737-86N
+Date: 2023-10-12 13:49:53.113183
+
+Runway: N/A
+Distance: 198.0Latitude: 43.67Longtitude: 42.4
+Distance: 193.0Latitude: 43.67Longtitude: 42.33
+Distance: 188.0Latitude: 43.68Longtitude: 42.27
+Distance: 184.0Latitude: 43.68Longtitude: 42.22
+Distance: 179.0Latitude: 43.68Longtitude: 42.16
+Distance: 175.0Latitude: 43.68Longtitude: 42.11
+Distance: 171.0Latitude: 43.68Longtitude: 42.05
+Distance: 166.0Latitude: 43.68Longtitude: 41.99
+Distance: 162.0Latitude: 43.68Longtitude: 41.94
+Distance: 157.0Latitude: 43.68Longtitude: 41.88
+Distance: 153.0Latitude: 43.68Longtitude: 41.83
+Distance: 148.0Latitude: 43.68Longtitude: 41.76
+Distance: 143.0Latitude: 43.68Longtitude: 41.7
+Distance: 139.0Latitude: 43.68Longtitude: 41.65
+Distance: 135.0Latitude: 43.68Longtitude: 41.6
+Distance: 130.0Latitude: 43.68Longtitude: 41.54
+Distance: 125.0Latitude: 43.68Longtitude: 41.48
+Distance: 121.0Latitude: 43.68Longtitude: 41.43
+Distance: 117.0Latitude: 43.68Longtitude: 41.37
+Distance: 112.0Latitude: 43.69Longtitude: 41.31
+Distance: 109.0Latitude: 43.69Longtitude: 41.27
+Distance: 104.0Latitude: 43.69Longtitude: 41.2
+
+Callsign: SYL473
+Flight model: Boeing 737-7CT
+Date: 2023-10-12 14:00:54.402087
+
+Runway: N/A
+Distance: 199.0Latitude: 43.67Longtitude: 42.41
+Distance: 195.0Latitude: 43.67Longtitude: 42.36
+Distance: 191.0Latitude: 43.68Longtitude: 42.3
+Distance: 187.0Latitude: 43.68Longtitude: 42.25
+Distance: 183.0Latitude: 43.68Longtitude: 42.2
+Distance: 178.0Latitude: 43.68Longtitude: 42.14
+Distance: 174.0Latitude: 43.68Longtitude: 42.09
+Distance: 169.0Latitude: 43.68Longtitude: 42.03
+Distance: 163.0Latitude: 43.68Longtitude: 41.96
+Distance: 159.0Latitude: 43.68Longtitude: 41.91
+Distance: 155.0Latitude: 43.68Longtitude: 41.85
+Distance: 150.0Latitude: 43.68Longtitude: 41.79
+Distance: 146.0Latitude: 43.68Longtitude: 41.74
+Distance: 141.0Latitude: 43.68Longtitude: 41.68
+Distance: 137.0Latitude: 43.68Longtitude: 41.63
+Distance: 132.0Latitude: 43.68Longtitude: 41.56
+Distance: 128.0Latitude: 43.68Longtitude: 41.51
+Distance: 123.0Latitude: 43.68Longtitude: 41.45
+Distance: 119.0Latitude: 43.68Longtitude: 41.4
+Distance: 114.0Latitude: 43.68Longtitude: 41.34
+Distance: 110.0Latitude: 43.68Longtitude: 41.29
+Distance: 108.0Latitude: 43.69Longtitude: 41.25
+Distance: 103.0Latitude: 43.69Longtitude: 41.19
+Distance: 99.0Latitude: 43.69Longtitude: 41.14
+Distance: 94.0Latitude: 43.69Longtitude: 41.08
+Distance: 92.0Latitude: 43.69Longtitude: 41.05
+Distance: 88.0Latitude: 43.69Longtitude: 41.0
+Distance: 84.0Latitude: 43.69Longtitude: 40.94
+
+Callsign: AFL1030
+Flight model: Airbus A320-214
+Date: 2023-10-12 14:05:20.627250
+
+Runway: N/A
+Distance: 196.0Latitude: 43.67Longtitude: 42.37
+Distance: 192.0Latitude: 43.67Longtitude: 42.32
+Distance: 187.0Latitude: 43.68Longtitude: 42.26
+Distance: 183.0Latitude: 43.68Longtitude: 42.2
+Distance: 179.0Latitude: 43.68Longtitude: 42.16
+Distance: 174.0Latitude: 43.68Longtitude: 42.09
+Distance: 170.0Latitude: 43.68Longtitude: 42.04
+Distance: 169.0Latitude: 43.68Longtitude: 42.03
+Distance: 161.0Latitude: 43.68Longtitude: 41.93
+Distance: 158.0Latitude: 43.68Longtitude: 41.89
+Distance: 152.0Latitude: 43.68Longtitude: 41.82
+Distance: 148.0Latitude: 43.68Longtitude: 41.76
+Distance: 143.0Latitude: 43.68Longtitude: 41.7
+Distance: 141.0Latitude: 43.68Longtitude: 41.68
+Distance: 136.0Latitude: 43.68Longtitude: 41.62
+Distance: 132.0Latitude: 43.68Longtitude: 41.57
+Distance: 128.0Latitude: 43.68Longtitude: 41.51
+Distance: 123.0Latitude: 43.68Longtitude: 41.45
+Distance: 121.0Latitude: 43.68Longtitude: 41.43
+Distance: 116.0Latitude: 43.68Longtitude: 41.36
+Distance: 123.0Latitude: 43.68Longtitude: 41.45
+Distance: 117.0Latitude: 43.68Longtitude: 41.37
+Distance: 115.0Latitude: 43.69Longtitude: 41.35
+Distance: 111.0Latitude: 43.69Longtitude: 41.3
+Distance: 107.0Latitude: 43.69Longtitude: 41.24
+Distance: 104.0Latitude: 43.69Longtitude: 41.21
+Distance: 101.0Latitude: 43.69Longtitude: 41.16
+Distance: 96.0Latitude: 43.69Longtitude: 41.1
+Distance: 89.0Latitude: 43.69Longtitude: 41.01
+
+Callsign: PBD324
+Flight model: Boeing 737-8MA
+Date: 2023-10-12 14:10:49.770363
+
+Runway: N/A
+Distance: 196.0Latitude: 43.65Longtitude: 42.37
+Distance: 192.0Latitude: 43.66Longtitude: 42.32
+Distance: 187.0Latitude: 43.66Longtitude: 42.26
+Distance: 183.0Latitude: 43.66Longtitude: 42.21
+Distance: 178.0Latitude: 43.66Longtitude: 42.15
+Distance: 173.0Latitude: 43.66Longtitude: 42.09
+Distance: 168.0Latitude: 43.66Longtitude: 42.02
+Distance: 165.0Latitude: 43.66Longtitude: 41.98
+Distance: 160.0Latitude: 43.67Longtitude: 41.92
+Distance: 156.0Latitude: 43.67Longtitude: 41.87
+Distance: 153.0Latitude: 43.67Longtitude: 41.83
+Distance: 146.0Latitude: 43.67Longtitude: 41.74
+Distance: 143.0Latitude: 43.67Longtitude: 41.71
+Distance: 138.0Latitude: 43.67Longtitude: 41.64
+Distance: 136.0Latitude: 43.67Longtitude: 41.62
+Distance: 131.0Latitude: 43.67Longtitude: 41.56
+Distance: 127.0Latitude: 43.67Longtitude: 41.5
+Distance: 122.0Latitude: 43.67Longtitude: 41.44
+Distance: 129.0Latitude: 43.68Longtitude: 41.52
+Distance: 121.0Latitude: 43.68Longtitude: 41.42
+Distance: 116.0Latitude: 43.68Longtitude: 41.36
+Distance: 114.0Latitude: 43.68Longtitude: 41.33
+Distance: 109.0Latitude: 43.68Longtitude: 41.27
+Distance: 114.0Latitude: 43.68Longtitude: 41.33
+Distance: 107.0Latitude: 43.68Longtitude: 41.24
+Distance: 104.0Latitude: 43.68Longtitude: 41.21
+Distance: 100.0Latitude: 43.68Longtitude: 41.16
+Distance: 96.0Latitude: 43.68Longtitude: 41.1
+Distance: 92.0Latitude: 43.68Longtitude: 41.05
+Distance: 89.0Latitude: 43.68Longtitude: 41.02
+Distance: 85.0Latitude: 43.68Longtitude: 40.96
+
+Callsign: SVR377
+Flight model: Airbus A320-214
+Date: 2023-10-12 14:13:56.466457
+
+Runway: N/A
+Distance: 200.0Latitude: 43.67Longtitude: 42.42
+Distance: 191.0Latitude: 43.67Longtitude: 42.31
+Distance: 186.0Latitude: 43.68Longtitude: 42.24
+Distance: 183.0Latitude: 43.68Longtitude: 42.21
+Distance: 181.0Latitude: 43.68Longtitude: 42.18
+Distance: 176.0Latitude: 43.68Longtitude: 42.12
+Distance: 176.0Latitude: 43.68Longtitude: 42.12
+Distance: 165.0Latitude: 43.68Longtitude: 41.98
+Distance: 161.0Latitude: 43.68Longtitude: 41.93
+Distance: 157.0Latitude: 43.68Longtitude: 41.88
+Distance: 159.0Latitude: 43.68Longtitude: 41.9
+Distance: 152.0Latitude: 43.68Longtitude: 41.82
+Distance: 148.0Latitude: 43.68Longtitude: 41.77
+Distance: 153.0Latitude: 43.68Longtitude: 41.83
+Distance: 139.0Latitude: 43.68Longtitude: 41.65
+Distance: 132.0Latitude: 43.68Longtitude: 41.56
+Distance: 126.0Latitude: 43.68Longtitude: 41.49
+Distance: 124.0Latitude: 43.68Longtitude: 41.46
+Distance: 121.0Latitude: 43.68Longtitude: 41.43
+Distance: 117.0Latitude: 43.68Longtitude: 41.37
+Distance: 113.0Latitude: 43.68Longtitude: 41.32
+Distance: 110.0Latitude: 43.68Longtitude: 41.29
+Distance: 107.0Latitude: 43.68Longtitude: 41.24
+Distance: 103.0Latitude: 43.68Longtitude: 41.19
+Distance: 100.0Latitude: 43.68Longtitude: 41.16
+Distance: 95.0Latitude: 43.67Longtitude: 41.1
+Distance: 90.0Latitude: 43.66Longtitude: 41.04
+Distance: 85.0Latitude: 43.65Longtitude: 40.98
+Distance: 83.0Latitude: 43.65Longtitude: 40.95
+
+Callsign: SBI2045
+Flight model: Airbus A321-211
+Date: 2023-10-12 14:31:57.733793
+
+Runway: N/A
+Distance: 200.0Latitude: 43.67Longtitude: 42.42
+Distance: 195.0Latitude: 43.67Longtitude: 42.36
+Distance: 191.0Latitude: 43.68Longtitude: 42.31
+Distance: 187.0Latitude: 43.68Longtitude: 42.25
+Distance: 183.0Latitude: 43.68Longtitude: 42.2
+Distance: 178.0Latitude: 43.68Longtitude: 42.14
+Distance: 173.0Latitude: 43.68Longtitude: 42.08
+Distance: 169.0Latitude: 43.68Longtitude: 42.03
+Distance: 169.0Latitude: 43.68Longtitude: 42.03
+Distance: 163.0Latitude: 43.68Longtitude: 41.95
+Distance: 155.0Latitude: 43.68Longtitude: 41.86
+Distance: 150.0Latitude: 43.68Longtitude: 41.79
+Distance: 146.0Latitude: 43.68Longtitude: 41.74
+Distance: 141.0Latitude: 43.68Longtitude: 41.68
+Distance: 137.0Latitude: 43.69Longtitude: 41.62
+Distance: 137.0Latitude: 43.69Longtitude: 41.62
+Distance: 129.0Latitude: 43.68Longtitude: 41.53
+Distance: 125.0Latitude: 43.68Longtitude: 41.47
+Distance: 120.0Latitude: 43.68Longtitude: 41.41
+Distance: 118.0Latitude: 43.68Longtitude: 41.38
+Distance: 113.0Latitude: 43.68Longtitude: 41.32
+Distance: 108.0Latitude: 43.68Longtitude: 41.26
+Distance: 106.0Latitude: 43.68Longtitude: 41.23
+Distance: 114.0Latitude: 43.69Longtitude: 41.33
+Distance: 107.0Latitude: 43.68Longtitude: 41.24
+Distance: 104.0Latitude: 43.68Longtitude: 41.21
+Distance: 99.0Latitude: 43.68Longtitude: 41.15
+Distance: 100.0Latitude: 43.68Longtitude: 41.16
+Distance: 93.0Latitude: 43.68Longtitude: 41.07
+Distance: 89.0Latitude: 43.67Longtitude: 41.02
+
+Callsign: SDM6717
+Flight model: Sukhoi Superjet 100-95B
+Date: 2023-10-12 14:38:30.618657
+
+Runway: N/A
+Distance: 200.0Latitude: 43.67Longtitude: 42.42
+Distance: 196.0Latitude: 43.67Longtitude: 42.37
+Distance: 191.0Latitude: 43.68Longtitude: 42.31
+Distance: 187.0Latitude: 43.68Longtitude: 42.26
+Distance: 183.0Latitude: 43.68Longtitude: 42.2
+Distance: 178.0Latitude: 43.68Longtitude: 42.14
+Distance: 174.0Latitude: 43.68Longtitude: 42.09
+Distance: 169.0Latitude: 43.68Longtitude: 42.03
+Distance: 165.0Latitude: 43.68Longtitude: 41.98
+Distance: 159.0Latitude: 43.68Longtitude: 41.91
+Distance: 155.0Latitude: 43.68Longtitude: 41.86
+Distance: 152.0Latitude: 43.68Longtitude: 41.81
+Distance: 147.0Latitude: 43.68Longtitude: 41.75
+Distance: 141.0Latitude: 43.68Longtitude: 41.68
+Distance: 137.0Latitude: 43.68Longtitude: 41.63
+Distance: 133.0Latitude: 43.68Longtitude: 41.58
+Distance: 129.0Latitude: 43.68Longtitude: 41.53
+Distance: 125.0Latitude: 43.68Longtitude: 41.47
+Distance: 124.0Latitude: 43.68Longtitude: 41.46
+Distance: 117.0Latitude: 43.68Longtitude: 41.37
+Distance: 114.0Latitude: 43.68Longtitude: 41.34
+Distance: 110.0Latitude: 43.68Longtitude: 41.28
+Distance: 106.0Latitude: 43.68Longtitude: 41.23
+Distance: 103.0Latitude: 43.68Longtitude: 41.2
+Distance: 104.0Latitude: 43.69Longtitude: 41.2
+Distance: 102.0Latitude: 43.69Longtitude: 41.18
+Distance: 97.0Latitude: 43.69Longtitude: 41.11
+Distance: 92.0Latitude: 43.69Longtitude: 41.05
+Distance: 82.0Latitude: 43.69Longtitude: 40.92
+
+Callsign: AZO786
+Flight model: Sukhoi Superjet 100-95B
+Date: 2023-10-12 14:40:56.837542
+
+Runway: N/A
+Distance: 200.0Latitude: 43.67Longtitude: 42.42
+Distance: 195.0Latitude: 43.67Longtitude: 42.36
+Distance: 190.0Latitude: 43.68Longtitude: 42.29
+Distance: 186.0Latitude: 43.68Longtitude: 42.24
+Distance: 181.0Latitude: 43.68Longtitude: 42.18
+Distance: 176.0Latitude: 43.68Longtitude: 42.12
+Distance: 171.0Latitude: 43.68Longtitude: 42.06
+Distance: 167.0Latitude: 43.68Longtitude: 42.0
+Distance: 162.0Latitude: 43.68Longtitude: 41.94
+Distance: 158.0Latitude: 43.68Longtitude: 41.89
+Distance: 154.0Latitude: 43.68Longtitude: 41.84
+Distance: 148.0Latitude: 43.68Longtitude: 41.77
+Distance: 144.0Latitude: 43.68Longtitude: 41.71
+Distance: 139.0Latitude: 43.68Longtitude: 41.65
+Distance: 135.0Latitude: 43.68Longtitude: 41.6
+Distance: 130.0Latitude: 43.68Longtitude: 41.54
+Distance: 126.0Latitude: 43.68Longtitude: 41.49
+Distance: 121.0Latitude: 43.68Longtitude: 41.43
+
+Callsign: SVR407
+Flight model: Airbus A320-214
+Date: 2023-10-12 15:07:29.222264
+
+Runway: N/A
+Distance: 197.0Latitude: 43.67Longtitude: 42.38
+Distance: 192.0Latitude: 43.67Longtitude: 42.32
+Distance: 188.0Latitude: 43.68Longtitude: 42.27
+Distance: 183.0Latitude: 43.68Longtitude: 42.21
+Distance: 179.0Latitude: 43.68Longtitude: 42.16
+Distance: 175.0Latitude: 43.68Longtitude: 42.1
+Distance: 171.0Latitude: 43.68Longtitude: 42.05
+Distance: 166.0Latitude: 43.68Longtitude: 41.99
+Distance: 162.0Latitude: 43.68Longtitude: 41.94
+Distance: 158.0Latitude: 43.68Longtitude: 41.89
+Distance: 152.0Latitude: 43.68Longtitude: 41.82
+Distance: 148.0Latitude: 43.68Longtitude: 41.77
+Distance: 143.0Latitude: 43.67Longtitude: 41.71
+Distance: 140.0Latitude: 43.67Longtitude: 41.67
+Distance: 135.0Latitude: 43.67Longtitude: 41.61
+Distance: 131.0Latitude: 43.67Longtitude: 41.55
+Distance: 128.0Latitude: 43.66Longtitude: 41.52
+Distance: 124.0Latitude: 43.66Longtitude: 41.47
+Distance: 119.0Latitude: 43.66Longtitude: 41.41
+Distance: 119.0Latitude: 43.66Longtitude: 41.41
+Distance: 115.0Latitude: 43.66Longtitude: 41.35
+Distance: 111.0Latitude: 43.65Longtitude: 41.3
+Distance: 106.0Latitude: 43.65Longtitude: 41.24
+Distance: 103.0Latitude: 43.65Longtitude: 41.21
+Distance: 98.0Latitude: 43.64Longtitude: 41.15
+Distance: 94.0Latitude: 43.64Longtitude: 41.09
+Distance: 90.0Latitude: 43.63Longtitude: 41.05
+Distance: 85.0Latitude: 43.62Longtitude: 40.99
+Distance: 80.0Latitude: 43.61Longtitude: 40.92
+
+Callsign: SBI5105
+Flight model: Airbus A320-271N
+Date: 2023-10-12 15:10:53.879093
+
+Runway: N/A
+Distance: 192.0Latitude: 43.67Longtitude: 42.32
+Distance: 189.0Latitude: 43.68Longtitude: 42.28
+Distance: 187.0Latitude: 43.68Longtitude: 42.26
+Distance: 180.0Latitude: 43.68Longtitude: 42.17
+Distance: 178.0Latitude: 43.68Longtitude: 42.14
+Distance: 171.0Latitude: 43.68Longtitude: 42.05
+Distance: 171.0Latitude: 43.68Longtitude: 42.05
+Distance: 163.0Latitude: 43.68Longtitude: 41.95
+Distance: 160.0Latitude: 43.68Longtitude: 41.92
+Distance: 156.0Latitude: 43.68Longtitude: 41.87
+Distance: 152.0Latitude: 43.68Longtitude: 41.81
+Distance: 150.0Latitude: 43.68Longtitude: 41.79
+Distance: 145.0Latitude: 43.68Longtitude: 41.73
+Distance: 140.0Latitude: 43.68Longtitude: 41.67
+Distance: 136.0Latitude: 43.68Longtitude: 41.62
+Distance: 132.0Latitude: 43.68Longtitude: 41.56
+Distance: 128.0Latitude: 43.68Longtitude: 41.51
+Distance: 123.0Latitude: 43.68Longtitude: 41.45
+Distance: 121.0Latitude: 43.68Longtitude: 41.43
+Distance: 118.0Latitude: 43.68Longtitude: 41.39
+Distance: 112.0Latitude: 43.67Longtitude: 41.31
+Distance: 105.0Latitude: 43.67Longtitude: 41.23
+Distance: 103.0Latitude: 43.66Longtitude: 41.2
+Distance: 97.0Latitude: 43.66Longtitude: 41.12
+Distance: 93.0Latitude: 43.66Longtitude: 41.08
+Distance: 89.0Latitude: 43.65Longtitude: 41.02
+
+Callsign: LLM885
+Flight model: Airbus A320-232
+Date: 2023-10-12 15:12:17.472580
+
+Runway: N/A
+Distance: 200.0Latitude: 43.67Longtitude: 42.42
+Distance: 195.0Latitude: 43.67Longtitude: 42.36
+Distance: 191.0Latitude: 43.68Longtitude: 42.31
+Distance: 187.0Latitude: 43.68Longtitude: 42.25
+Distance: 183.0Latitude: 43.68Longtitude: 42.2
+Distance: 178.0Latitude: 43.68Longtitude: 42.14
+Distance: 174.0Latitude: 43.68Longtitude: 42.09
+Distance: 169.0Latitude: 43.68Longtitude: 42.03
+Distance: 164.0Latitude: 43.68Longtitude: 41.97
+Distance: 159.0Latitude: 43.68Longtitude: 41.91
+Distance: 155.0Latitude: 43.68Longtitude: 41.85
+Distance: 151.0Latitude: 43.68Longtitude: 41.8
+Distance: 146.0Latitude: 43.68Longtitude: 41.74
+Distance: 140.0Latitude: 43.68Longtitude: 41.67
+Distance: 136.0Latitude: 43.68Longtitude: 41.62
+Distance: 132.0Latitude: 43.68Longtitude: 41.57
+Distance: 128.0Latitude: 43.68Longtitude: 41.51
+Distance: 124.0Latitude: 43.68Longtitude: 41.46
+Distance: 120.0Latitude: 43.68Longtitude: 41.41
+
+Callsign: SVR219
+Flight model: Airbus A321-231
+Date: 2023-10-12 15:21:33.468566
+
+Runway: N/A
+Distance: 198.0Latitude: 43.67Longtitude: 42.4
+Distance: 196.0Latitude: 43.67Longtitude: 42.37
+Distance: 179.0Latitude: 43.68Longtitude: 42.15
+Distance: 172.0Latitude: 43.68Longtitude: 42.07
+Distance: 167.0Latitude: 43.68Longtitude: 42.01
+Distance: 165.0Latitude: 43.68Longtitude: 41.98
+Distance: 160.0Latitude: 43.68Longtitude: 41.92
+Distance: 156.0Latitude: 43.68Longtitude: 41.87
+Distance: 152.0Latitude: 43.68Longtitude: 41.81
+Distance: 149.0Latitude: 43.68Longtitude: 41.78
+Distance: 145.0Latitude: 43.68Longtitude: 41.73
+Distance: 140.0Latitude: 43.68Longtitude: 41.66
+Distance: 183.0Latitude: 43.68Longtitude: 42.2
+
+Callsign: SVR547
+Flight model: Airbus A321-251NX
+Date: 2023-10-12 15:50:37.009410
+
+Runway: N/A
+Distance: 32.0Latitude: 43.611Longtitude: 40.285
+Distance: 32.0Latitude: 43.611Longtitude: 40.285
+
+Callsign: AFL2814
+Flight model: Airbus A320-214
+Date: 2023-10-12 16:02:31.872437
+
+Runway: N/A
+Distance: 197.0Latitude: 43.674Longtitude: 42.38
+Distance: 193.0Latitude: 43.675Longtitude: 42.332
+Distance: 188.0Latitude: 43.675Longtitude: 42.267
+Distance: 183.0Latitude: 43.676Longtitude: 42.211
+Distance: 180.0Latitude: 43.677Longtitude: 42.163
+Distance: 174.0Latitude: 43.678Longtitude: 42.097
+Distance: 170.0Latitude: 43.679Longtitude: 42.04
+Distance: 165.0Latitude: 43.679Longtitude: 41.982
+Distance: 160.0Latitude: 43.68Longtitude: 41.922
+Distance: 156.0Latitude: 43.681Longtitude: 41.865
+Distance: 153.0Latitude: 43.679Longtitude: 41.833
+Distance: 149.0Latitude: 43.679Longtitude: 41.774
+Distance: 143.0Latitude: 43.681Longtitude: 41.702
+Distance: 143.0Latitude: 43.681Longtitude: 41.697
+Distance: 135.0Latitude: 43.681Longtitude: 41.606
+Distance: 131.0Latitude: 43.681Longtitude: 41.551
+Distance: 129.0Latitude: 43.681Longtitude: 41.524
+Distance: 125.0Latitude: 43.681Longtitude: 41.469
+Distance: 120.0Latitude: 43.68Longtitude: 41.409
+Distance: 126.0Latitude: 43.684Longtitude: 41.484
+Distance: 119.0Latitude: 43.683Longtitude: 41.401
+Distance: 117.0Latitude: 43.683Longtitude: 41.374
+Distance: 113.0Latitude: 43.682Longtitude: 41.319
+Distance: 109.0Latitude: 43.682Longtitude: 41.265
+Distance: 104.0Latitude: 43.68Longtitude: 41.207
+Distance: 101.0Latitude: 43.677Longtitude: 41.175
+Distance: 96.0Latitude: 43.67Longtitude: 41.112
+Distance: 91.0Latitude: 43.66Longtitude: 41.05
+Distance: 86.0Latitude: 43.649Longtitude: 40.988
+Distance: 83.0Latitude: 43.643Longtitude: 40.957
+Distance: 78.0Latitude: 43.632Longtitude: 40.896
+Distance: 73.0Latitude: 43.621Longtitude: 40.834
+Distance: 68.0Latitude: 43.61Longtitude: 40.772
+Distance: 66.0Latitude: 43.605Longtitude: 40.741
+Distance: 60.0Latitude: 43.594Longtitude: 40.68
+Distance: 55.0Latitude: 43.582Longtitude: 40.618
+Distance: 115.0Latitude: 43.684Longtitude: 41.35
+Distance: 113.0Latitude: 43.684Longtitude: 41.326
+Distance: 110.0Latitude: 43.683Longtitude: 41.279
+Distance: 106.0Latitude: 43.683Longtitude: 41.232
+Distance: 102.0Latitude: 43.682Longtitude: 41.184
+Distance: 100.0Latitude: 43.682Longtitude: 41.161
+Distance: 97.0Latitude: 43.681Longtitude: 41.114
+Distance: 93.0Latitude: 43.681Longtitude: 41.066
+Distance: 89.0Latitude: 43.68Longtitude: 41.019
+Distance: 87.0Latitude: 43.68Longtitude: 40.995
+Distance: 84.0Latitude: 43.679Longtitude: 40.948
+Distance: 84.0Latitude: 43.679Longtitude: 40.948
+Distance: 84.0Latitude: 43.679Longtitude: 40.948
+Distance: 84.0Latitude: 43.679Longtitude: 40.948
+
+Callsign: SVR421
+Flight model: Airbus A320-214
+Date: 2023-10-12 16:08:11.319621
+
+Runway: N/A
+Distance: 196.0Latitude: 43.674Longtitude: 42.37
+Distance: 192.0Latitude: 43.675Longtitude: 42.32
+Distance: 187.0Latitude: 43.676Longtitude: 42.252
+Distance: 182.0Latitude: 43.677Longtitude: 42.194
+Distance: 178.0Latitude: 43.677Longtitude: 42.144
+Distance: 173.0Latitude: 43.678Longtitude: 42.086
+Distance: 169.0Latitude: 43.679Longtitude: 42.036
+Distance: 164.0Latitude: 43.679Longtitude: 41.971
+Distance: 160.0Latitude: 43.68Longtitude: 41.913
+Distance: 155.0Latitude: 43.681Longtitude: 41.855
+Distance: 151.0Latitude: 43.681Longtitude: 41.807
+Distance: 147.0Latitude: 43.682Longtitude: 41.755
+Distance: 142.0Latitude: 43.682Longtitude: 41.687
+Distance: 138.0Latitude: 43.683Longtitude: 41.634
+Distance: 133.0Latitude: 43.683Longtitude: 41.58
+Distance: 129.0Latitude: 43.684Longtitude: 41.521
+Distance: 123.0Latitude: 43.684Longtitude: 41.454
+Distance: 119.0Latitude: 43.685Longtitude: 41.403
+Distance: 115.0Latitude: 43.685Longtitude: 41.345
+Distance: 111.0Latitude: 43.685Longtitude: 41.297
+Distance: 106.0Latitude: 43.685Longtitude: 41.231
+Distance: 102.0Latitude: 43.686Longtitude: 41.175
+Distance: 98.0Latitude: 43.686Longtitude: 41.126
+Distance: 93.0Latitude: 43.686Longtitude: 41.063
+Distance: 89.0Latitude: 43.686Longtitude: 41.007
+Distance: 88.0Latitude: 43.686Longtitude: 40.995
+Distance: 83.0Latitude: 43.686Longtitude: 40.934
+Distance: 79.0Latitude: 43.686Longtitude: 40.881
+Distance: 75.0Latitude: 43.686Longtitude: 40.829
+Distance: 71.0Latitude: 43.686Longtitude: 40.777
+Distance: 67.0Latitude: 43.686Longtitude: 40.724
+Distance: 65.0Latitude: 43.686Longtitude: 40.698
+Distance: 61.0Latitude: 43.686Longtitude: 40.646
+Distance: 58.0Latitude: 43.686Longtitude: 40.594
+Distance: 54.0Latitude: 43.686Longtitude: 40.542
+Distance: 50.0Latitude: 43.686Longtitude: 40.489
+Distance: 50.0Latitude: 43.686Longtitude: 40.489
+Distance: 50.0Latitude: 43.686Longtitude: 40.489
+Distance: 50.0Latitude: 43.686Longtitude: 40.489
+Distance: 50.0Latitude: 43.686Longtitude: 40.489
+
+Callsign: SDM6565
+Flight model: Airbus A320-214
+Date: 2023-10-12 16:13:03.206638
+
+Runway: N/A
+Distance: 200.0Latitude: 43.673Longtitude: 42.417
+Distance: 196.0Latitude: 43.674Longtitude: 42.367
+Distance: 190.0Latitude: 43.675Longtitude: 42.299
+Distance: 186.0Latitude: 43.676Longtitude: 42.24
+Distance: 181.0Latitude: 43.677Longtitude: 42.183
+Distance: 177.0Latitude: 43.677Longtitude: 42.133
+Distance: 172.0Latitude: 43.678Longtitude: 42.065
+Distance: 167.0Latitude: 43.679Longtitude: 42.006
+Distance: 163.0Latitude: 43.68Longtitude: 41.95
+Distance: 157.0Latitude: 43.681Longtitude: 41.882
+Distance: 153.0Latitude: 43.681Longtitude: 41.832
+Distance: 149.0Latitude: 43.682Longtitude: 41.772
+Distance: 144.0Latitude: 43.682Longtitude: 41.721
+Distance: 139.0Latitude: 43.683Longtitude: 41.655
+Distance: 135.0Latitude: 43.683Longtitude: 41.601
+Distance: 132.0Latitude: 43.683Longtitude: 41.563
+Distance: 127.0Latitude: 43.683Longtitude: 41.504
+Distance: 123.0Latitude: 43.683Longtitude: 41.447
+Distance: 118.0Latitude: 43.683Longtitude: 41.39
+Distance: 114.0Latitude: 43.683Longtitude: 41.333
+Distance: 112.0Latitude: 43.683Longtitude: 41.304
+Distance: 106.0Latitude: 43.68Longtitude: 41.237
+Distance: 101.0Latitude: 43.673Longtitude: 41.171
+Distance: 118.0Latitude: 43.685Longtitude: 41.38
+Distance: 111.0Latitude: 43.685Longtitude: 41.292
+Distance: 106.0Latitude: 43.685Longtitude: 41.235
+Distance: 102.0Latitude: 43.685Longtitude: 41.177
+Distance: 100.0Latitude: 43.685Longtitude: 41.149
+Distance: 95.0Latitude: 43.683Longtitude: 41.087
+Distance: 89.0Latitude: 43.676Longtitude: 41.02
+Distance: 84.0Latitude: 43.665Longtitude: 40.954
+Distance: 93.0Latitude: 43.686Longtitude: 41.065
+Distance: 87.0Latitude: 43.686Longtitude: 40.982
+Distance: 83.0Latitude: 43.686Longtitude: 40.929
+Distance: 79.0Latitude: 43.686Longtitude: 40.875
+Distance: 74.0Latitude: 43.686Longtitude: 40.821
+Distance: 72.0Latitude: 43.686Longtitude: 40.795
+Distance: 68.0Latitude: 43.686Longtitude: 40.741
+Distance: 64.0Latitude: 43.686Longtitude: 40.687
+Distance: 61.0Latitude: 43.686Longtitude: 40.634
+Distance: 59.0Latitude: 43.686Longtitude: 40.607
+Distance: 55.0Latitude: 43.686Longtitude: 40.554
+Distance: 55.0Latitude: 43.686Longtitude: 40.554
+Distance: 51.0Latitude: 43.688Longtitude: 40.501
+Distance: 48.0Latitude: 43.688Longtitude: 40.448
+Distance: 44.0Latitude: 43.688Longtitude: 40.399
+Distance: 41.0Latitude: 43.688Longtitude: 40.35
+Distance: 38.0Latitude: 43.688Longtitude: 40.3
+Distance: 37.0Latitude: 43.688Longtitude: 40.276
+Distance: 34.0Latitude: 43.688Longtitude: 40.227
+Distance: 32.0Latitude: 43.688Longtitude: 40.178
+Distance: 30.0Latitude: 43.688Longtitude: 40.128
+Distance: 28.0Latitude: 43.688Longtitude: 40.079
+Distance: 28.0Latitude: 43.688Longtitude: 40.055
+Distance: 27.0Latitude: 43.688Longtitude: 40.03
+Distance: 27.0Latitude: 43.688Longtitude: 40.03
+Distance: 27.0Latitude: 43.688Longtitude: 40.03
+Distance: 27.0Latitude: 43.688Longtitude: 40.03
+
+Callsign: AFL1176
+Flight model: Airbus A321-211
+Date: 2023-10-12 16:15:31.023943
+
+Runway: N/A
+Distance: 198.0Latitude: 43.674Longtitude: 42.394
+Distance: 193.0Latitude: 43.675Longtitude: 42.335
+Distance: 188.0Latitude: 43.676Longtitude: 42.27
+Distance: 184.0Latitude: 43.677Longtitude: 42.218
+Distance: 179.0Latitude: 43.678Longtitude: 42.16
+Distance: 175.0Latitude: 43.678Longtitude: 42.11
+Distance: 170.0Latitude: 43.679Longtitude: 42.037
+Distance: 169.0Latitude: 43.679Longtitude: 42.035
+Distance: 161.0Latitude: 43.681Longtitude: 41.933
+Distance: 161.0Latitude: 43.681Longtitude: 41.927
+Distance: 153.0Latitude: 43.681Longtitude: 41.834
+Distance: 146.0Latitude: 43.682Longtitude: 41.739
+Distance: 144.0Latitude: 43.683Longtitude: 41.712
+Distance: 139.0Latitude: 43.683Longtitude: 41.653
+Distance: 135.0Latitude: 43.683Longtitude: 41.603
+Distance: 131.0Latitude: 43.683Longtitude: 41.545
+Distance: 126.0Latitude: 43.683Longtitude: 41.488
+Distance: 122.0Latitude: 43.683Longtitude: 41.432
+Distance: 117.0Latitude: 43.683Longtitude: 41.376
+Distance: 112.0Latitude: 43.682Longtitude: 41.315
+Distance: 110.0Latitude: 43.68Longtitude: 41.282
+Distance: 105.0Latitude: 43.673Longtitude: 41.217
+Distance: 122.0Latitude: 43.685Longtitude: 41.433
+Distance: 114.0Latitude: 43.685Longtitude: 41.339
+Distance: 110.0Latitude: 43.685Longtitude: 41.282
+Distance: 104.0Latitude: 43.687Longtitude: 41.209
+Distance: 100.0Latitude: 43.687Longtitude: 41.149
+Distance: 95.0Latitude: 43.687Longtitude: 41.095
+Distance: 91.0Latitude: 43.687Longtitude: 41.041
+Distance: 88.0Latitude: 43.687Longtitude: 41.0
+Distance: 84.0Latitude: 43.687Longtitude: 40.946
+Distance: 80.0Latitude: 43.687Longtitude: 40.894
+Distance: 76.0Latitude: 43.687Longtitude: 40.842
+Distance: 74.0Latitude: 43.687Longtitude: 40.816
+Distance: 70.0Latitude: 43.687Longtitude: 40.764
+Distance: 66.0Latitude: 43.687Longtitude: 40.713
+Distance: 63.0Latitude: 43.687Longtitude: 40.661
+Distance: 59.0Latitude: 43.687Longtitude: 40.609
+Distance: 57.0Latitude: 43.687Longtitude: 40.583
+Distance: 53.0Latitude: 43.687Longtitude: 40.532
+Distance: 65.0Latitude: 43.688Longtitude: 40.695
+Distance: 61.0Latitude: 43.688Longtitude: 40.645
+Distance: 60.0Latitude: 43.688Longtitude: 40.623
+Distance: 57.0Latitude: 43.688Longtitude: 40.58
+Distance: 54.0Latitude: 43.688Longtitude: 40.537
+Distance: 51.0Latitude: 43.688Longtitude: 40.494
+Distance: 48.0Latitude: 43.688Longtitude: 40.45
+Distance: 46.0Latitude: 43.688Longtitude: 40.429
+Distance: 17.0Latitude: 43.595Longtitude: 40.033
+Distance: 17.0Latitude: 43.595Longtitude: 40.033
+Distance: 10.0Latitude: 43.536Longtitude: 39.917
+Distance: 12.0Latitude: 43.536Longtitude: 39.859
+Distance: 6.0Latitude: 43.487Longtitude: 39.899
+Distance: 9.0Latitude: 43.487Longtitude: 39.861
+Distance: 11.0Latitude: 43.487Longtitude: 39.827
+Distance: 14.0Latitude: 43.487Longtitude: 39.794
+Distance: 15.0Latitude: 43.487Longtitude: 39.777
+Distance: 18.0Latitude: 43.487Longtitude: 39.744
+Distance: 18.0Latitude: 43.487Longtitude: 39.744
+Distance: 18.0Latitude: 43.487Longtitude: 39.744
+Distance: 18.0Latitude: 43.487Longtitude: 39.744
+
+Callsign: RWZ4336
+Flight model: Sukhoi Superjet 100-95LR
+Date: 2023-10-12 16:44:46.005863
+
+Runway: N/A
+Distance: 200.0Latitude: 43.593Longtitude: 42.429
+Distance: 196.0Latitude: 43.596Longtitude: 42.383
+Distance: 192.0Latitude: 43.6Longtitude: 42.33
+Distance: 187.0Latitude: 43.604Longtitude: 42.268
+Distance: 183.0Latitude: 43.608Longtitude: 42.214
+Distance: 178.0Latitude: 43.611Longtitude: 42.159
+Distance: 174.0Latitude: 43.615Longtitude: 42.106
+Distance: 169.0Latitude: 43.618Longtitude: 42.044
+Distance: 165.0Latitude: 43.621Longtitude: 41.992
+Distance: 160.0Latitude: 43.621Longtitude: 41.93
+Distance: 156.0Latitude: 43.621Longtitude: 41.878
+Distance: 152.0Latitude: 43.621Longtitude: 41.831
+Distance: 147.0Latitude: 43.62Longtitude: 41.768
+Distance: 143.0Latitude: 43.62Longtitude: 41.717
+Distance: 138.0Latitude: 43.619Longtitude: 41.651
+Distance: 133.0Latitude: 43.618Longtitude: 41.593
+
+Callsign: AZO789
+Flight model: Sukhoi Superjet 100-95LR
+Date: 2023-10-12 16:45:07.580082
+
+Runway: N/A
+Distance: 197.0Latitude: 43.906Longtitude: 42.321
+Distance: 193.0Latitude: 43.899Longtitude: 42.271
+Distance: 188.0Latitude: 43.891Longtitude: 42.215
+Distance: 185.0Latitude: 43.884Longtitude: 42.173
+Distance: 180.0Latitude: 43.876Longtitude: 42.118
+Distance: 176.0Latitude: 43.87Longtitude: 42.07
+Distance: 172.0Latitude: 43.864Longtitude: 42.015
+Distance: 168.0Latitude: 43.86Longtitude: 41.97
+Distance: 164.0Latitude: 43.855Longtitude: 41.916
+Distance: 160.0Latitude: 43.851Longtitude: 41.866
+Distance: 157.0Latitude: 43.847Longtitude: 41.824
+Distance: 152.0Latitude: 43.843Longtitude: 41.772
+Distance: 149.0Latitude: 43.84Longtitude: 41.732
+Distance: 145.0Latitude: 43.835Longtitude: 41.677
+Distance: 141.0Latitude: 43.831Longtitude: 41.634
+
